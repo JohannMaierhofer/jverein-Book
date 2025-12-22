@@ -3,6 +3,7 @@
 <picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/400_EinstellungenReports.png" alt="" /></picture>
 
 Der Dialog enthält folgende Konfigurationsmöglichkeiten:
+* Zeige Kontonummer in der Buchungsliste (PDF Einzelbuchungen)
 * Wirtschaftsplan Ist-Beträge von laufendem Zeitraum ausgeben. Macht man z.B. einen Rechnungsabschluss für das letzte Jahr mit einem Plan für das aktuelle Jahr möchte man evtl. bereits aufgelaufene Ist-Werte des aktuellen Jahres nicht im Bericht haben
 * Hintergrund bei Reports: Hier kann ein Hintergrund für Reports ausgewählt werden. Das entsprechende Formular muss vorher bei den Formularen unter der Art Hintergrund/Vordergrund eingerichtet werden
 * Vordergrund bei Reports: Hier kann ein Vordergrund für Reports ausgewählt werden. Das entsprechende Formular muss vorher bei den Formularen unter der Art Hintergrund/Vordergrund eingerichtet werden

@@ -33,13 +33,14 @@ Es gibt eine zentrale Übersicht über alle Rechnungen. Die Rechnungen können �
 
 Zudem lässt sich filtern ob das Mitglied per Lastschrift zahlt oder eine Mail Adresse hat. Letzteres ist interessant wenn die Rechnungen per Mail versendet werden sollen.
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_RechnungenListeView.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/400_RechnungenListeView.png" alt="" /></picture>
 
 Durch einen Doppelklick auf die Rechnung wird die Rechnung angezeigt.
 
 Durch einen Rechtsklick auf eine Rechnung öffnet sich ein Kontextmenü mit mehreren Optionen:
 
-* Anzeigen: Zeigt die Rechnung an
+* Bearbeiten: Zeigt die Rechnung an
+* Versanddatum setzen: Setzen bzw. Löschen des Versanddatum
 * Löschen: Löschen der selektierten Rechnungen
 * Mitglied anzeigen: Öffnet das Mitglied zur Rechnung
 * Druck und Mail: Wechselt in den Dialog zum Drucken und Mailen der Rechnung, siehe [Rechnungen](../druckmail/rechnungen.md)
@@ -49,7 +50,7 @@ Durch einen Rechtsklick auf eine Rechnung öffnet sich ein Kontextmenü mit mehr
 
 Mit einem Doppelklick auf die Rechnung oder Klick auf Anzeigen wird die Rechnung angezeigt.
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_RechnungView.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/400_RechnungView.png" alt="" /></picture>
 
 Folgende Buttons stehen zu Verfügung:
 

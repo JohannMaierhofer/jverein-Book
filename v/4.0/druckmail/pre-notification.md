@@ -26,7 +26,7 @@ Mit einem Rechtsklick auf den entsprechenden Eintrag öffnet sich der Dialog, mi
 
 In diesem Fall wählt man den Abrechnungslauf für den die Pre-Notifications erzeugt werden sollen im Dialog aus.
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_PrenotificationDruckMailView2.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/400_PrenotificationDruckMailView2.png" alt="" /></picture>
 
 Der View besitzt folgende Buttons:
 
@@ -45,9 +45,25 @@ Mit einem Rechtsklick auf eine oder mehrere Lastschriften öffnet sich ein Konte
 
 Diese Option hat den Vorteil, dass man einzelne Lastschriften auswählen kann. Da bei wiederkehrenden Lastschriften eine Pre-Notification nur beim ersten Mal notwendig ist, kann man hier nur die Mitglieder auswählen die neu hinzugekommen sind oder bei denen sich etwas geändert hat.
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_LastschriftenListeView.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/400_LastschriftenListeView.png" alt="" /></picture>
 
-## Dialog bei Aufruf über Abrechnungsläufe oder Lastschriften
+## Dialog bei Aufruf über Abrechnungsläufe
+
+In diesem Fenster kann die Pre-Notification erstellt werden, und zwar auf der Karte Mail + PDF .
+
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/400_PrenotificationDruckMailView3.png" alt="" /></picture>
+
+Der View besitzt folgende Buttons:
+
+* Mail Vorlage: Öffnet den Auswahldialog zur Übernahme von Vorlagen
+* Variablen anzeigen: Öffnet den Dialog der die Variablen anzeigt, die für den aktuellen Report geeignet sind. Diese lassen sich zum Kopieren in die Zwischenablage auswählen, um sie dann in den Text zu platzieren
+* Vorschau: Zeigt eine Vorschau des Mail Textes. Wird ein Mitglied ausgewählt, dann werden seine Daten verwendet
+* Als Vorlage übernehmen: Übernimmt den aktuellen Text als Vorlage. Eine bestehende Vorlage lässt sich überschreiben z.B. wenn sie geändert wurde
+* Empfänger Liste: Zeigt einen Dialog mit der Liste aller Empfänger für die Pre-Notifikationen generiert oder verschickt werden
+* Starten: Startet die Ausgabe
+
+
+## Dialog bei Aufruf über Lastschriften
 
 In diesem Fenster kann die Pre-Notification erstellt werden, und zwar auf der Karte Mail + PDF .
 

@@ -1,6 +1,6 @@
 # Buchführung
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_Buchfuehrung.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/400_Buchfuehrung.png" alt="" /></picture>
 
 Hier sind folgende Eingaben nötig bzw. möglich:
 
@@ -9,7 +9,6 @@ Hier sind folgende Eingaben nötig bzw. möglich:
 * Automatische Übernahme von Buchungen aus Hibiscus (Standard: aktiviert)
 * Automatische Korrektur der Verwendungszwecke aus Hibiscus Buchungen
 * Geprüft Markierung mit Hibiskus synchronisieren
-* Zeige Kontonummer in der Buchungsliste (PDF Einzelbuchungen)
 * Umsatzsteuer Support (Neustart erforderlich)\
   Diese Option aktiviert die Möglichkeit Steuer Daten einzugeben (siehe [Steuer](../admbuchf/steuer.md)) und eine Umsatzsteuer Voranmeldung (siehe [Umsatzsteuer Voranmeldung](../../buchf/umsatzsteuersaldo.md)) zu bekommen. Damit lassen sich in Buchungsarten bzw. Buchungen die Steuersätze hinterlegen und über die Umsatzsteuer Voranmeldung z.B. feststellen wie hoch die Umsatzsteuer pflichtigen Umsätze sind. In der Buchungsliste wird auch ein Netto Betrag ausgewiesen. Dieser hat aber noch keine Bedeutung solange die Option Umsatzsteuer Pflicht nicht aktiviert ist
 * Umsatzsteuer Pflicht\

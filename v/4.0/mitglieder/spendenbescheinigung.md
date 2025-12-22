@@ -72,7 +72,7 @@ Möchte man also Spendenbescheinigungen per Mail verschicken geht das nur für e
 
 Mit der Option "Sachspende oder Geldspende mit Erstattungsverzicht" erhält man alle Spendenbescheinigungen für die keine Unterschrift gedruckt wird. Diese müssen ausgedruckt und per Hand unterschrieben werden.
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_SpendenbescheinigungenListeView.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/400_SpendenbescheinigungenListeView.png" alt="" /></picture>
 
 Folgende Buttons stehen zu Verfügung:
 
@@ -87,6 +87,7 @@ In der Liste können ein oder mehrere Einträge markiert werden.
 Das Kontextmenü bietet folgende Optionen:
 
 * Bearbeiten: Der ausgewählte Eintrag wird zum Bearbeiten geöffnet
+* Versanddatum setzen: Setzen bzw. Löschen des Versanddatum
 * Löschen: Damit kann eine Spendenbescheinigung(en) gelöscht werden
 * Mitglied anzeigen: Öffnet das Mitglied zur Spendenbescheinigung
 * PDF: Drucken der Spendenbescheinigung(en) als PDF
@@ -99,7 +100,7 @@ Sind mehrere Einträge markiert, wird die Aktion auf alle markierten Einträge a
 
 Mit einem Klick auf Bearbeiten öffnet sich folgender Dialog:
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_SpendenbescheinigungView.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/400_SpendenbescheinigungView.png" alt="" /></picture>
 
 Folgende Buttons stehen zu Verfügung:
 

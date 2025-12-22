@@ -11,7 +11,7 @@ Damit die Änderung wirksam wird, starten Sie die Software anschließend neu.
 
 ## Liste der Wirtschaftspläne
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_planung_list.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/400_planung_list.png" alt="" /></picture>
 
 In dieser Übersicht werden alle bestehenden Wirtschaftspläne sowie die folgenden Kenndaten angezeigt:
 - Bezeichnung
@@ -39,9 +39,12 @@ In der Übersicht sehen Sie die folgenden Kenndaten, die Sie bei Bedarf anpassen
 
 ## Baumansicht der Planungsdaten
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_planung_tree.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/400_planung_tree.png" alt="" /></picture>
 
 Die Planungsdaten werden in einer Baumansicht angezeigt. Zur besseren Übersicht sind sie in Einnahmen und Ausgaben unterteilt. Die Zuordnung erfolgt gemäß der Definition der Buchungsarten. Da sich Umbuchungen gegenseitig aufheben, können sie nicht in die Planung aufgenommen werden.
+
+Falls in den Einstellungen die Rücklagen Option aktiviert ist wird ein dritter Baum angezeigt.
+
 Die Baumansicht besteht aus drei Ebenen, die der Buchführungsstruktur von OpenJVerein entsprechen.
 
 ### Buchungsklasse
@@ -59,6 +62,5 @@ Da Planungspositionen nicht direkt in den Buchungen gespeichert werden, ist ein 
 In der Detailansicht stehen am unteren Rand diese Bedienelemente zur Verfügung:
 Hilfe: Öffnet diese Seite
 Pfeile vor/zurück: Wechselt durch die verfügbaren Wirtschaftspläne
-CSV: Exportiert die Planungsdaten als CSV-Datei
-Export: Erstellt einen PDF-Export des Wirtschaftsplans. Über Administration -> Einstellungen -> Buchführung lässt sich konfigurieren, ob die Ist-Beträge für den laufenden Zeitraum mit ausgegeben werden sollen.
+Export: Es lassen sich zwei Arten von PDF-Exports des Wirtschaftsplans und ein CSV Export auswählen. Über Administration -> Einstellungen -> Reports lässt sich konfigurieren, ob die Ist-Beträge für den laufenden Zeitraum mit ausgegeben werden sollen.
 Speichern: Speichert Änderungen am Wirtschaftsplan in der Datenbank.
