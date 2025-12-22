@@ -9,7 +9,7 @@ Hier sind folgende Eingaben nötig bzw. möglich:
 * Automatische Übernahme von Buchungen aus Hibiscus (Standard: aktiviert)
 * Automatische Korrektur der Verwendungszwecke aus Hibiscus Buchungen
 * Geprüft Markierung mit Hibiskus synchronisieren
-* Umsatzsteuer Support (Neustart erforderlich)\
+* Umsatzsteuer Support (Neustart erforderlich bei verwendung von Jameica < 2.12.0)\
   Diese Option aktiviert die Möglichkeit Steuer Daten einzugeben (siehe [Steuer](../admbuchf/steuer.md)) und eine Umsatzsteuer Voranmeldung (siehe [Umsatzsteuer Voranmeldung](../../buchf/umsatzsteuersaldo.md)) zu bekommen. Damit lassen sich in Buchungsarten bzw. Buchungen die Steuersätze hinterlegen und über die Umsatzsteuer Voranmeldung z.B. feststellen wie hoch die Umsatzsteuer pflichtigen Umsätze sind. In der Buchungsliste wird auch ein Netto Betrag ausgewiesen. Dieser hat aber noch keine Bedeutung solange die Option Umsatzsteuer Pflicht nicht aktiviert ist
 * Umsatzsteuer Pflicht\
   Über diese Option wird festgelegt, ob man als Verein Umsatzsteuer pflichtig ist. Diese Option ist nur verfügbar wenn auch Umsatzsteuer Support aktiviert ist. Ist diese Option aktiv wird die Steuer in den Salden Reports wie z.B. dem Buchungsklassensaldo explizit ausgewiesen. Es werden also die Beträge intern in die Nettobeträge und Steuer Beträge automatisch gesplittet. Auch werden die Steuern in den Rechnungen ausgewiesen.\

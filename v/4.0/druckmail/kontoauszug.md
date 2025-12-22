@@ -32,6 +32,8 @@ Der Filter Bereich bietet folgende Optionen:
 
 Im Parameter Feld "Ausgabe" lässt sich wählen ob die Kontoauszüge als PDF gedruckt oder per Mail verschickt werden sollen.
 
+Im Parameter Feld "PDF als" lässt sich auswählen ob eine PDF Datei erstellt werden soll oder für jedes Mitglied eine eigene Datei.
+
 Im Falle des Mail Versand sind die Felder Betreff und Text auszufüllen.
 
 Der View besitzt folgende Buttons:

@@ -26,6 +26,8 @@ Im Parameter Feld "Formular" ist ein Formular auszuwählen. Dieses muss gegebene
 
 Im Parameter Feld "Ausgabe" lässt sich wählen ob die Mahnungen als PDF gedruckt oder per Mail verschickt werden sollen.
 
+Im Parameter Feld "PDF als" lässt sich auswählen ob eine PDF Datei erstellt werden soll oder für jedes Mitglied eine eigene Datei.
+
 Im Falle des Mail Versand sind die Felder Betreff und Text auszufüllen.
 
 Der View besitzt folgende Buttons:
@@ -51,9 +53,11 @@ Der Filter Bereich bietet folgende Optionen:
 
 * Name: Der Name eine Mitglieds
 * Differenz: Bei "Fehlbetrag" werden nur Kontoauszüge für Mitglieder erstellt wenn ein Fehlbetrag vorliegt und bei "Überzahlung" nur wenn überzahlt wurde. Bei "Egal" wird nicht auf den Betrag geprüft
+* Differenz Limit: Spezifiziert um welchen Betrag das Limit überschritten sein muss. Das Vorzeichen wird hier ignoriert
 * Ohne Abbucher: Schließt Mitglieder die per Lastschrift bezahlen aus
 * Datum von/bis: Es werden nur Mitgliedskonten Einträge im gewählten Zeitraum berücksichtigt
 * Mail: Hier lässt sich auswählen ob nur Mitglieder mit Mailadresse, ohne Mailadresse oder unabhängig von einer Mailadresse ausgewählt werden
+* Versand: Hier lässt sich auswählen ob alle, nur versendete oder nicht versendete  Rechnungen berücksichtigt werden sollen
 
 Der View besitzt folgende Buttons:
 
