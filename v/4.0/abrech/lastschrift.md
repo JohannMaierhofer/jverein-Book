@@ -6,7 +6,7 @@ Entsprechend der Abbuchungsausgabe wurden diese entweder an Hibiscus übergeben 
 
 ## Liste der Lastschriften
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_LastschriftenListeView.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/400_LastschriftenListeView.png" alt="" /></picture>
 
 Die Lastschriften lassen sich in dem View nach verschiedenen Kriterien filtern. Mit dem Filter Mitgliedschaft lässt sich nach Mitglieder, Nicht-Mitglieder oder Kursteilnehmer filtern.
 
@@ -14,7 +14,8 @@ Die Lastschrifteinträge werden für die Generierung der Pre-Notificationen verw
 
 Mit einem Rechtsklick auf einen oder mehrere selektierte Tabelleneinträge öffnet sich ein Menü mit folgenden Einträgen:
 
-* Anzeigen: Zeigt die Lastschrift an
+* Bearbeiten: Zeigt die Lastschrift an
+* Versanddatum setzen: Setzen bzw. Löschen des Versanddatum
 * Pre-Notification: Zeigt den Dialog zur Generierung von Pre-Notifications an
 * Löschen: Damit können alte Einträge wenn sie aus Dokumentationszwecken nicht mehr gebraucht werden gelöscht werden
 * Mitglied anzeigen: Zeigt die Mitglieder Daten an
@@ -29,4 +30,4 @@ Auch sollten Lastschriften der letzten 3 Jahre nicht gelöscht werden, da für d
 
 ## Lastschrift
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_LastschriftView.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/400_LastschriftView.png" alt="" /></picture>

@@ -68,6 +68,20 @@ Die Konfiguration für den abweichenden Zahler wurde jetzt in der 4.0 neu implem
 *  Bei den Kontodaten gibt es das optionale Feld "Kontoinhaber". Weicht der Kontoinhaber vom Namen und Vornamen des Mitglied ab kann hier die genaue Bezeichnung eingegeben werden z.B. bei einem Gemeinschaftskonto. In diesem Fall muss kein Nicht-Mitglied erzeugt werden. Es wird aber davon ausgegangen, dass das Mitglied Mit-/Inhaber ist, weil dann das Mitglied als Zahler in der Sollbuchung steht und z.B. Spendenbescheinigungen in diesem Fall auf das Mitglied ausgestellt werden
 *  Standard mäßig werden auch Zusatzbeiträge wie Beiträge über den alternativen Zahler verbucht. Will man Zusatzbeiträge jedoch abweichend davon vom Mitglied zahlen lassen, kann dies durch die neue Checkbox "Mitglied zahlt selbst" im Zusatzbetrag ausgewählt werden. In diesem Fall müssen natürlich auch die benötigten Kontodaten beim Mitglied eingetragen sein, z.B. IBAN bei Lastschriften
 
+### Erweiterungen bei Wirtschaftsplan
+
+* Die Planung der Rücklagen kann über einen eigenen Baum durchgeführt werden
+* Die Rücklagen Daten sind in den Exports aufgelistet
+* Neben dem nach Einnahmen und Ausgaben sortierten PDF Report wird auch ein nach Buchungsklassen sortierter Report unterstützt
+* Der CSV Export unterstützt jetzt auch mehrere Wirtschaftspläne
+
+### Versanddatum
+
+* Bei Rechnungen, Spendenbescheinigungen und Lastschriften (Pre-Notification) wird ein Versanddatum unterstützt
+* Das Versanddatum kann im jeweiligen Liste und Detail View editiert werden
+* Das Versanddatum wird automatisch bei einem Mailversand gesetzt
+* In den Liste Views und Druck & Mail Views lässt sich nach versendeten oder noch nicht versendeten Einträgen filtern
+
 
 ## Kleinere Korrekturen und Erweiterungen
 
@@ -86,13 +100,32 @@ Die Konfiguration für den abweichenden Zahler wurde jetzt in der 4.0 neu implem
 * Der Dialog erlaubt es auch nur einzelne Attribute zu setzen und andere unmodifiziert zu lassen
 * Der extra Dialog zu setzen der Steuer wurde entfernt
 
-### 
+### VOP Close-Match Namen in Kontoinhaber übernehmen
 
-* 
+* Bei Hibiscus gibt es bei VOP-close-match einen Dialog um den geänderten Namen im Auftrag und Adressbuch zu übernehmen. Mit diesem PR wird der Name auch bei JVerein als Kontoinhaber eingetragen, sofern die Adressbuch Checkbox ausgewählt ist
 
+### UnreadCounter
+
+* Bei Sollbuchungen, Rechnungen, Zusatzbeträgen und Wiedervorlagen wird im Navigationsbaum die Anzahl der fälligen Einträge angezeigt
+
+### Buchungsklasse und Buchungsart als String
+
+* Buchungsklasse und Buchungsart sind jetzt Strings, damit können führende Nullen eingegeben werden
 
 
 ## Sonstiges
 
 * Die Spalte Mandat-Id wurde in die Mitglieder Liste aufgenommen
+* Für Pre-Notification Dateinamen für Kursteilnehmer gibt es eine eigene Vorlage
+* Tooltip bei Buchungsliste Betrag Input
+* Bank Name Variable bei Rechnungen unterstützen
+* Bei Sachspenden wurde das Feld für Bezeichnung auf 100 Zeichen erweitert
+* Bei Auswertung Nicht-Mitglieder ist auch die Option "Alle" bei Mitgliedstyp unterstützt
+* Mitglied zahlt selbst Attribut bei Zusatzbetrag Import unterstützt
+* Option zum Druck einzelner Dateien bei Rechnung, Mahnung, Kontoauszug und Freie Formulare
+*  Einstellungen Eintrag für "Zeige Kontonummer in Buchungsliste" von Buchführung nach Reports verschoben
+*  Die zukünftige Beitragsgruppe lässt sich jetzt in den Einstellungen -> Anzeige freischalten und ausblenden
+*  Spalte mandatid in Mitglieder Liste aufgenommen
+*  Mitglied Id beim Speichern eines neuen Mitglieds anzeigen
+
 

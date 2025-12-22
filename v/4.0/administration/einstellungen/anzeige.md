@@ -1,6 +1,6 @@
 # Anzeige
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/400_Anzeige.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/400_EinstellungenAnzeige.png" alt="" /></picture>
 
 Durch die Einstellungen kann das Verhalten von JVerein beeinflusst werden.
 
@@ -50,6 +50,7 @@ Hier kann eingestellt werden welche Information bei Mitgliedern verfügbar ist:
 * Kommunikationsdaten: Beim Mitglied können folgende Kommunikationsdaten gepflegt werden: Private Telefonnummer, Handynummer, Dienstliche Telefonnummer, E-Mail Adresse
 * Mitgliedsfoto: Zu jedem Mitglied kann ein Foto gespeichert werden
 * Sekundäre Beitragsgruppen: Sekundäre Beitragsgruppen werden angeboten
+* Zukünftige Beitragsgruppen: Zukünftige Beitragsgruppen werden angeboten
 * Sterbedatum: Das Eingabefeld für das Sterbedatum ist vorhanden und auswertbar
 * Vermerke: Tab Vermerke beim Mitglied anzeigen. Beim Mitglied können 2 mal 255 Zeichen Vermerke gespeichert werden
 
