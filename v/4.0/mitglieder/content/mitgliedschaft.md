@@ -10,11 +10,13 @@ In Administration->Einstellungen->Anzeige lässt sich einstellen, ob Eintrittsda
 
 ## Sekundäre Beitragsgruppen
 
-Für ein Mitglied können auch Beiträge aus mehreren Beitragsgruppen abgerechnet werden. Dazu muss unter Administration->Einstellungen->Anzeige das Häkchen bei "sekundäre Beitragsgruppen anzeigen" gesetzt werden und unter Administration->Beitragsgruppen muss für mindestens eine Beitragsgruppe das Häkchen "sekundäre Beitragsgruppe" gesetzt werden. Dann kann beim Mitglied eine entsprechende Auswahl vorgenommen werden.
+Für ein Mitglied können auch Beiträge aus mehreren Beitragsgruppen abgerechnet werden. Dazu muss unter Administration->Einstellungen->Anzeige das Häkchen bei "Sekundäre Beitragsgruppen anzeigen" gesetzt werden und unter Administration->Beitragsgruppen muss für mindestens eine Beitragsgruppe das Häkchen "Sekundäre Beitragsgruppe" gesetzt werden. Dann kann beim Mitglied eine entsprechende Auswahl vorgenommen werden.
 
 <picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/400_SekundaereBeitragsGruppen.png" alt="" /></picture>
 
 ## Familienverband
+
+Ein Mitglied kann einem Familienverband zugeordnet werden. Dazu muss unter Administration->Einstellungen->Anzeige das Häkchen bei "Familienbeitrag" gesetzt werden
 
 Sofern eine Beitragsgruppe ausgewählt wurde, die mit "Familienangehöriger" gekennzeichnet ist, wird folgendes Formular angezeigt.
 
@@ -22,7 +24,7 @@ Die Person (ebenfalls ein Mitglied), die im Familienverband den vollen Beitrag z
 
 <picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/400_VollZahler.png" alt="" /></picture>
 
-Im Tab "Familienverband" werden die Personen angezeigt, die am Familienverband beteiligt sind.
+Im Tab "Familienmitglieder" werden die Personen angezeigt, die am Familienverband beteiligt sind.
 
 <picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/400_FamilienVerband.png" alt="" /></picture>
 
@@ -33,6 +35,8 @@ Dann sind die Beitragsgruppen der Familienmitglieder zu verändern oder es ist e
 Siehe auch: [Familientarife](../../../../allgemein/familientarife.md)
 
 ## Zukünftige Beitragsgruppen
+
+Für ein Mitglied können zukünftige Beitragsgruppen eingerichtet werden. Dazu muss unter Administration->Einstellungen->Anzeige das Häkchen bei "Zukünftige Beitragsgruppen anzeigen" gesetzt werden.
 
 <picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/400_ZukuenftigeBeitragsGruppen.png" alt="" /></picture>
 

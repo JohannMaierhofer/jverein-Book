@@ -10,6 +10,8 @@ Im Parameter Feld "Formular" ist ein freies Formular auszuwählen. Dieses muss g
 
 Im Parameter Feld "Ausgabe" lässt sich wählen ob das Formular als PDF gedruckt oder per Mail verschickt werden soll.
 
+Im Parameter Feld "PDF als" lässt sich auswählen ob eine PDF Datei erstellt werden soll oder für jedes Mitglied eine eigene Datei.
+
 Im Falle des Mail Versand sind die Felder Betreff und Text auszufüllen.
 
 Der View besitzt folgende Buttons:
