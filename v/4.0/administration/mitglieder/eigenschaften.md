@@ -10,7 +10,7 @@ Jeder Eigenschaft ist eine [Eigenschaftengruppe ](eigenschaften-gruppen.md)zuzuo
 
 ## Liste der Eigenschaften
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_Eigenschaften.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/400_Eigenschaften.png" alt="" /></picture>
 
 Mit Neu kann eine neue Eigenschaft eingerichtet werden.
 
@@ -23,12 +23,11 @@ Das Kontextmenü bietet folgende Optionen:
 
 ## Eigenschaft
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_Eigenschaft.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/400_Eigenschaft.png" alt="" /></picture>
 
-### Bezeichnung
 
-Name der Eigenschaft.
+Folgende Attribute sind vorhanden:
 
-### Gruppe
-
-Zugeordnete Eigenschaftengruppe.
+* Name: Name der Eigenschaft wie sie in den Mails, Formularen und Import/Export verwendet werden. Diese dürfen nur die Zeichen a..z, 0..9 und _ enthalten
+* Bezeichnung: Name der am GUI von JVerein angezeigt wird. Hier gibt es keine Zeichen Beschränkung
+* Gruppe: Zugeordnete Eigenschaften Gruppe
