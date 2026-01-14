@@ -21,7 +21,7 @@ Das Kontextmenü bietet folgende Optionen:
 
 Folgende Attribute sind vorhanden:
 
-* Name: Name der Eigenschaft wie sie in den Mails, Formularen und Import/Export verwendet werden. Diese dürfen nur die Zeichen a..z, 0..9 und _ enthalten
+* Name: Name der Eigenschaft wie sie in den Mails, Formularen und Import/Export verwendet werden. Diese dürfen nur die Zeichen a-z, 0-9 und _ (Unterstrich) enthalten. Er darf keine Leerzeichen enthalten und sich nicht mit existierenden Namen überschneiden
 * Bezeichnung: Name der am GUI von JVerein angezeigt wird. Hier gibt es keine Zeichen Beschränkung
 * Pflicht: Den Eigenschaften-Gruppen gibt man mit, ob sie Pflichtfelder sind (es muss eine Eigenschaft dazu beim Mitglied angewählt werden) oder Kann-Felder (es kann eine Eigenschaft beim Mitglied angewählt werden)
 * Maximal 1 Eigenschaft: Weiterhin kann man anwählen, ob man max. eine Eigenschaft (in Verbindung mit dem Flag "Pflicht" dann genau eine) anwählen kann.
