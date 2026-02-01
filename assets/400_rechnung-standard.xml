@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects>
+  <object type="de.jost_net.JVerein.server.FormularImpl" id="1">
+    <zaehler type="java.lang.Integer">0</zaehler>
+    <art type="java.lang.Integer">2</art>
+    <bezeichnung type="java.lang.String">Rechnung Standard</bezeichnung>
+    <inhalt type="[B">JVBERi0xLjcKJcOkw7zDtsOfCjIgMCBvYmoKPDwvTGVuZ3RoIDMgMCBSL0ZpbHRlci9GbGF0ZURl
+Y29kZT4+CnN0cmVhbQp4nDPQM1Qo59J3LCrJTEtMLlFw8nXmKlQwUDDQMzCyUDC1NNUzMjdVsDAx
+1LMwM1QoSuUK11LI43IFqgpUAAC+aw3mCmVuZHN0cmVhbQplbmRvYmoKCjMgMCBvYmoKNjcKZW5k
+b2JqCgo2IDAgb2JqCjw8Cj4+CmVuZG9iagoKNyAwIG9iago8PAovRm9udCA2IDAgUgovUHJvY1Nl
+dFsvUERGL1RleHRdCj4+CmVuZG9iagoKMSAwIG9iago8PC9UeXBlL1BhZ2UvUGFyZW50IDUgMCBS
+L1Jlc291cmNlcyA3IDAgUi9NZWRpYUJveFswIDAgNTk1LjMwMzkzNzAwNzg3NCA4NDEuODg5NzYz
+Nzc5NTI4XS9UYWJzL1MKL0NvbnRlbnRzIDIgMCBSPj4KZW5kb2JqCgo0IDAgb2JqCjw8L1R5cGUv
+U3RydWN0RWxlbQovUy9Eb2N1bWVudAovUCA4IDAgUgovUGcgMSAwIFIKPj4KZW5kb2JqCgo4IDAg
+b2JqCjw8L1R5cGUvU3RydWN0VHJlZVJvb3QKL1BhcmVudFRyZWUgOSAwIFIKL0tbNCAwIFIgIF0K
+Pj4KZW5kb2JqCgo5IDAgb2JqCjw8L051bXNbCl0+PgplbmRvYmoKCjUgMCBvYmoKPDwvVHlwZS9Q
+YWdlcwovUmVzb3VyY2VzIDcgMCBSCi9LaWRzWyAxIDAgUiBdCi9Db3VudCAxPj4KZW5kb2JqCgox
+MCAwIG9iago8PC9UeXBlL0NhdGFsb2cvUGFnZXMgNSAwIFIKL1BhZ2VNb2RlL1VzZU91dGxpbmVz
+Ci9PcGVuQWN0aW9uWzEgMCBSIC9YWVogbnVsbCBudWxsIDBdCi9TdHJ1Y3RUcmVlUm9vdCA4IDAg
+UgovTGFuZyhkZS1ERSkKL01hcmtJbmZvPDwvTWFya2VkIHRydWU+Pgo+PgplbmRvYmoKCjExIDAg
+b2JqCjw8L0NyZWF0b3I8RkVGRjAwNTcwMDcyMDA2OTAwNzQwMDY1MDA3Mj4KL1Byb2R1Y2VyPEZF
+RkYwMDRDMDA2OTAwNjIwMDcyMDA2NTAwNEYwMDY2MDA2NjAwNjkwMDYzMDA2NTAwMjAwMDMyMDAz
+NDAwMkUwMDMyPgovQ3JlYXRpb25EYXRlKEQ6MjAyNjAyMDExNzIyNDkrMDEnMDAnKT4+CmVuZG9i
+agoKeHJlZgowIDEyCjAwMDAwMDAwMDAgNjU1MzUgZiAKMDAwMDAwMDI1MiAwMDAwMCBuIAowMDAw
+MDAwMDE5IDAwMDAwIG4gCjAwMDAwMDAxNTcgMDAwMDAgbiAKMDAwMDAwMDM4MyAwMDAwMCBuIAow
+MDAwMDAwNTUzIDAwMDAwIG4gCjAwMDAwMDAxNzYgMDAwMDAgbiAKMDAwMDAwMDE5OCAwMDAwMCBu
+IAowMDAwMDAwNDUyIDAwMDAwIG4gCjAwMDAwMDA1MjQgMDAwMDAgbiAKMDAwMDAwMDYyNiAwMDAw
+MCBuIAowMDAwMDAwNzkzIDAwMDAwIG4gCnRyYWlsZXIKPDwvU2l6ZSAxMi9Sb290IDEwIDAgUgov
+SW5mbyAxMSAwIFIKL0lEIFsgPEQzNEFDRjc4OUY4OEM5NUZBOTRFMjlCOEIzQjZBQjdFPgo8RDM0
+QUNGNzg5Rjg4Qzk1RkE5NEUyOUI4QjNCNkFCN0U+IF0KL0RvY0NoZWNrc3VtIC8xQjhBMTNDRUIx
+RTQyQTk5MDRFNjEzOUNGQkM3NzU3RQo+PgpzdGFydHhyZWYKOTcyCiUlRU9GCg==</inhalt>
+  </object>
+  <object type="de.jost_net.JVerein.server.FormularfeldImpl" id="1">
+    <formular type="java.lang.Integer">1</formular>
+    <name type="java.lang.String">rechnung_empfaenger</name>
+    <x type="java.lang.Double">20.0</x>
+    <y type="java.lang.Double">250.0</y>
+    <fontsize type="java.lang.Integer">10</fontsize>
+    <seite type="java.lang.Integer">1</seite>
+    <font type="java.lang.String">PTSans-Regular</font>
+    <ausrichtung type="java.lang.Integer">0</ausrichtung>
+  </object>
+  <object type="de.jost_net.JVerein.server.FormularfeldImpl" id="2">
+    <formular type="java.lang.Integer">1</formular>
+    <name type="java.lang.String">Rechnung Nr. $rechnung_nummer</name>
+    <x type="java.lang.Double">20.0</x>
+    <y type="java.lang.Double">200.0</y>
+    <fontsize type="java.lang.Integer">10</fontsize>
+    <seite type="java.lang.Integer">1</seite>
+    <font type="java.lang.String">PTSans-Bold</font>
+    <ausrichtung type="java.lang.Integer">0</ausrichtung>
+  </object>
+  <object type="de.jost_net.JVerein.server.FormularfeldImpl" id="3">
+    <formular type="java.lang.Integer">1</formular>
+    <name type="java.lang.String">$verein_ort, den $dateformat.format($rechnung_datum)</name>
+    <x type="java.lang.Double">190.0</x>
+    <y type="java.lang.Double">210.0</y>
+    <fontsize type="java.lang.Integer">10</fontsize>
+    <seite type="java.lang.Integer">1</seite>
+    <font type="java.lang.String">PTSans-Regular</font>
+    <ausrichtung type="java.lang.Integer">1</ausrichtung>
+  </object>
+  <object type="de.jost_net.JVerein.server.FormularfeldImpl" id="4">
+    <formular type="java.lang.Integer">1</formular>
+    <name type="java.lang.String">Zweck
+$rechnung_zahlungsgrund</name>
+    <x type="java.lang.Double">43.0</x>
+    <y type="java.lang.Double">190.0</y>
+    <fontsize type="java.lang.Integer">10</fontsize>
+    <seite type="java.lang.Integer">1</seite>
+    <font type="java.lang.String">PTSans-Regular</font>
+    <ausrichtung type="java.lang.Integer">0</ausrichtung>
+  </object>
+  <object type="de.jost_net.JVerein.server.FormularfeldImpl" id="5">
+    <formular type="java.lang.Integer">1</formular>
+    <name type="java.lang.String">Betrag
+$rechnung_betrag</name>
+    <x type="java.lang.Double">150.0</x>
+    <y type="java.lang.Double">190.0</y>
+    <fontsize type="java.lang.Integer">10</fontsize>
+    <seite type="java.lang.Integer">1</seite>
+    <font type="java.lang.String">PTSans-Regular</font>
+    <ausrichtung type="java.lang.Integer">1</ausrichtung>
+  </object>
+  <object type="de.jost_net.JVerein.server.FormularfeldImpl" id="6">
+    <formular type="java.lang.Integer">1</formular>
+    <name type="java.lang.String">Datum
+$rechnung_buchungsdatum</name>
+    <x type="java.lang.Double">20.0</x>
+    <y type="java.lang.Double">190.0</y>
+    <fontsize type="java.lang.Integer">10</fontsize>
+    <seite type="java.lang.Integer">1</seite>
+    <font type="java.lang.String">PTSans-Regular</font>
+    <ausrichtung type="java.lang.Integer">0</ausrichtung>
+  </object>
+  <object type="de.jost_net.JVerein.server.FormularfeldImpl" id="7">
+    <formular type="java.lang.Integer">1</formular>
+    <name type="java.lang.String">rechnung_zahlungsweg_text</name>
+    <x type="java.lang.Double">20.0</x>
+    <y type="java.lang.Double">70.0</y>
+    <fontsize type="java.lang.Integer">10</fontsize>
+    <seite type="java.lang.Integer">1</seite>
+    <font type="java.lang.String">PTSans-Regular</font>
+    <ausrichtung type="java.lang.Integer">0</ausrichtung>
+  </object>
+  <object type="de.jost_net.JVerein.server.FormularfeldImpl" id="8">
+    <formular type="java.lang.Integer">1</formular>
+    <name type="java.lang.String">$verein_name
+$verein_strasse
+$verein_plz $verein_ort</name>
+    <x type="java.lang.Double">20.0</x>
+    <y type="java.lang.Double">30.0</y>
+    <fontsize type="java.lang.Integer">10</fontsize>
+    <seite type="java.lang.Integer">1</seite>
+    <font type="java.lang.String">PTSans-Regular</font>
+    <ausrichtung type="java.lang.Integer">0</ausrichtung>
+  </object>
+  <object type="de.jost_net.JVerein.server.FormularfeldImpl" id="9">
+    <formular type="java.lang.Integer">1</formular>
+    <name type="java.lang.String">$verein_bank_name
+IBAN: $verein_iban
+BIC: $verein_bic
+#if(!$verein_steuer_nr.isBlank())
+Steuer Nr.: $verein_steuer_nr
+#end
+#if(!$verein_ust_id.isBlank())
+Umsatzsteuer ID: $verein_ust_id
+#end</name>
+    <x type="java.lang.Double">120.0</x>
+    <y type="java.lang.Double">30.0</y>
+    <fontsize type="java.lang.Integer">10</fontsize>
+    <seite type="java.lang.Integer">1</seite>
+    <font type="java.lang.String">PTSans-Regular</font>
+    <ausrichtung type="java.lang.Integer">0</ausrichtung>
+  </object>
+  <object type="de.jost_net.JVerein.server.FormularfeldImpl" id="10">
+    <formular type="java.lang.Integer">1</formular>
+    <name type="java.lang.String">verein_absender</name>
+    <x type="java.lang.Double">20.0</x>
+    <y type="java.lang.Double">255.0</y>
+    <fontsize type="java.lang.Integer">6</fontsize>
+    <seite type="java.lang.Integer">1</seite>
+    <font type="java.lang.String">PTSans-Regular</font>
+    <ausrichtung type="java.lang.Integer">0</ausrichtung>
+  </object>
+</objects>
