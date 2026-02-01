@@ -157,9 +157,7 @@ Hier einige Vorlagen zum so verwenden oder weiter anpassen. Sie können herunter
 
 Einfache Standardrechnung:
 
-{% file src="../../../../assets/400_rechnung-standard.xml" %}
-Einfache Standardrechnung
-{% endfile %}
+{% file src="../../../../assets/400_rechnung-standard.xml" %} Einfache Standardrechnung {% endfile %}
 
 <picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_rechnung-standard.png" alt="" /></picture>
 
