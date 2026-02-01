@@ -157,7 +157,7 @@ Hier einige Vorlagen zum so verwenden oder weiter anpassen. Sie können herunter
 
 Einfache Standardrechnung:
 
-{% file src="../../../../assets/320_rechnung-standard.xml" %}
+{% file src="../../../../assets/400_rechnung-standard.xml" %}
 Einfache Standardrechnung
 {% endfile %}
 
