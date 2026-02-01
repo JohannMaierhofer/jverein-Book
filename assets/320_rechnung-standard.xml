@@ -3,7 +3,7 @@
   <object type="de.jost_net.JVerein.server.FormularImpl" id="55">
     <zaehler type="java.lang.Integer">0</zaehler>
     <art type="java.lang.Integer">2</art>
-    <bezeichnung type="java.lang.String">Rechnung Standart</bezeichnung>
+    <bezeichnung type="java.lang.String">Rechnung Standard</bezeichnung>
     <inhalt type="[B">JVBERi0xLjcKJcOkw7zDtsOfCjIgMCBvYmoKPDwvTGVuZ3RoIDMgMCBSL0ZpbHRlci9GbGF0ZURl
 Y29kZT4+CnN0cmVhbQp4nL2QO6sCMRCF+/yKqW+RPROdbBZCYF+CgoXcwC0uFourooXgsuDfN4gg
 +GjlMM2cmfkOA810UVk5jIddtxmpWtbqTCBoGEdSiDa5kJuydpZp2Kq/HzqpNk1lv2N36ruh9z5b
@@ -192,6 +192,7 @@ RTkKPj4Kc3RhcnR4cmVmCjk1OTAKJSVFT0YK</inhalt>
     <fontsize type="java.lang.Integer">10</fontsize>
     <seite type="java.lang.Integer">1</seite>
     <font type="java.lang.String">PTSans-Regular</font>
+          <ausrichtung type="java.lang.Integer">0</ausrichtung>
   </object>
   <object type="de.jost_net.JVerein.server.FormularfeldImpl" id="581">
     <formular type="java.lang.Integer">55</formular>
@@ -201,6 +202,7 @@ RTkKPj4Kc3RhcnR4cmVmCjk1OTAKJSVFT0YK</inhalt>
     <fontsize type="java.lang.Integer">10</fontsize>
     <seite type="java.lang.Integer">1</seite>
     <font type="java.lang.String">PTSans-Regular</font>
+          <ausrichtung type="java.lang.Integer">0</ausrichtung>
   </object>
   <object type="de.jost_net.JVerein.server.FormularfeldImpl" id="582">
     <formular type="java.lang.Integer">55</formular>
@@ -210,6 +212,7 @@ RTkKPj4Kc3RhcnR4cmVmCjk1OTAKJSVFT0YK</inhalt>
     <fontsize type="java.lang.Integer">10</fontsize>
     <seite type="java.lang.Integer">1</seite>
     <font type="java.lang.String">PTSans-Regular</font>
+          <ausrichtung type="java.lang.Integer">0</ausrichtung>
   </object>
   <object type="de.jost_net.JVerein.server.FormularfeldImpl" id="583">
     <formular type="java.lang.Integer">55</formular>
@@ -219,6 +222,7 @@ RTkKPj4Kc3RhcnR4cmVmCjk1OTAKJSVFT0YK</inhalt>
     <fontsize type="java.lang.Integer">10</fontsize>
     <seite type="java.lang.Integer">1</seite>
     <font type="java.lang.String">PTSans-Regular</font>
+          <ausrichtung type="java.lang.Integer">0</ausrichtung>
   </object>
   <object type="de.jost_net.JVerein.server.FormularfeldImpl" id="584">
     <formular type="java.lang.Integer">55</formular>
@@ -228,6 +232,7 @@ RTkKPj4Kc3RhcnR4cmVmCjk1OTAKJSVFT0YK</inhalt>
     <fontsize type="java.lang.Integer">10</fontsize>
     <seite type="java.lang.Integer">1</seite>
     <font type="java.lang.String">PTSans-Regular</font>
+          <ausrichtung type="java.lang.Integer">0</ausrichtung>
   </object>
   <object type="de.jost_net.JVerein.server.FormularfeldImpl" id="585">
     <formular type="java.lang.Integer">55</formular>
@@ -237,6 +242,7 @@ RTkKPj4Kc3RhcnR4cmVmCjk1OTAKJSVFT0YK</inhalt>
     <fontsize type="java.lang.Integer">10</fontsize>
     <seite type="java.lang.Integer">1</seite>
     <font type="java.lang.String">PTSans-Regular</font>
+          <ausrichtung type="java.lang.Integer">0</ausrichtung>
   </object>
   <object type="de.jost_net.JVerein.server.FormularfeldImpl" id="586">
     <formular type="java.lang.Integer">55</formular>
@@ -246,6 +252,7 @@ RTkKPj4Kc3RhcnR4cmVmCjk1OTAKJSVFT0YK</inhalt>
     <fontsize type="java.lang.Integer">10</fontsize>
     <seite type="java.lang.Integer">1</seite>
     <font type="java.lang.String">PTSans-Regular</font>
+          <ausrichtung type="java.lang.Integer">0</ausrichtung>
   </object>
   <object type="de.jost_net.JVerein.server.FormularfeldImpl" id="587">
     <formular type="java.lang.Integer">55</formular>
@@ -255,6 +262,7 @@ RTkKPj4Kc3RhcnR4cmVmCjk1OTAKJSVFT0YK</inhalt>
     <fontsize type="java.lang.Integer">10</fontsize>
     <seite type="java.lang.Integer">1</seite>
     <font type="java.lang.String">PTSans-Regular</font>
+          <ausrichtung type="java.lang.Integer">0</ausrichtung>
   </object>
   <object type="de.jost_net.JVerein.server.FormularfeldImpl" id="588">
     <formular type="java.lang.Integer">55</formular>
@@ -264,6 +272,7 @@ RTkKPj4Kc3RhcnR4cmVmCjk1OTAKJSVFT0YK</inhalt>
     <fontsize type="java.lang.Integer">10</fontsize>
     <seite type="java.lang.Integer">1</seite>
     <font type="java.lang.String">PTSans-Regular</font>
+          <ausrichtung type="java.lang.Integer">0</ausrichtung>
   </object>
   <object type="de.jost_net.JVerein.server.FormularfeldImpl" id="589">
     <formular type="java.lang.Integer">55</formular>
@@ -273,6 +282,7 @@ RTkKPj4Kc3RhcnR4cmVmCjk1OTAKJSVFT0YK</inhalt>
     <fontsize type="java.lang.Integer">10</fontsize>
     <seite type="java.lang.Integer">1</seite>
     <font type="java.lang.String">PTSans-Regular</font>
+          <ausrichtung type="java.lang.Integer">0</ausrichtung>
   </object>
   <object type="de.jost_net.JVerein.server.FormularfeldImpl" id="590">
     <formular type="java.lang.Integer">55</formular>
@@ -282,6 +292,7 @@ RTkKPj4Kc3RhcnR4cmVmCjk1OTAKJSVFT0YK</inhalt>
     <fontsize type="java.lang.Integer">10</fontsize>
     <seite type="java.lang.Integer">1</seite>
     <font type="java.lang.String">PTSans-Regular</font>
+          <ausrichtung type="java.lang.Integer">0</ausrichtung>
   </object>
   <object type="de.jost_net.JVerein.server.FormularfeldImpl" id="591">
     <formular type="java.lang.Integer">55</formular>
@@ -291,6 +302,7 @@ RTkKPj4Kc3RhcnR4cmVmCjk1OTAKJSVFT0YK</inhalt>
     <fontsize type="java.lang.Integer">10</fontsize>
     <seite type="java.lang.Integer">1</seite>
     <font type="java.lang.String">PTSans-Regular</font>
+          <ausrichtung type="java.lang.Integer">0</ausrichtung>
   </object>
   <object type="de.jost_net.JVerein.server.FormularfeldImpl" id="592">
     <formular type="java.lang.Integer">55</formular>
@@ -300,6 +312,7 @@ RTkKPj4Kc3RhcnR4cmVmCjk1OTAKJSVFT0YK</inhalt>
     <fontsize type="java.lang.Integer">10</fontsize>
     <seite type="java.lang.Integer">1</seite>
     <font type="java.lang.String">PTSans-Regular</font>
+          <ausrichtung type="java.lang.Integer">0</ausrichtung>
   </object>
   <object type="de.jost_net.JVerein.server.FormularfeldImpl" id="593">
     <formular type="java.lang.Integer">55</formular>
@@ -309,6 +322,7 @@ RTkKPj4Kc3RhcnR4cmVmCjk1OTAKJSVFT0YK</inhalt>
     <fontsize type="java.lang.Integer">10</fontsize>
     <seite type="java.lang.Integer">1</seite>
     <font type="java.lang.String">PTSans-Regular</font>
+          <ausrichtung type="java.lang.Integer">0</ausrichtung>
   </object>
   <object type="de.jost_net.JVerein.server.FormularfeldImpl" id="594">
     <formular type="java.lang.Integer">55</formular>
@@ -318,6 +332,7 @@ RTkKPj4Kc3RhcnR4cmVmCjk1OTAKJSVFT0YK</inhalt>
     <fontsize type="java.lang.Integer">10</fontsize>
     <seite type="java.lang.Integer">1</seite>
     <font type="java.lang.String">PTSans-Regular</font>
+          <ausrichtung type="java.lang.Integer">0</ausrichtung>
   </object>
   <object type="de.jost_net.JVerein.server.FormularfeldImpl" id="595">
     <formular type="java.lang.Integer">55</formular>
@@ -327,6 +342,7 @@ RTkKPj4Kc3RhcnR4cmVmCjk1OTAKJSVFT0YK</inhalt>
     <fontsize type="java.lang.Integer">10</fontsize>
     <seite type="java.lang.Integer">1</seite>
     <font type="java.lang.String">PTSans-Regular</font>
+          <ausrichtung type="java.lang.Integer">0</ausrichtung>
   </object>
   <object type="de.jost_net.JVerein.server.FormularfeldImpl" id="596">
     <formular type="java.lang.Integer">55</formular>
@@ -336,5 +352,6 @@ RTkKPj4Kc3RhcnR4cmVmCjk1OTAKJSVFT0YK</inhalt>
     <fontsize type="java.lang.Integer">6</fontsize>
     <seite type="java.lang.Integer">1</seite>
     <font type="java.lang.String">PTSans-Regular</font>
+          <ausrichtung type="java.lang.Integer">0</ausrichtung>
   </object>
 </objects>
