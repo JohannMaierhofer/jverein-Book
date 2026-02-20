@@ -18,6 +18,7 @@ Das Kontextmenü bietet folgende Optionen:
 
 * Bearbeiten: Der ausgewählte Eintrag wird zum Bearbeiten geöffnet
 * Löschen: Damit kann ein Lehrgang gelöscht werden
+* Forderung erstellen: Öffnet den Dialog zum Erstellen von Forderungen. Siehe [Forderung](../forderung.md)
 
 ## Lehrgang beim Mitglied anlegen
 
