@@ -42,9 +42,9 @@ Durch einen Rechtsklick auf einen Abrechnungslauf öffnet sich ein Kontextmenü 
 * Löschen: Löschen der Sollbuchungen
 * Mitglied anzeigen: Öffnet das Mitglied zur Sollbuchung
 * Rechnung anzeigen: Zeigt die zur Sollbuchung gehörige Rechnung an
-* Rechnung(en) erstellen: Erstellt Rechnungen für die selektierten Sollbuchungen (jeweils eine Rechnung pro Sollbuchung)
+* Rechnung erstellen: Erstellt Rechnungen für die selektierten Sollbuchungen (jeweils eine Rechnung pro Sollbuchung)
 * Gesamtrechnung erstellen: Erstellt bei mehreren selektierten Sollbuchungen eine einzige Rechnung welche alle Sollbuchungspositionen der selektierten Sollbuchungen enthält
-* Öffnet den Dialog zum Erstellen von Gutschriften. Siehe [Gutschrift](gutschrift.md)
+* Gutschrift erstellen: Öffnet den Dialog zum Erstellen von Gutschriften, siehe [Gutschrift](gutschrift.md)
 
 ## Sollbuchung Neu Dialog
 

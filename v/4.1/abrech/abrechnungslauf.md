@@ -9,10 +9,11 @@ Auflistung aller Abrechnungsläufe. Mit einem Rechtsklick kann ein Lauf gelösch
 Folgende Menü Einträge sind vorhanden:
 
 * Bearbeiten: Öffnet die Detailansicht für den selektierten Abrechnungslauf
+* * Löschen: Löscht den Abrechnungslauf. Dies löscht auch alle vom Abrechnungslauf generierten Rechnungen, Sollbuchungen, Buchungen und Lastschriften
 * Sollbuchungen: Zeigt eine Liste der Sollbuchungen die von diesem Abrechnungslauf erzeugt wurden
 * Gutschrift erstellen: Öffnet den Dialog zum Erstellen von Gutschriften. Siehe [Gutschrift](../mitglieder/gutschrift.md)
 * Pre-Notification: Öffnet den Dialog zum Erzeugen von Pre-Notifications für den selektierten Abrechnungslauf
-* Löschen: Löscht den Abrechnungslauf. Dies löscht auch alle vom Abrechnungslauf generierten Rechnungen, Sollbuchungen, Buchungen und Lastschriften
+
 
 Auch ein Doppelklick auf den Abrechnungslauf Eintrag zeigt den Abrechnungslauf an.
 

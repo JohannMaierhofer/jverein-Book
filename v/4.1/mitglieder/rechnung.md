@@ -44,7 +44,7 @@ Durch einen Rechtsklick auf eine Rechnung öffnet sich ein Kontextmenü mit mehr
 * Löschen: Löschen der selektierten Rechnungen
 * Mitglied anzeigen: Öffnet das Mitglied zur Rechnung
 * Referenzrechnung anzeigen: Falls die aktuelle Rechnung eine Gutschrift ist, wird hier zur Rechnung gewechselt welche gut geschrieben wird
-* Öffnet den Dialog zum Erstellen von Gutschriften. Siehe [Gutschrift](gutschrift.md)
+* Gutschrift erstellen: Öffnet den Dialog zum Erstellen von Gutschriften, siehe [Gutschrift](gutschrift.md)
 * Druck und Mail: Wechselt in den Dialog zum Drucken und Mailen der Rechnung, siehe [Rechnungen](../druckmail/rechnungen.md)
 * Mahnung Druck und Mail: Wechselt in den Dialog zum Drucken und Mailen einer Mahnung zur Rechnung, siehe [Mahnungen](../druckmail/mahnungen.md)
 
