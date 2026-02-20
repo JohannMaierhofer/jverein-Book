@@ -47,7 +47,8 @@ Folgende Menü Einträge sind vorhanden:
 * Splitbuchung: Erzeugt eine Splitbuchung. Siehe [Splittbuchungen](splittbuchungen.md)
 * Auflösen: Löst eine oder mehrere selektierte Splitbuchungen auf. Es werden die Gegenbuchung und die enthaltenen Buchungen gelöscht
 * Löschen: Löscht die Buchung
-* Mitglied anzeigen: Für die selektierte Buchung wird das zugehörige Mitglied geöffnet, sofern der Buchung eine Sollbuchung zugeordnet wurde.
+* Mitglied anzeigen: Für die selektierte Buchung wird das zugehörige Mitglied geöffnet, sofern der Buchung eine Sollbuchung zugeordnet wurde
+* Sollbuchung anzeigen:Für die selektierte Buchung wird die zugeordnete Sollbuchung angezeigt
 * Neues Anlagenkonto: Für die selektierte Buchung wird ein Anlagenkonto erzeugt
 * Geldspendenbescheinigung: Erstellt eine Geldspendenbescheinigung für die Buchung. Diese Option ist nur verfügbar wenn "Spendenbescheinigungen anzeigen" in den Einstellungen aktiviert ist
 * Buchungsart zuordnen: Es öffnet ein Dialog zur Zuordnung einer Buchungsart

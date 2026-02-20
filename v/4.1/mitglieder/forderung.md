@@ -30,7 +30,7 @@ Die anderen Daten entsprechen den Punkten aus dem Abrechnungslauf (siehe [Abrech
 
 Die Felder für Rechnungen werden nur angezeigt wenn Rechnungen unter Administration->Einstellungen-> Anzeige aktiviert wurden.
 
-In den Feldern für Zahlungsgrund und Rechnungstext können Variablen verwendet werden. Ist ein Text in Rechnungstext eingegeben, erscheint dieser als Zweck in der Sollbuchung. Werden keine Rechnungen erstellt oder es ist nichts eingegeben wird der Zahlungsgrund verwendet.
+Der Rechnungstext wird im Feld Zweck in der Sollbuchung eingetragen. Werden keine Rechnungen erstellt oder es ist nichts eingegeben wird der Zahlungsgrund verwendet.
 
 Es existieren folgende Buttons:
 * Hilfe: Aufruf dieser Hilfe Seite
@@ -62,3 +62,9 @@ Falls bei einem Mitglied bzw. Zahler per Basislastschrift eingezogen wird muss b
 * Eine BIC kann optional gesetzt sein, aber wenn sie gesetzt ist muss sie gültig sein
 * Wenn noch keine Lastschrift in JVerein existiert darf das Mandat Datum nicht älter als 36 Monate sein. Falls man neu mit JVerein startet kann man im Dialog den SEPA-Check temporär deaktivieren
 * Falls die letzte Lastschrift und das Mandat sind älter als 36 Monate muss ein neues Mandat angefordert werden
+
+## Problembehandlung
+
+Existiert in der Tabelle "Fehler/Warnungen/Hinweise" ein Eintrag für ein Mitglied kann durch einen Doppel-Klick auf den Eintrag das Mitglied angezeigt werden. Der Dialog bleibt dabei geöffnet.
+
+Jetzt kann beim Mitglied der Fehler behoben werden z.B. durch Eingabe der IBAN. Nach Speichern des Mitglieds kann erneut auf Probleme getestet werden.
