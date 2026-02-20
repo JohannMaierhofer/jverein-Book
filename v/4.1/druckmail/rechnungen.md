@@ -22,11 +22,11 @@ Hier lässt sich bei der Ausgabe zwischen Drucken oder Versenden per Mail wähle
 
 Im Info Feld wird angezeigt wie viele Rechnungen selektiert wurden und ob zugehörige Mitglieder keine Mailadresse haben. Haben sie keine Mail Adresse werden sie beim Versand per Mail ignoriert.
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/400_RechnungenDruckMailView1.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/401_RechnungenDruckMailView1.png" alt="" /></picture>
 
-Im Parameter Feld "Ausgabe" lässt sich wählen ob die Rechnungen als PDF gedruckt oder per Mail verschickt werden sollen.
-
-Im Parameter Feld "PDF als" lässt sich auswählen ob eine PDF Datei erstellt werden soll oder für jedes Mitglied eine eigene Datei.
+Im Parameter Feld gibt es folgende Optionen:
+* Ausgabe: Es lässt sich wählen ob die Rechnungen als PDF (eine Datei oder einzelne Dateien) gedruckt oder per Mail verschickt werden sollen
+* Versanddatum setzen: Diese Option ist für die Ausgabe als PDF verfügbar. Ist sie gewählt, wird beim Druck das Versanddatum gesetzt. Damit kann man z.B. Probeausdrucke machen ohne das Versanddatum zu setzen. Bei Mailversand wird das Versanddatum immer gesetzt
 
 Im Falle des Mail Versand sind die Felder Betreff und Text auszufüllen.
 
@@ -47,7 +47,7 @@ Um automatisch Rechnungen zu erstellen wählen Sie im Navigations Baum dem Menü
 
 Im Gegensatz zum selektiven Erstellen wird hier der gleiche Filter Bereich angezeigt wie im Rechnungen Dialog. Es werden dann Rechnungen die die Filter Kriterien erfüllen gedruckt bzw. per Mail versendet.
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/400_RechnungenDruckMailView2.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/401_RechnungenDruckMailView2.png" alt="" /></picture>
 
 Der Filter Bereich bietet folgende Optionen:
 
@@ -58,6 +58,10 @@ Der Filter Bereich bietet folgende Optionen:
 * Datum von/bis: Es werden nur Mitgliedskonten Einträge im gewählten Zeitraum berücksichtigt
 * Mail: Hier lässt sich auswählen ob nur Mitglieder mit Mailadresse, ohne Mailadresse oder unabhängig von einer Mailadresse ausgewählt werden.
 * Versand: Hier lässt sich auswählen ob alle, nur versendete oder nicht versendete  Rechnungen berücksichtigt werden sollen
+
+Im Parameter Feld gibt es folgende Optionen:
+* Ausgabe: Es lässt sich wählen ob die Rechnungen als PDF (eine Datei oder einzelne Dateien) gedruckt oder per Mail verschickt werden sollen
+* Versanddatum setzen: Diese Option ist für die Ausgabe als PDF verfügbar. Ist sie gewählt, wird beim Druck das Versanddatum gesetzt. Damit kann man z.B. Probeausdrucke machen ohne das Versanddatum zu setzen. Bei Mailversand wird das Versanddatum immer gesetzt
 
 Der View besitzt folgende Buttons:
 

@@ -16,13 +16,18 @@ Die Pre-Notification Funktion ist etwas versteckt und kann über die Liste der A
 
 Mit einem Rechtsklick auf den entsprechenden Abrechnungsverlauf öffnet sich ein Kontextmenü, mit dem man die Pre-Notifications erstellen kann.
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_AbrechnungslaufListeView.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/401_AbrechnungslaufListeView.png" alt="" /></picture>
 
 ## Dialog bei Aufruf über Abrechnungsläufe
 
 In diesem Fenster kann die Pre-Notification erstellt werden, und zwar auf der Karte Mail + PDF .
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/400_PrenotificationDruckMailView3.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/401_PrenotificationDruckMailView3.png" alt="" /></picture>
+
+Im Parameter Feld gibt es folgende Optionen:
+* Formular: Bei der Option PDF ist ein Formular auszuwählen. Dieses muss gegebenenfalls erstellt werden. Siehe [Formulare](../administration/mitglieder/formulare.md).
+* Ausgabe: Es lässt sich wählen ob die Rechnungen als PDF (eine Datei oder einzelne Dateien) gedruckt oder per Mail verschickt werden sollen
+* Versanddatum setzen: Diese Option ist für die Ausgabe als PDF verfügbar. Ist sie gewählt, wird beim Druck das Versanddatum gesetzt. Damit kann man z.B. Probeausdrucke machen ohne das Versanddatum zu setzen. Bei Mailversand wird das Versanddatum immer gesetzt
 
 Der View besitzt folgende Buttons:
 
@@ -42,14 +47,19 @@ Mit einem Rechtsklick auf eine oder mehrere Lastschriften öffnet sich ein Konte
 
 Diese Option hat den Vorteil, dass man einzelne Lastschriften auswählen kann. Da bei wiederkehrenden Lastschriften eine Pre-Notification nur beim ersten Mal notwendig ist, kann man hier nur die Mitglieder auswählen die neu hinzugekommen sind oder bei denen sich etwas geändert hat.
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/400_LastschriftenListeView.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/401_LastschriftenListeView.png" alt="" /></picture>
 
 
 ## Dialog bei Aufruf über Lastschriften
 
 In diesem Fenster kann die Pre-Notification erstellt werden, und zwar auf der Karte Mail + PDF .
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_PrenotificationDruckMailView1.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/401_PrenotificationDruckMailView1.png" alt="" /></picture>
+
+Im Parameter Feld gibt es folgende Optionen:
+* Formular: Bei der Option PDF Ausgabe ist ein Formular auszuwählen. Dieses muss gegebenenfalls erstellt werden. Siehe [Formulare](../administration/mitglieder/formulare.md).
+* Ausgabe: Es lässt sich wählen ob die Rechnungen als PDF (eine Datei oder einzelne Dateien) gedruckt oder per Mail verschickt werden sollen
+* Versanddatum setzen: Diese Option ist für die Ausgabe als PDF verfügbar. Ist sie gewählt, wird beim Druck das Versanddatum gesetzt. Damit kann man z.B. Probeausdrucke machen ohne das Versanddatum zu setzen. Bei Mailversand wird das Versanddatum immer gesetzt
 
 Der View besitzt folgende Buttons:
 
@@ -68,7 +78,12 @@ Mit einem Rechtsklick auf den entsprechenden Eintrag öffnet sich der Dialog, mi
 
 In diesem Fall wählt man den Abrechnungslauf für den die Pre-Notifications erzeugt werden sollen im Dialog aus.
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/400_PrenotificationDruckMailView2.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/401_PrenotificationDruckMailView2.png" alt="" /></picture>
+
+Im Parameter Feld gibt es folgende Optionen:
+* Formular: Bei der Option PDF Ausgabe ist ein Formular auszuwählen. Dieses muss gegebenenfalls erstellt werden. Siehe [Formulare](../administration/mitglieder/formulare.md).
+* Ausgabe: Es lässt sich wählen ob die Rechnungen als PDF (eine Datei oder einzelne Dateien) gedruckt oder per Mail verschickt werden sollen
+* Versanddatum setzen: Diese Option ist für die Ausgabe als PDF verfügbar. Ist sie gewählt, wird beim Druck das Versanddatum gesetzt. Damit kann man z.B. Probeausdrucke machen ohne das Versanddatum zu setzen. Bei Mailversand wird das Versanddatum immer gesetzt
 
 Der View besitzt folgende Buttons:
 
@@ -84,13 +99,6 @@ Der View besitzt folgende Buttons:
 
 Bevor Pre-Notifications gedruckt werden können muss zunächst ein [Formular](../administration/mitglieder/formulare.md) dafür angelegt werden.
 
-Im Block Parameter bei Ausgabe muss PDF (Alle) eingestellt werden und das Formular passend ausgewählt werden, dann den Startknopf drücken.
-
-Über die Einstellung zu "PDF als" kann gesteuert werden, ob die PDF als eine einzige, mehrseitige Datei erzeugt wird, die alle einzelnen Schreiben enthält (Einstellung "Eine PDF-Datei"), oder ob jedes Schreiben an einen Benutzer in einer separaten Datei abgelegt wird. In jedem Fall muss der Benutzer über den aufkommenden Dialog Ausgabedatei wählen das Ablageverzeichnis und den Namen (bzw. das Prefix) der PDF-Datei(en) festlegen.
-
-Sollen separate Dateien erzeugt werden, so wird der ausgewählte Dateiname vor der Endung .PDF um eine fortlaufende Nummer ("Einzelne PDF-Dateien, nummeriert"), um die Mitgliedsnummer des angeschriebenen Mitglieds ("Einzelne PDF-Dateien, mit Mitgliedsnummer") oder um beide Werte ("Einzelne PDF-Dateien, nummeriert mit Mitgliedsnummer") ergänzt, je nach dem, was in der Einstellung "PDF als" ausgewählt wurde.
-
-Die direkte Erzeugung einzelner PDF-Dateien ist hilfreich, wenn für das Versenden der Briefe ein Online-Dienstleister herangezogen werden soll.
 
 ### Mail-Pre-Notification an Mitglieder mit Mail-Adresse
 
@@ -143,7 +151,7 @@ Die weitere Bedienung entspricht dem Vorgehen beim Senden der schriftlichen Pre-
 
 Durch eine Überweisung von einem Cent kann über den Verwendungszweck die Pre-Notification durchgeführt werden.
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_Prenotification1ctErstellung.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/401_Prenotification1ctErstellung.png" alt="" /></picture>
 
 Auf der Karte 1ct-Überweisung müssen die Ausgabeart (Datei oder Hibiscus) und das Ausführungsdatum eingestellt werden.
 
