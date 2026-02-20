@@ -8,7 +8,7 @@ Hier lässt sich bei der Ausgabe zwischen Drucken oder Versenden per Mail wähle
 
 Im Info Feld wird angezeigt wie viele Mitglieder selektiert wurden und welche keine Mailadresse haben. Haben sie keine Mail Adresse werden sie beim Versand per Mail ignoriert.
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/401_FreieFormulareDruckMailView.1.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/401_FreieFormulareDruckMailView1.png" alt="" /></picture>
 
 
 Im Parameter Feld gibt es folgende Optionen:
