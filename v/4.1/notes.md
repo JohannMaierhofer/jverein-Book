@@ -54,10 +54,10 @@ Die Version 4.1 ist eine Minor Version und rückwärts kompatibel mit eine 4.0.
 
 ## Sonstiges
 
-* Buchungskorrektur wurde aus dem Navigationsbau entfernt und als Button in die Buchungsliste aufgenommen
+* Buchungskorrektur wurde aus dem Navigationsbaum entfernt und als Button in die Buchungsliste aufgenommen
 * Beim Abrechnungslauf gibt es die neue Option die Rechnung als Buchungsdokument in der erzeugten Buchung zu speichern
 * Das Kontoinhaber Attribut wurde zu Kursteilnehmer hinzugefügt
-* In allen Liste Views mit Beträgen wird bei der Selektion mehrerer Einträge die in der Zeile unterhalb der Tabelle die Summen angezeigt
+* In allen Liste Views mit Beträgen wird bei der Selektion mehrerer Einträge, in der Zeile unterhalb der Tabelle, die Summen angezeigt
 * Im Mail View wurden einige Buttons verschoben
 * Bei Sollbuchungen mit negativem Betrag (Erstattung) lässt sich beim manuellen Erstellen einer Rechnung ein Erstattungsformular auswählen
 * Das Mitglied wird in der Lastschrift angezeigt
