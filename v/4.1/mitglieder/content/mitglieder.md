@@ -137,6 +137,18 @@ Ein Mitglied in ein Nicht-Mitglied umwandeln.
 
 Löscht das Mitglied.
 
+### Manuelle Lastschrift
+
+Generierung einer manuellen Lastschrift in Hibiscus.
+
+### Forderung erstellen
+
+Öffnet den Dialog zum Erstellen von Forderungen. Siehe [Forderung](../forderung.md)
+
+### Gutschrift erstellen
+
+Öffnet den Dialog zum Erstellen von Gutschriften. Siehe [Gutschrift](../gutschrift.md)
+
 ### Mail senden
 
 Es wird eine Mail an das Mitglied versandt. Dabei wird eine Auswahl von Mailvorlagen zur Verfügung gestellt.
@@ -149,22 +161,18 @@ Die Daten des Mitgliedes lassen sich als vCard exportieren.
 
 Zeigt eine QR-Code mit den Daten des Mitgliedes an.
 
-### Kontoauszug
-
-Für einen vorgegebenen Zeitraum werden alle Buchungen des Mitgliedskontos ausgegeben.
-
 ### Spendenbescheinigung
 
 Automatische Erstellung von Spendenbescheinigungen, die direkt dem Mitglied zugeordnet sind. Werden mehrere Buchungen gefunden, wird eine Sammelbestätigung erzeugt. Bei Sachspenden wird für jede Buchung eine eigene Sachspendenbescheinigung erzeugt.
+
+### Kontoauszug
+
+Für einen vorgegebenen Zeitraum werden alle Buchungen des Mitgliedskontos ausgegeben.
 
 ### Personalbogen
 
 Ausgabe aller zu einem Mitglied gespeicherten Daten (Ausnahme: Ggfls. gespeicherte Dokumente)
 
-### Manuelle Lastschrift
+### Freie Formulare
 
-Generierung einer manuellen Lastschrift in Hibiscus.
-
-## Freie Formulare
-
-Wenn unter Administration->Mitglieder->Formulare mindestens ein Forular vom Typ "Freies Formular" angelegt wurde, so wir ein Untermenü mit allen Freien Formularen angezeigt. Beim Auswählen eine Eintrags kann dieses Formular an die Ausgwählten Mitglieder Verschickt/Gedruckt werden siehe [Freie Formulare](../../druckmail/freiesformular.md)
+Wenn unter Administration->Mitglieder->Formulare mindestens ein Forular vom Typ "Freies Formular" angelegt wurde, so wird dieser Menüpunkt angezeigt. Beim Auswählen eine Eintrags kann dieses Formular an die ausgewählten Mitglieder Verschickt/Gedruckt werden siehe [Freie Formulare](../../druckmail/freiesformular.md)

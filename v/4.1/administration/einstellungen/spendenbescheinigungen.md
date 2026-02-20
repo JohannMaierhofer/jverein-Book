@@ -8,7 +8,7 @@ Anschließend sollte JVerein neu gestartet werden, damit der Menüpunkt "Spenden
 
 ### Konfiguration
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_Spendenbescheinigungen.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/401_EinstellungenSpendenbescheinigungen.png" alt="" /></picture>
 
 Hier können die Werte zur Erstellung von Spendenbescheinigungen eingestellt werden.
 
@@ -19,10 +19,6 @@ Neben den steuerlich relevanten Informationen können folgende Daten konfigurier
 Allgemeine Einstellung ab welchem Betrag eine Spendenbescheinigung erstellt werden soll. Diese Einstellung kommt bei der automatischen Generierung von Spendenbescheinigungen zum Tragen.
 
 Der Betrag muss größer oder gleich 1ct sein. Ein Betrag von 0€ ist für Spendenbescheinigungen nicht erlaubt.
-
-#### Verzeichnis für Spendenbescheinigungen
-
-Um ein flüssiges Erzeugen von mehreren Dokumenten zu ermöglichen, kann hier das Verzeichnis für die PDF-Dateien festgelegt werden. Wenn aus der Liste der Spendenbescheinigungen heraus die Dokumente generiert werden, werden sie in diese Verzeichnis geschrieben. Das Verzeichnis wird auch vorbelegt, wenn eine Dokumentenerstellung aus der Detailansicht Spendenbescheinigung erfolgt. Hier wird jedoch der Dateidialog angeboten.
 
 #### Buchungsart drucken
 

@@ -12,7 +12,7 @@ Teilnehmer von Kursen können abgerechnet werden. Kursteilnehmer sind Personen, 
 
 ## Liste der Kursteilnehmer
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_KursteilnehmerListeView.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/401_KursteilnehmerListeView.png" alt="" /></picture>
 
 Mit dem Button Neu kann ein neuer Kursteilnehmer eingerichtet werden.
 
@@ -29,4 +29,4 @@ Das Kursteilnehmer Menü hat folgende Einträge:
 
 Mit einem Klick auf Neu oder Bearbeiten öffnet sich folgender Dialog:
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_KursteilnehmerView.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/401_KursteilnehmerView.png" alt="" /></picture>

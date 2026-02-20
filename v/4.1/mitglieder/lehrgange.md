@@ -25,7 +25,7 @@ Der Übersicht View für Lehrgänge zeigt alle vorhandenen Lehrgänge an.
 
 Über den Filterbereich lässt sich nach verschiedenen Kriterien filtern.
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_LehrgaengeListeView.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/401_LehrgaengeListeView.png" alt="" /></picture>
 
 Mit dem Button Neu kann ein neuer Lehrgang eingerichtet werden.
 
@@ -36,9 +36,10 @@ Das Kontextmenü bietet folgende Optionen:
 * Bearbeiten: Der ausgewählte Eintrag wird zum Bearbeiten geöffnet
 * Löschen: Damit kann ein Lehrgang gelöscht werden
 * Mitglied anzeigen: Damit können die Daten des Mitglieds angezeigt werden
+* Forderung erstellen: Öffnet den Dialog zum Erstellen von Forderungen. Siehe [Forderung](../mitglieder/forderung.md)
 
 ## Lehrgang
 
 Mit einem Klick auf Neu oder Bearbeiten öffnet sich folgender Dialog:
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_LehrgangView.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/401_LehrgangView.png" alt="" /></picture>

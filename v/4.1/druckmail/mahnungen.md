@@ -20,13 +20,13 @@ Hier lässt sich bei der Ausgabe zwischen Drucken oder Versenden per Mail wähle
 
 Im Info Feld wird angezeigt wie viele Rechnungen selektiert wurden und ob zugehörige Mitglieder keine Mailadresse haben. Haben sie keine Mail Adresse werden sie beim Versand per Mail ignoriert.
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/400_MahnungenDruckMailView1.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/401_MahnungenDruckMailView1.png" alt="" /></picture>
 
-Im Parameter Feld "Formular" ist ein Formular auszuwählen. Dieses muss gegebenenfalls erstellt werden. Siehe [Formulare](../administration/mitglieder/formulare.md).
 
-Im Parameter Feld "Ausgabe" lässt sich wählen ob die Mahnungen als PDF gedruckt oder per Mail verschickt werden sollen.
 
-Im Parameter Feld "PDF als" lässt sich auswählen ob eine PDF Datei erstellt werden soll oder für jedes Mitglied eine eigene Datei.
+Im Parameter Feld gibt es folgende Optionen:
+* Formular: Es ist ein Formular auszuwählen. Dieses muss gegebenenfalls erstellt werden. Siehe [Formulare](../administration/mitglieder/formulare.md).
+* Ausgabe: Es lässt sich wählen ob die Rechnungen als PDF (eine Datei oder einzelne Dateien) gedruckt oder per Mail verschickt werden sollen
 
 Im Falle des Mail Versand sind die Felder Betreff und Text auszufüllen.
 
@@ -47,7 +47,7 @@ Um automatisch Mahnungen zu erstellen wählen Sie im Navigations Baum dem Menü 
 
 Im Gegensatz zum selektiven Erstellen wird hier der gleiche Filter Bereich angezeigt wie im Sollbuchungen Dialog. Es werden dann Mahnungen für alle Sollbuchungen die die Filter Kriterien erfüllen gedruckt bzw. per Mail versendet.
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/400_MahnungenDruckMailView2.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/401_MahnungenDruckMailView2.png" alt="" /></picture>
 
 Der Filter Bereich bietet folgende Optionen:
 
@@ -58,6 +58,10 @@ Der Filter Bereich bietet folgende Optionen:
 * Datum von/bis: Es werden nur Mitgliedskonten Einträge im gewählten Zeitraum berücksichtigt
 * Mail: Hier lässt sich auswählen ob nur Mitglieder mit Mailadresse, ohne Mailadresse oder unabhängig von einer Mailadresse ausgewählt werden
 * Versand: Hier lässt sich auswählen ob alle, nur versendete oder nicht versendete  Rechnungen berücksichtigt werden sollen
+
+Im Parameter Feld gibt es folgende Optionen:
+* Formular: Das Formular für die Mahnung. Dieses muss gegebenenfalls erstellt werden. Siehe [Formulare](../administration/mitglieder/formulare.md).
+* Ausgabe: Es lässt sich wählen ob die Rechnungen als PDF (eine Datei oder einzelne Dateien) gedruckt oder per Mail verschickt werden sollen
 
 Der View besitzt folgende Buttons:
 

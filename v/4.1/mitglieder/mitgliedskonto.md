@@ -27,7 +27,7 @@ Zusätzlich kann angegeben werden, ob nur Sollbuchungen mit Differenzen zwischen
 
 Zudem lässt sich filtern ob das Mitglied per Lastschrift zahlt oder eine Mail Adresse hat.
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_SollbuchungenListeView.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/401_SollbuchungenListeView.png" alt="" /></picture>
 
 Durch einen Doppelklick auf die Sollbuchung wird die Sollbuchung angezeigt.
 
@@ -44,6 +44,7 @@ Durch einen Rechtsklick auf einen Abrechnungslauf öffnet sich ein Kontextmenü 
 * Rechnung anzeigen: Zeigt die zur Sollbuchung gehörige Rechnung an
 * Rechnung(en) erstellen: Erstellt Rechnungen für die selektierten Sollbuchungen (jeweils eine Rechnung pro Sollbuchung)
 * Gesamtrechnung erstellen: Erstellt bei mehreren selektierten Sollbuchungen eine einzige Rechnung welche alle Sollbuchungspositionen der selektierten Sollbuchungen enthält
+* Öffnet den Dialog zum Erstellen von Gutschriften. Siehe [Gutschrift](gutschrift.md)
 
 ## Sollbuchung Neu Dialog
 

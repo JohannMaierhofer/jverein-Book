@@ -20,9 +20,9 @@ Hier lässt sich bei der Ausgabe zwischen Drucken oder Versenden per Mail wähle
 
 Alternativ kann in der Detailansicht eines Mitglieds über den Button "Kontoauszug" der Dialog für dieses Mitglied geöffnet werden.
 
-Im Info Feld wird angezeigt wieviele Mitglieder selektiert wurden und welche keine Mailadresse haben. Haben sie keine Mail Adresse werden sie beim Versand per Mail ignoriert.
+Im Info Feld wird angezeigt wie viele Mitglieder selektiert wurden und welche keine Mailadresse haben. Haben sie keine Mail Adresse werden sie beim Versand per Mail ignoriert.
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/400_KontoauszuegeDruckMailView1.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/401_KontoauszuegeDruckMailView1.png" alt="" /></picture>
 
 Der Filter Bereich bietet folgende Optionen:
 
@@ -30,9 +30,8 @@ Der Filter Bereich bietet folgende Optionen:
 * "Differenz Limit": Zusätzlich kann angegeben werden, ob nur Sollbuchungen mit Differenzen zwischen Soll und Ist (Offene Posten oder Überzahlungen) über dem konfigurierten Limit gefiltert werden.
 * Datum von/bis: Es werden nur Mitgliedskonten Einträge im gewählten Zeitraum berücksichtigt.
 
-Im Parameter Feld "Ausgabe" lässt sich wählen ob die Kontoauszüge als PDF gedruckt oder per Mail verschickt werden sollen.
-
-Im Parameter Feld "PDF als" lässt sich auswählen ob eine PDF Datei erstellt werden soll oder für jedes Mitglied eine eigene Datei.
+Im Parameter Feld gibt es folgende Optionen:
+* Ausgabe: Es lässt sich wählen ob die Rechnungen als PDF (eine Datei oder einzelne Dateien) gedruckt oder per Mail verschickt werden sollen
 
 Im Falle des Mail Versand sind die Felder Betreff und Text auszufüllen.
 
@@ -57,7 +56,10 @@ Ist kein Mitgliedstyp ausgewählt werden die Kontoauszüge sowohl für alle Mitg
 
 Da der Filter hier eine Untermenge des Filters im Mitglied bzw. Nicht-Mitglied Dialog ist, hat man hier weniger Filter Möglichkeiten. Werden weitere Filter Optionen gebraucht muss über den selektiven Weg gegangen werden.
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/400_KontoauszuegeDruckMailView2.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/401_KontoauszuegeDruckMailView2.png" alt="" /></picture>
+
+Im Parameter Feld gibt es folgende Optionen:
+* Ausgabe: Es lässt sich wählen ob die Rechnungen als PDF (eine Datei oder einzelne Dateien) gedruckt oder per Mail verschickt werden sollen
 
 Der View besitzt folgende Buttons:
 

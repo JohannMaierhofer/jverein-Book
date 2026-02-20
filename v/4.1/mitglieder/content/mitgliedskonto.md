@@ -2,7 +2,7 @@
 
 In der Baumansicht werden die Summen pro Mitglied, die einzelnen Sollbuchungen (Rechnersymbol), sowie die einzelnen zugeordneten Istbuchungen (Euro-Symbol) angezeigt.
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_MitgliedskontoTab.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/401_MitgliedskontoTab.png" alt="" /></picture>
 
 Durch einen Doppelklick auf eine
 
@@ -14,8 +14,9 @@ Das Kontextmenü bietet folgende Optionen:
 * Sollbuchung bearbeiten: Aktiv falls die Sollbuchung ausgewählt ist
 * Sollbuchung löschen: Aktiv falls die Sollbuchung ausgewählt ist und keine Istbuchung zugewiesen ist
 * Rechnung anzeigen: Dieser Menüpunkt ist aktiv wenn eine Rechnung für die Sollbuchung existiert. Diese wird dann angezeigt
-* Rechnung(en) erstellen: Dieser Menüpunkt ist aktiv wenn für die selektierten Sollbuchungen noch keine Rechnungen existieren. Damit wird je eine Rechnung für die selektierten Sollbuchungen erzeugt
+* Rechnung erstellen: Dieser Menüpunkt ist aktiv wenn für die selektierten Sollbuchungen noch keine Rechnungen existieren. Damit wird je eine Rechnung für die selektierten Sollbuchungen erzeugt
 * Gesamtrechnung erstellen: Dieser Menüpunkt ist aktiv wenn für die selektierten Sollbuchungen noch keine Rechnungen existieren. Damit wird genau eine Rechnung für die selektierten Sollbuchungen erzeugt
+* Gutschrift erstellen: Öffnet den Dialog zum Erstellen von Gutschriften. Siehe [Gutschrift](../gutschrift.md)
 * Istbuchung bearbeiten: Aktiv falls die Istbuchung ausgewählt ist
 * Istbuchung von Sollbuchung lösen: Aktiv falls die Istbuchung ausgewählt ist
 * Spendenbescheinigung: Aktiv falls eine Istbuchung ausgewählt ist und deren Buchungsart als Spende markiert ist

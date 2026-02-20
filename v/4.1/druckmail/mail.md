@@ -30,7 +30,7 @@ Entweder wird eine Mailvorlage ausgewählt oder es geht ohne Vorlage weiter.
 
 Ein Doppelklick auf eine Mail öffnet das Bearbeitungsfenster.
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_Mail.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/401_Mail.png" alt="" /></picture>
 
 Der View besitzt folgende Buttons im unteren Bereich:
 

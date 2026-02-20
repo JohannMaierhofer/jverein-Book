@@ -2,15 +2,14 @@
 
 Um freie Formulare zu drucken oder per Mail zu verschicken wählen Sie im Navigations Baum dem Menü Eintrag "Freie Formulare" aus. Es öffnet sich folgender Dialog.
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/400_FreieFormulareDruckMailView.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/401_FreieFormulareDruckMailView.png" alt="" /></picture>
 
 Im Filter Bereich lässt sich einstellen für welche Mitglieder bzw. Nicht-Mitglieder freie Formulare gedruckt oder verschickt werden sollen.
 
-Im Parameter Feld "Formular" ist ein freies Formular auszuwählen. Dieses muss gegebenenfalls erstellt werden. Siehe [Formulare](../administration/mitglieder/formulare.md).
+Im Parameter Feld gibt es folgende Optionen:
+* Formular: Im Parameter Feld "Formular" ist ein freies Formular auszuwählen. Dieses muss gegebenenfalls erstellt werden. Siehe [Formulare](../administration/mitglieder/formulare.md).
+* Ausgabe: Es lässt sich wählen ob die Rechnungen als PDF (eine Datei oder einzelne Dateien) gedruckt oder per Mail verschickt werden sollen
 
-Im Parameter Feld "Ausgabe" lässt sich wählen ob das Formular als PDF gedruckt oder per Mail verschickt werden soll.
-
-Im Parameter Feld "PDF als" lässt sich auswählen ob eine PDF Datei erstellt werden soll oder für jedes Mitglied eine eigene Datei.
 
 Im Falle des Mail Versand sind die Felder Betreff und Text auszufüllen.
 
