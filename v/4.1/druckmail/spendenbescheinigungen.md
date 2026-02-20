@@ -20,8 +20,6 @@ Mit der Option "Sachspende oder Geldspende mit Erstattungsverzicht" erhält man 
 
 In der Liste können ein oder mehrere Einträge markiert werden. Über ein Kontextmenu (rechter Mausklick) stehen verschiedene Aktionen zur Verfügung.
 
-Über dem Menüpunk "PDF" kann die Spendenbescheinigung als PDF gedruckt werden. Es wird ein individuelles Formular verwendet welches in der Spendenbescheinigung konfiguriert ist oder ein Standard Ausdruck wenn es so in der Spendenbescheinigung gesetzt ist.
-
 ## Spendenbescheinigung selektiv drucken oder per Mail versenden
 
 Über den Menüpunkt "Druck und Mail" öffnet sich der Dialog Spendenbescheinigungen der Sie beim Versenden der Spendenbescheinigungen unterstützt.

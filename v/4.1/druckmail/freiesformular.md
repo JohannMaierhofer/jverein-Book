@@ -2,7 +2,7 @@
 
 ## Freie Formulare selektiv erstellen
 
-Möchten Sie efreie Formulare selektiv erstellen, so öffnen Sie den Dialog Mitglieder bzw. Nicht-Mitglieder. Wählen Sie den Filter so, dass die gewünschten Mitglieder angezeigt werden. Selektieren Sie einen oder mehrere Einträge und drücken die rechte Maustaste. Es öffnet sich ein Kontext-Menü. Wählen Sie hier den Menüpunkt "Freie Formulare". Es öffnet sich hier der Dialog Kontoauszug der Sie bei der Erstellung des freien Formulars unterstützt.
+Möchten Sie freie Formulare selektiv erstellen, so öffnen Sie den Dialog Mitglieder bzw. Nicht-Mitglieder. Wählen Sie den Filter so, dass die gewünschten Mitglieder angezeigt werden. Selektieren Sie einen oder mehrere Einträge und drücken die rechte Maustaste. Es öffnet sich ein Kontext-Menü. Wählen Sie hier den Menüpunkt "Freie Formulare". Es öffnet sich hier der Dialog Kontoauszug der Sie bei der Erstellung des freien Formulars unterstützt.
 
 Hier lässt sich bei der Ausgabe zwischen Drucken oder Versenden per Mail wählen.
 
@@ -12,6 +12,7 @@ Im Info Feld wird angezeigt wie viele Mitglieder selektiert wurden und welche ke
 
 
 Im Parameter Feld gibt es folgende Optionen:
+* Formular: Im Parameter Feld "Formular" ist ein freies Formular auszuwählen. Dieses muss gegebenenfalls erstellt werden. Siehe [Formulare](../administration/mitglieder/formulare.md)
 * Ausgabe: Es lässt sich wählen ob die Rechnungen als PDF (eine Datei oder einzelne Dateien) gedruckt oder per Mail verschickt werden sollen
 
 Im Falle des Mail Versand sind die Felder Betreff und Text auszufüllen.
@@ -37,7 +38,7 @@ Um freie Formulare zu drucken oder per Mail zu verschicken wählen Sie im Naviga
 Im Filter Bereich lässt sich einstellen für welche Mitglieder bzw. Nicht-Mitglieder freie Formulare gedruckt oder verschickt werden sollen.
 
 Im Parameter Feld gibt es folgende Optionen:
-* Formular: Im Parameter Feld "Formular" ist ein freies Formular auszuwählen. Dieses muss gegebenenfalls erstellt werden. Siehe [Formulare](../administration/mitglieder/formulare.md).
+* Formular: Im Parameter Feld "Formular" ist ein freies Formular auszuwählen. Dieses muss gegebenenfalls erstellt werden. Siehe [Formulare](../administration/mitglieder/formulare.md)
 * Ausgabe: Es lässt sich wählen ob die Rechnungen als PDF (eine Datei oder einzelne Dateien) gedruckt oder per Mail verschickt werden sollen
 
 
