@@ -87,7 +87,7 @@ Soll nach Zusatzfelder gefiltert werden, kommt es auf den Datentyp des jeweilige
 
 ## Kontextmenu
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/401_MitgliedMenu.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_MitgliedMenu.png" alt="" /></picture>
 
 ### Bearbeiten
 
@@ -98,10 +98,6 @@ Siehe [Mitglied](grunddaten.md).
 ### Duplizieren
 
 Es wird ein neuer Datensatz mit den Daten des Mitgliedes angelegt. Dieser kann dann vor der Speicherung verändert werden.
-
-### In Zwischenablage kopieren
-
-Es wird ein Datensatz mit den Daten des Mitgliedes in die Zwischenablage kopiert.
 
 ### Eigenschaften
 

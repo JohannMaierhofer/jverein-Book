@@ -6,6 +6,25 @@ Die Version 4.2 ist eine Minor Version und rückwärts kompatibel mit einer 4.1 
 
 ## The Big Ones
 
+### Spaltenauswahl bei View Tabellen und Reports
+
+Es gibt eine allgemeine Erweiterung für alle Tabellen, außer den Saldo Tabellen. Es lässt sich einstellen, welche Spalten in den Tabellen am GUI angezeigt werden. Auch können die Tabellen als CSV und PDF ausgegeben werden.
+
+Bei der Ausgabe als CSV oder PDF erfolgt eine Dialogabfrage in dem man die auszugebenden Spalten auswählen kann. Die Breite der Spalten im PDF Report orientiert sich am Breitenverhältnis der Spalten in der GUI Anzeige.
+
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_SpaltenauswahlDialog.png" alt="" /></picture>
+
+Die Buttons sind in der Panelleiste oben verfügbar.
+
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_Panelbuttons.png" alt="" /></picture>
+
+Drei Buttons sind verfügbar:
+* CSV: Gib die ausgewählten Spalten der angezeigten Tabelle als CSV Datei aus
+* PDF: Gibt die ausgewählten Spalten der angezeigten Tabelle als PDF aus
+* Spalten auswählen: Es lässt sich auswählen, welche Spalten in der Tabelle angezeigt werden sollen
+
+PS: Da die anzuzeigenden Spalten nun damit ausgewählt werden können wurde diese Option für Mitglieder in den Einstellungen entfernt. Leider konnten die Konfiguration aus den Einstellungen nicht mit übernommen werden. Es erfolgt eine feste Auswahl als Default. 
+
 ### Arbeitseinsatz Auswertung
 
 * Die Auswertung der Arbeitseinsätze wird jetzt in einem Dialog angezeigt und kann nur noch aus der Liste der Arbeitseinsätze aufgerufen werden
@@ -84,17 +103,10 @@ Ab Version 4.2.0 lässt sich dieses Verhalten unter Administration->Einstellunge
 
 Im Menü der Buchung gibt es nun den Menüpunkt "Spendenbescheinigung anzeigen". Falls für eine Buchung eine Spendenbescheinigung existiert, kann sie damit angezeigt werden.
 
-### Spaltenauswahl bei Reports
-
-Es gibt eine neue generische  Implementierung für die Generierung von PDF und CSV Reports. Diese kann bei der Generierung von Reports genutzt werden welche angezeigte Tabellen ausgeben.
-
-Bei der Ausgabe erfolgt eine Dialogabfrage in dem man die auszugebenden Spalten auswählen kann. Zukünftig lassen sich hier noch weitere Features ergänzen.
-
-Aktuell wird diese Implementierung bei folgenden Reports verwendet:
-* Beiden Reports  der Arbeitseinsatz Auswertung
-* Bei den Reports Buchungen, Sollbuchungen, Lastschriften und Zusatzbeträge in der Detailansicht eines Abrechnungslauf
 
 
 ## Sonstiges
 
 * Einige Fehlerkorrekturen
+* Der Menüeintrag "In Zwischenablage kopieren" beim Mitglied wurde gelöscht. Wie bei den anderen Tabellen ist das über CTRL-C weiter möglich
+* Manuelle Buchungen auf einer Steuerbuchungsart werden nicht unterstützt
