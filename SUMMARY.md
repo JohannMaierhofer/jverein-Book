@@ -751,7 +751,6 @@
     * [Einstellungen](v/4.2/administration/einstellungen/README.md)
       * [Allgemein](v/4.2/administration/einstellungen/allgemein.md)
       * [Anzeige](v/4.2/administration/einstellungen/anzeige.md)
-      * [Mitglieder Spalten](v/4.2/administration/einstellungen/spalten.md)
       * [Mitglieder Ansicht](v/4.2/administration/einstellungen/ansicht.md)
       * [Abrechnung](v/4.2/administration/einstellungen/abrechnung.md)
       * [Verzeichnisse](v/4.2/administration/einstellungen/verzeichnisse.md)
