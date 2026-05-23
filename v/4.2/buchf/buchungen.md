@@ -26,18 +26,26 @@ Mit einem Doppelklick auf eine Buchung wird die Detailansicht zur Bearbeitung ge
 Folgende Buttons sind vorhanden:
 
 * Buchungskorrektur: Ruft den Dialog zu Buchungskorrektur auf. Siehe [Buchungskorrektur](buchungskorrektur.md)
-* Hibiscus-Import: Import von Buchungen aus Hibiscus. Siehe [Buchungsübernahme](buchungsubernahme.md)
-* Import: Import von Buchungen aus einer CSV Datei. Siehe [Buchungsimport](buchungsimport.md)
-* CSV: Die über die Suchkriterien ausgewählten Buchungen können mit einem Klick auf CSV als CSV-Datei ausgegeben werden. Dabei werden bei Nutzung des Mitgliedskontos ggfls. auch die Daten des Mitgliedes ausgegeben.
-* PDF Buchungsjournal: Auflistung aller Buchungen nach verschiedenen Sortierungen
-* PDF Einzelbuchungen: Auflistung aller Buchungen nach Buchungsarten
-* PDF Summen: Ausgabe der Summen pro Buchungsart
 * Zuordnung: Zuordnung von Buchungen zu Sollbuchungen (siehe unten)
+* Import: (siehe unten)
+* Export: (siehe unten)
 * Neu: Neue Buchung erzeugen
+
+Import bietet die Auswahl von zwei Quellen:
+* Hibiscus-Buchungsmport: Import von Buchungen aus Hibiscus. Siehe [Buchungsübernahme](buchungsubernahme.md)
+* CSV-Buchungsimport: Import von Buchungen aus einer CSV Datei. Siehe [Buchungsimport](buchungsimport.md). Hier ist die Auswahl des in der Datei verwendeten Encodings notwendig
+
+Export bietet die Auswahl verschiedener Ausgaben an:
+* CSV-Buchungen: Die über die Suchkriterien ausgewählten Buchungen können als CSV-Datei ausgegeben werden. Dabei werden bei Nutzung des Mitgliedskontos ggfls. auch die Daten des Mitgliedes ausgegeben.
+* PDF-Buchungsjournal: Auflistung aller Buchungen nach verschiedenen Sortierungen
+* PDF-Einzelbuchungen: Auflistung aller Buchungen nach Buchungsarten
+* PDF-Summenbuchungen: Ausgabe der Summen pro Buchungsart
 
 Die PDF-Auswertungen sind hier abrufbar. Ausführlich beschrieben werden sie im Artikel [Buchführung Zusammenhänge](../../../sonstiges/buchfuhrung-zusammenhange.md).
 
 Folgende Menü Einträge sind vorhanden:
+
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_BuchungenMenue.png" alt="" /></picture>
 
 * Bearbeiten: Öffnet die Detailansicht für die selektierte Buchung
 * Als "geprüft" markieren: Markiert die Buchung als geprüft

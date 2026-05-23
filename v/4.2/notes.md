@@ -10,20 +10,24 @@ Die Version 4.2 ist eine Minor Version und rückwärts kompatibel mit einer 4.1 
 
 Es gibt eine allgemeine Erweiterung für alle Tabellen, außer den Saldo Tabellen. Es lässt sich einstellen, welche Spalten in den Tabellen am GUI angezeigt werden. Auch können die Tabellen als CSV und PDF ausgegeben werden.
 
-Bei der Ausgabe als CSV oder PDF erfolgt eine Dialogabfrage in dem man die auszugebenden Spalten auswählen kann. Die Breite der Spalten im PDF Report orientiert sich am Breitenverhältnis der Spalten in der GUI Anzeige.
+Beim Spalten Konfigurationsdialog erfolgt eine Dialogabfrage in dem man die anzuzeigenden Spalten auswählen kann. 
 
 <picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_SpaltenauswahlDialog.png" alt="" /></picture>
+
+Bei der Ausgabe als CSV oder PDF erfolgt eine Dialogabfrage in dem man die auszugebenden Spalten auswählen kann. In de Lasche Spalten lässt sich auch das relative Verhältnis der Spaltenbreiten im PDF Report einstellen. Im Ränder Tab kann der Randabstand der Tabelle im PDF Report eingestellt werden. Im Formular Tab kann das Vordergrund und Hintergrund Formular ausgewählt werden, ebenso ob im Querformat gedruckt werden soll.
+
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_TabelleExportDialog.png" alt="" /></picture>
 
 Die Buttons sind in der Panelleiste oben verfügbar.
 
 <picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_Panelbuttons.png" alt="" /></picture>
 
 Drei Buttons sind verfügbar:
-* CSV: Gib die ausgewählten Spalten der angezeigten Tabelle als CSV Datei aus
+* CSV: Gibt die ausgewählten Spalten der angezeigten Tabelle als CSV Datei aus
 * PDF: Gibt die ausgewählten Spalten der angezeigten Tabelle als PDF aus
 * Spalten auswählen: Es lässt sich auswählen, welche Spalten in der Tabelle angezeigt werden sollen
 
-PS: Da die anzuzeigenden Spalten nun damit ausgewählt werden können wurde diese Option für Mitglieder in den Einstellungen entfernt. Leider konnten die Konfiguration aus den Einstellungen nicht mit übernommen werden. Es erfolgt eine feste Auswahl als Default. 
+PS: Da die anzuzeigenden Spalten nun damit ausgewählt werden können wurde diese Option für Mitglieder in den Einstellungen entfernt. Leider konnte die Konfiguration aus den Einstellungen nicht mit übernommen werden. Es erfolgt eine feste Auswahl als Default. 
 
 ### Arbeitseinsatz Auswertung
 
@@ -102,6 +106,12 @@ Ab Version 4.2.0 lässt sich dieses Verhalten unter Administration->Einstellunge
 ### Spendenbescheinigung anzeigen im Buchung Menü
 
 Im Menü der Buchung gibt es nun den Menüpunkt "Spendenbescheinigung anzeigen". Falls für eine Buchung eine Spendenbescheinigung existiert, kann sie damit angezeigt werden.
+
+### Buttons in der Buchungsliste und Anlagenbuchungsliste reduziert
+
+In der Listenanzeige von Buchungen und Anlagenbuchungen wurden die Buttons reduziert.
+* In der Listenanzeige von Buchungen wurden die beiden Import Buttons zu einem zusammen geführt. In der Auswahlbox lasst sich auswählen von welcher Quelle importiert werden soll
+* In beiden Listen Anzeigen wurden der CSV Report und die drei PDF Reports zu einem Export Button zusammen gefasst. In der Auswahlbox lasst sich auswählen welcher der Reports erzeugt werden soll
 
 
 
