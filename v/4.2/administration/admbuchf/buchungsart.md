@@ -8,13 +8,11 @@
 
 Eine Liste der Buchungsarten kann über den Eintrag Buchungsarten im Navigationsbaum angezeigt werden.
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_BuchungsartenListeView.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_BuchungsartenListeView.png" alt="" /></picture>
 
 Über den Neu Button können neue Buchungsarten erzeugt werden.
 
 Über das Kontextmenü können bestehende Buchungsarten bearbeitet und gelöscht werden.
-
-Mit einem Klick auf PDF-Ausgabe wird eine Buchungsarten-Liste erstellt.
 
 <picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_Buchungsartenpdf.png" alt="" /></picture>
 

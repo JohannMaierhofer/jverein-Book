@@ -52,9 +52,9 @@ Ist in Administration->Einstellungen->Buchführung die Checkbox "Listen: Buchung
 
 Die Zeilen in der Mittelverwendung sind nummeriert damit man bei einem evtl. Begleitschreiben an das Finanzamt auf die Zeilen Bezug nehmen kann.
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_MittelverwendungFlowReportView.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_MittelverwendungFlowReportView.png" alt="" /></picture>
 
-Der Report kann über die Buttons CSV und PDF ausgegeben werden.
+Der Report kann über den Button PDF ausgegeben werden.
 
 Da es sich bei dieser Art der Berechnung um eine fortlaufende Berechnung handelt müssen die beiden letzten Positionen in der Liste persistent gespeichert werden. Dazu werden sie beim Jahresabschluss berechnet und gespeichert.
 
@@ -88,7 +88,7 @@ Dann erfolgt die Verrechnung der Zu- und Abgänge bei Rücklagen und Vermögen. 
 
 Nach Abzug der verwendeten Mittel vom Gesamtvermögen ergibt sich der neue Verwendungsrückstand/-überhang.
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_MittelverwendungSaldoReportView.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_MittelverwendungSaldoReportView.png" alt="" /></picture>
 
 Ist in Administration->Einstellungen->Buchführung die Checkbox "Listen: Buchungsarten ohne Buchung unterdrücken" ausgewählt werden Rücklagenarten ohne Saldo im Report nicht angezeigt.
 
@@ -96,7 +96,7 @@ Ist in Administration->Einstellungen->Anzeige die Checkbox "Summen Anlagenkonto 
 
 Dieser Report enthält eine Spalte Kommentar. Hier wird die erste Zeile aus dem Kommentarfeld des Kontos ausgegeben. Damit kann man steuerrelevante Information ausgeben. Z.B. kann man ausgeben ob die Anlage nutzungsgebunden ist oder zweckfremd eingesetzt wird.
 
-Der Report kann über die Buttons CSV und PDF ausgegeben werden.
+Der Report kann über den Button PDF ausgegeben werden.
 
 ### Annahmen
 

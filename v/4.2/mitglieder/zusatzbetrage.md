@@ -59,13 +59,12 @@ In der Tabelle werden folgende Spalten angezeigt:
 * Steuer : Steuer (falls in Administration->Einstellungen->Buchführung die Option "Steuer individuell pro Buchung setzen" aktiviert ist)
 * Mitglied zahlt selbst
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_ZusatzBetraegeListeView.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_ZusatzBetraegeListeView.png" alt="" /></picture>
 
 Folgende Buttons stehen zu Verfügung:
 
 * Vorlagen: Zeigt die Liste der verfügbaren Vorlagen an. Siehe [Zusatzbeträge Vorlagen](zusatzbetragevorlage.md)
 * Importieren: Damit können Zusatzbeträge aus einer Datei importiert werden. Siehe [Zusatzbeträge Importieren](zusatzbetrage-importieren.md)
-* PDF: Liste der Zusatzbeträge als PDF exportieren
 * Neu: Damit kann ein neuer Zusatzbetrag eingerichtet werden.
 
 Durch einen Doppelklick wird die Bearbeitung eines Zusatzbetrag eingeleitet.

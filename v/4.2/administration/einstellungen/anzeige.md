@@ -1,6 +1,6 @@
 # Anzeige
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/401_EinstellungenAnzeige.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_EinstellungenAnzeige.png" alt="" /></picture>
 
 Durch die Einstellungen kann das Verhalten von JVerein beeinflusst werden.
 
@@ -58,6 +58,7 @@ Hier kann eingestellt werden welche Information bei Mitgliedern verfügbar ist:
 ### Allgemeines
 * Buchungsart ohne Buchung unterdrücken: In Listen werden Buchungsarten ausgeblendet die im ausgewählten Zeitraum keine Buchung haben
 * Summen Anlagenkonto in Kontensaldo: Im Kontensaldo werden die Anlagenkonten nicht einzeln aufgeführt sondern als ein Eintrag mit der Summe aller Anlagenkonten
+* Leere letzte Spalte in Tabellen: Im Gegensatz zu Windows wird bei Linux die letzte Spalte in Tabellen bis an den rechten Rand vergrößert. Das führt zu einer unnatürlichen Ansicht der Tabellen, besonders wenn in der letzten Spalte der Inhalt rechts bündig angeordnet ist. Über diesen Schalter lässt sich eine leere Spalte einblenden wodurch sich ein Layout wie bei Windows ergibt. Bei Windows braucht dies nicht gesetzt zu werden
 
 
 ### Intervall für aktive Konten (Jahre)
