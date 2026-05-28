@@ -33,7 +33,7 @@ Um sich wiederholende Projekte z.B. jahresweise vergleichen zu können, kann ent
 
 Alternativ kann man aber auch stets dasselbe Projekt verwenden (z.B. "St. Martin") und dann für einen Mehrjahresvergleich die Auswertung mit unterschiedlichen Datumsbereichen (je Jahr) mehrmals abrufen.
 
-Die Tabelle kann als PDF-Datei oder CSV-Datei ausgegeben werden.
+Die Tabelle kann als fester PDF Report ausgegeben werden.
 
 Das Kontextmenü bietet folgende Einträge:
 * Bearbeiten: Bei Auswahl der Projekt Zeile lässt sich das entsprechende Projekt editieren. Bei Auswahl einer Buchungsart Zeile lässt sich die Buchungsart editieren

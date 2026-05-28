@@ -28,7 +28,7 @@ Die Bemerkung lässt sich editieren.
 
 In den Tabs werden die durch den Abrechnungslauf erzeugten Buchungen, Sollbuchungen und Lastschriften sowie die abgerechneten Zusatzbeträge angezeigt.
 
-In jedem Tab ist die Ausgabe der Liste als PDF und CSV unterstützt. Über den erscheinenden Dialog lassen sich die Spalten auswählen die in den Reports enthalten sein sollen.
+Über die CSV/PDF Panel Buttons wird des jeweils angezeigte Tab ausgegeben.
 
 <picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_AbrechnungslaufView.png" alt="" /></picture>
 

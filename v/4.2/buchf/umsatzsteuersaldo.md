@@ -21,7 +21,7 @@ Mit den den Navigations Pfeilen lässt sich der ausgewählte Bereich nach vorne 
 
 Beginnt das Von Datum an einem Monatsanfang und endet das Bis Datum an einem letzten Tag eines Monats, wird Monatsweise geblättert. Andernfalls mit der Anzahl der Tage des Zeitbereichs.
 
-Die Daten lassen sich als CSV oder PDF exportieren.
+Die Daten lassen sich als festen PDF Report exportieren.
 
 Das Kontextmenü bietet folgende Einträge:
 * Bearbeiten: Bei Auswahl einer Steuer Zeile lässt sich die entsprechende Steuer editieren

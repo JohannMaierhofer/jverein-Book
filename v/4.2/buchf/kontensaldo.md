@@ -16,7 +16,7 @@ Beginnt das Von Datum an einem Monatsanfang und endet das Bis Datum an einem let
 
 Sofern kein [Anfangsbestand](anfangsbestand.md) vorhanden ist, wird ein entsprechender Hinweis ausgegeben.
 
-Die Daten können im PDF-Format oder CSV-Format ausgegeben werden.
+Die Daten können im PDF-Format als fester Report ausgegeben werden.
 
 Das Kontextmenü bietet folgende Einträge:
 * Bearbeiten: Es lässt sich das entsprechende Konto editieren

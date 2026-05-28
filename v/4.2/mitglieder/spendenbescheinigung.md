@@ -71,12 +71,10 @@ Möchte man also Spendenbescheinigungen per Mail verschicken geht das nur für e
 
 Mit der Option "Sachspende oder Geldspende mit Erstattungsverzicht" erhält man alle Spendenbescheinigungen für die keine Unterschrift gedruckt wird. Diese müssen ausgedruckt und per Hand unterschrieben werden.
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/401_SpendenbescheinigungenListeView.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_SpendenbescheinigungenListeView.png" alt="" /></picture>
 
 Folgende Buttons stehen zu Verfügung:
 
-* CSV: Ausgabe der Liste als CSV Datei
-* PDF: Ausgabe der Liste als PDF Datei
 * Neu (automatisch): Automatisch neue Spendenbescheinigungen erstellen
 
 Durch einen Doppelklick wird die Bearbeitung einer Spendenbescheinigung eingeleitet.

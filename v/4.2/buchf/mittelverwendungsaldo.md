@@ -23,7 +23,7 @@ Mit den den Navigations Pfeilen lässt sich der ausgewählte Bereich nach vorne 
 
 Beginnt das Von Datum an einem Monatsanfang und endet das Bis Datum an einem letzten Tag eines Monats, wird Monatsweise geblättert. Andernfalls mit der Anzahl der Tage des Zeitbereichs.
 
-Die Daten lassen sich als CSV oder PDF exportieren.
+Die Daten lassen sich als fester PDF Report exportieren.
 
 Das Kontextmenü bietet folgende Einträge:
 * Bearbeiten: Bei Auswahl der Buchungsklasse Zeile lässt sich die entsprechende Buchungsklasse editieren. Bei Auswahl der Buchungsart Zeile lässt sich die entsprechende Buchungsart editieren

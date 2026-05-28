@@ -8,15 +8,25 @@ Die Version 4.2 ist eine Minor Version und rückwärts kompatibel mit einer 4.1 
 
 ### Spaltenauswahl bei View Tabellen und Reports
 
-Es gibt eine allgemeine Erweiterung für alle Tabellen, außer den Saldo Tabellen. Es lässt sich einstellen, welche Spalten in den Tabellen am GUI angezeigt werden. Auch können die Tabellen als CSV und PDF ausgegeben werden.
+Es gibt eine allgemeine Erweiterung für alle Tabellen. Es lässt sich einstellen, welche Spalten in den Tabellen am GUI angezeigt werden. Auch können die Tabellen als CSV und PDF ausgegeben werden.
 
 Beim Spalten Konfigurationsdialog erfolgt eine Dialogabfrage in dem man die anzuzeigenden Spalten auswählen kann. 
 
 <picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_SpaltenauswahlDialog.png" alt="" /></picture>
 
-Bei der Ausgabe als CSV oder PDF erfolgt eine Dialogabfrage in dem man die auszugebenden Spalten auswählen kann. In de Lasche Spalten lässt sich auch das relative Verhältnis der Spaltenbreiten im PDF Report einstellen. Im Ränder Tab kann der Randabstand der Tabelle im PDF Report eingestellt werden. Im Formular Tab kann das Vordergrund und Hintergrund Formular ausgewählt werden, ebenso ob im Querformat gedruckt werden soll.
+Bei der Ausgabe als CSV oder PDF erfolgt eine Dialogabfrage in dem man die auszugebenden Spalten auswählen kann. In de Lasche Spalten lässt sich auch das relative Verhältnis der Spaltenbreiten im PDF Report einstellen.
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_TabelleExportDialog.png" alt="" /></picture>
+Über den Button "Breiten zurücksetzen" werden die Breitenangaben im Verhältnis zu den Breiten in der angezeigten Liste angepasst.
+
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_TabelleExportDialogSpalten.png" alt="" /></picture>
+
+Im Ränder Tab kann der Randabstand der Tabelle im PDF Report eingestellt werden.
+
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_TabelleExportDialogRaender.png" alt="" /></picture>
+
+Im Formular Tab kann das Vordergrund und Hintergrund Formular ausgewählt werden, ob Header oder Zellen transparent sein sollen oder ob im Querformat gedruckt werden soll.
+
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_TabelleExportDialogFormular.png" alt="" /></picture>
 
 Die Buttons sind in der Panelleiste oben verfügbar.
 
@@ -113,6 +123,9 @@ In der Listenanzeige von Buchungen und Anlagenbuchungen wurden die Buttons reduz
 * In der Listenanzeige von Buchungen wurden die beiden Import Buttons zu einem zusammen geführt. In der Auswahlbox lasst sich auswählen von welcher Quelle importiert werden soll
 * In beiden Listen Anzeigen wurden der CSV Report und die drei PDF Reports zu einem Export Button zusammen gefasst. In der Auswahlbox lasst sich auswählen welcher der Reports erzeugt werden soll
 
+### Leere letzte Spalte
+
+* Im Gegensatz zu Windows wird bei Linux die letzte Spalte in Tabellen bis an den rechten Rand vergrößert. Das führt zu einer unnatürlichen Ansicht der Tabellen, besonders wenn in der letzten Spalte der Inhalt rechts bündig angeordnet ist. Über einen Schalter in den Einstellungen lässt sich eine leere Spalte einblenden wodurch sich ein Layout wie bei Windows ergibt. Bei Windows braucht dies nicht gesetzt zu werden
 
 
 ## Sonstiges
