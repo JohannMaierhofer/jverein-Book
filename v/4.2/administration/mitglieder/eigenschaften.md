@@ -4,13 +4,15 @@
 
 Jedem Mitglied können Eigenschaften zugeordnet werden.
 
-Die Eigenschaften werden unter Administration->Eigenschaften bearbeitet.
+Die Eigenschaften werden unter Administration->Mitglieder->Eigenschaften bearbeitet.
 
 Jeder Eigenschaft ist eine [Eigenschaftengruppe ](eigenschaften-gruppen.md)zuzuordnen.
 
 ## Liste der Eigenschaften
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/400_Eigenschaften.png" alt="" /></picture>
+Eine Liste der Eigenschaften kann über den Eintrag Administration->Mitglieder->Eigenschaften im Navigationsbaum angezeigt werden.
+
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_EigenschaftenListeView.png" alt="" /></picture>
 
 Mit Neu kann eine neue Eigenschaft eingerichtet werden.
 
@@ -22,6 +24,8 @@ Das Kontextmenü bietet folgende Optionen:
 * Löschen: Damit kann eine Eigenschaft gelöscht werden
 
 ## Eigenschaft
+
+Bei der Erstellung einer neuen Eigenschaft erscheint folgende Anzeige.
 
 <picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/400_Eigenschaft.png" alt="" /></picture>
 

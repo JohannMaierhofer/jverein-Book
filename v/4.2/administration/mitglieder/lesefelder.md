@@ -1,12 +1,14 @@
 # Lesefelder
 
-## Allgemeines
+## Aktivierung
 
-Zur Nutzung der Lehrgänge ist die Option in den Einstellungen (Administration->Einstellungen->Anzeige) zu aktivieren.
+Zur Nutzung der Lesefelder ist die Option in den Einstellungen (Administration->Einstellungen->Anzeige) zu aktivieren.
+
+## Allgemeines
 
 Lesefelder sind virtuelle Datenbank-Felder. Sie werden mit Hilfe eines Skriptes berechnet und sind daher nur lesbar (-> Lesefelder ). Jedes Lesefeld besteht aus einer Bezeichnung und Skript-Code.
 
-Lesefeld-Namen können frei, aber eindeutig gewählt werden. Intern wird `mitglied_lesefelder_` vorne angefügt. Um z.B. beim Schreiben einer E-Mail auf Lesefeld Anrede zuzugreifen, muss `${mitglied_lesefelder_Anrede}` eingegeben werden.
+Lesefeld-Namen können frei, aber eindeutig gewählt werden. Intern wird `mitglied_lesefelder_` vorne angefügt. Um z.B. beim Schreiben einer E-Mail auf Lesefeld anrede zuzugreifen, muss `$mitglied_lesefelder_anrede` eingegeben werden.
 
 Der Inhalt von Lesefeldern wird durch [http://www.beanshell.org/](http://www.beanshell.org/)-Skripte beschrieben. Damit ist es möglich sehr komplexe Skripte in Java zu erstellen.
 
@@ -14,7 +16,9 @@ Jedes Skript muss als Rückgabe-Wert einen String zurückliefern.
 
 ## Liste der Lesefelder
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_Lesefelder.png" alt="" /></picture>
+Eine Liste der Lesefelder kann über den Eintrag Administration->Mitglieder->Lesefelder im Navigationsbaum angezeigt werden.
+
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_LesefelderListeView.png" alt="" /></picture>
 
 Mit Neu kann ein neues Lesefeld eingerichtet werden.
 
@@ -24,7 +28,9 @@ Mit Löschen kann ein Lesefeld gelöscht werden.
 
 ## Lesefeld
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_Lesefeld.png" alt="" /></picture>
+Bei der Erstellung eines neuen Lesefeld erscheint folgende Anzeige.
+
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_LesefeldView.png" alt="" /></picture>
 
 ### Mitglied
 
@@ -32,7 +38,7 @@ Die Mitglied Auswahl dient dazu das Ergebnis einer Skript Auswertung für das se
 
 ### Skript-Name
 
-Name des Skriptes.
+Name des Skriptes wie sie in den Mails, Formularen und Import/Export verwendet werden. Diese dürfen nur die Zeichen a-z, 0-9 und _ (Unterstrich) enthalten. Er darf keine Leerzeichen enthalten und sich nicht mit existierenden Namen überschneiden
 
 ### Skript
 
@@ -43,10 +49,6 @@ Der Code für das Skript.
 Ausgabe des Skriptes für das selektierte Mitglied.
 
 ## Lesefelder nutzen
-
-Zunächst muss die Lesefelder-Funktion aktiviert werden. Administration->Einstellungen->Anzeige->Lesefelder anzeigen.
-
-Beim nächsten Start von Jameica erscheint unter Administration die neue Option Lesefelder. Außerdem wird sofort auf der Mitglieder-Details-Seite ein neuer Tab Lesefelder angezeigt. Über den Bearbeiten-Knopf erhält man die Möglichkeit neue Lesefelder anzulegen und vorhandene zu editieren bzw. zu löschen.
 
 Die Skripts für Lesefelder werden in Java geschrieben. Genauere Informationen über und Möglichkeiten mit dem Beanshell-Interpreter, ist auf www.beanshell.org verfügbar. Nachfolgend ein paar Beispiele.
 

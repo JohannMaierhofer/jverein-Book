@@ -4,17 +4,15 @@
 
 Zur Nutzung der Steuer ist die Option Umsatzsteuer Support unter Administration->Einstellungen->Buchführung zu aktivieren.
 
-Anschließend sollte JVerein neu gestartet werden, damit der Menüpunkt "Steuer" zur Verfügung steht.
-
 ## Allgemeines
 
 Über Steuern können verschiedene Steuersätze definiert werden.
 
 ## Liste der Steuern
 
-Eine Liste der Steuern kann über den Eintrag Steuer im Navigationsbaum angezeigt werden.
+Eine Liste der Steuern kann über den Eintrag Administration->Buchführung->Steuer im Navigationsbaum angezeigt werden.
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_SteuerListeView.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_SteuerListeView.png" alt="" /></picture>
 
 Über den Neu Button können neue Steuern erzeugt werden.
 
@@ -24,7 +22,7 @@ Eine Liste der Steuern kann über den Eintrag Steuer im Navigationsbaum angezeig
 
 Mit Neu kann eine neue Steuer eingerichtet werden.
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_Steuer.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_SteuerView.png" alt="" /></picture>
 
 Eine Buchungsart hat folgende Parameter:
 

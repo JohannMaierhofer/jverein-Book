@@ -4,8 +4,6 @@
 
 Durch die Einstellungen kann das Verhalten von JVerein beeinflusst werden.
 
-Nach Änderungen der mit Stern gekennzeichneten Werte ist ein Neustart von Jameica erforderlich.
-
 Folgende Einstellungen können vorgenommen werden:
 
 ### Mitglieder Feature Auswahl
@@ -92,9 +90,13 @@ Bei Suche bei Eingabe tippt man den Wortteil der Bezeichnung der Buchungsart ein
 
 Anzeige der kompletten Liste stellt eine Drop-Down-Liste mit allen Buchungsarten zur Verfügung.
 
-### Buchungsart Sortierung
+### Buchungsart/-klasse Sortierung
 
-Wie sollen die Buchungsarten sortiert werden: nach Bezeichnung, nach Nummer oder nach Bezeichnung/Nummer.
+Wie sollen die Buchungsarten und Buchungsklassen sortiert werden: Nach Bezeichnung, nach Nummer oder nach Bezeichnung/Nummer.
+
+### Buchungsart/-klasse Anzeige
+
+Wie sollen die Buchungsarten und Buchungsklassen angezeigt werden: Mit Bezeichnung, mit Nummer oder mit Bezeichnung/Nummer.
 
 ### Mitglied Auswahl
 

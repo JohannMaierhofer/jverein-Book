@@ -4,7 +4,7 @@
 
 Für statistische Zwecke können Altersgruppen angegeben werden. Erfassen Sie die Gruppen wie im folgendem Beispiel
 
-1-5,6-10,11-17,18-25,26-50,50-100
+1-5,6-10,11-17,18-25,26-50,51-100
 
 Zur Ausgabe einer Jubiläumsliste werden die Jubeljahre durch Komma getrennt eingetragen. Ohne Eingabe werden die Standardwerte 10,25,40,50 verwendet.
 

@@ -48,7 +48,7 @@ Mit dem Button "Daten löschen" können die Einträge zur Bankverbindung gelösc
 
 Zahlt das Mitglied Beiträge oder Zusatzbeträge für andere Mitglieder oder Nicht-Mitglieder, dann wird eine Tabelle mit Mitgliedern bzw. Nicht-Mitgliedern angezeigt für die das Mitglied bezahlt.
 
-Zur Nutzung ist die Option Familienverband unter Administration->Einstellungen->Anzeige zu aktivieren.
+Zur Nutzung ist die Option "Abweichende Zahler" unter Administration->Einstellungen->Anzeige zu aktivieren.
 
 <picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/401_WerZahltFuer.png" alt="" /></picture>
 

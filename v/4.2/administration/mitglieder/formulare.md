@@ -6,7 +6,9 @@ In JVerein werden für [Spendenbescheinigungen](../../mitglieder/spendenbeschein
 
 ## Liste der Formulare
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_Formulare.png" alt="" /></picture>
+Eine Liste der Formulare kann über den Eintrag Administration->Mitglieder->Formulare im Navigationsbaum angezeigt werden.
+
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_FormulareListeView.png" alt="" /></picture>
 
 Mit Neu kann ein neues Formular eingerichtet werden.
 
@@ -28,7 +30,7 @@ Mit dem Button Importieren können vorher exportierte Formulare importiert werde
 
 Der Dialog beinhaltet die Formular Attribute und zeigt eine Liste der Formularfelder die auf die Datei Vorlage gedruckt werden sollen.
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_Formular.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_FormularView.png" alt="" /></picture>
 
 ## Formular Attribute
 
@@ -46,10 +48,12 @@ Art des Formulars. Es gibt an für welche Ausgabe das Formular verwendet werden 
 * Freies Formular
 * Sammelspendenbescheinigung
 * SEPA-Prenotification
+* Sachspendenbescheinigung
+* Hintergrund/Vordergrund
 
 ### Datei
 
-Hintergrund Datei für das Formular.
+Datei für das Formular.
 
 Man erstelle ein einfaches Dokument/Formular in Word, Open-/LibreOffice oder was auch immer (Dankeschönschreiben, Rundschreiben, whatsoever...) und lasse an den entsprechenden Stellen im Schreiben einfach leeren Platz (weisse unbeschriebene Stellen) als Platzhalter für die später von JVerein einzufügenden Daten.
 

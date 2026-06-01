@@ -4,8 +4,6 @@
 
 Zur Nutzung der Rechnungen ist die Option unter Administration->Einstellungen->Anzeige zu aktivieren.
 
-Anschließend sollte JVerein neu gestartet werden, damit der Menüpunkt "Rechnungen" zur Verfügung steht.
-
 ### Konfiguration
 
 <picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/401_EinstellungenRechnungen.png" alt="" /></picture>

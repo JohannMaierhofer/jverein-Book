@@ -4,8 +4,6 @@
 
 Zur Nutzung der Zusatzfelder ist die Option unter Administration->Einstellungen->Anzeige zu aktivieren.
 
-Anschließend sollte JVerein neu gestartet werden, damit der Menüpunkt "Zusatzfelder" zur Verfügung steht.
-
 ### Allgemeines
 
 Der Benutzer kann zusätzliche Datenfelder (=Zusatzfelder) definieren.
@@ -20,7 +18,9 @@ Eingerichtet werden solche Zusatzfelder unter JVerein->Administration->Zusatzfel
 
 ### Liste der Zusatzfelder
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_Zusatzfelder.png" alt="" /></picture>
+Eine Liste der Zusatzfelder kann über den Eintrag Administration->Mitglieder->Zusatzfelder im Navigationsbaum angezeigt werden.
+
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_ZusatzfelderListeView.png" alt="" /></picture>
 
 Mit Neu kann ein neues Zusatzfeld eingerichtet werden.
 
@@ -35,7 +35,7 @@ Das Kontextmenü bietet folgende Optionen:
 
 Durch einen Klick auf neu öffnet sich folgendes Fenster:
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_Zusatzfeld.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_ZusatzfeldView.png" alt="" /></picture>
 
 Der Name des Feldes kann aus den Zeichen a-z und 0-9 und \_ (Unterstrich) bestehen. Er darf keine Leerzeichen enthalten und sich nicht mit existierenden Feldnamen überschneiden. Als Label kann ein beliebiger Begriff verwendet werden, der bei der Eingabe der Daten den Feld vorangestellt wird.
 
