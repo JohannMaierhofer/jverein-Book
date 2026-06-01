@@ -33,11 +33,12 @@ Die Buttons sind in der Panelleiste oben verfügbar.
 <picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_Panelbuttons.png" alt="" /></picture>
 
 Drei Buttons sind verfügbar:
+* Spalten auswählen: Es lässt sich auswählen, welche Spalten in der Tabelle angezeigt werden sollen
 * CSV: Gibt die ausgewählten Spalten der angezeigten Tabelle als CSV Datei aus
 * PDF: Gibt die ausgewählten Spalten der angezeigten Tabelle als PDF aus
-* Spalten auswählen: Es lässt sich auswählen, welche Spalten in der Tabelle angezeigt werden sollen
 
-PS: Da die anzuzeigenden Spalten nun damit ausgewählt werden können wurde diese Option für Mitglieder in den Einstellungen entfernt. Leider konnte die Konfiguration aus den Einstellungen nicht mit übernommen werden. Es erfolgt eine feste Auswahl als Default. 
+
+PS: Da die anzuzeigenden Spalten nun damit ausgewählt werden können, wurde diese Option für Mitglieder in den Einstellungen entfernt. Leider konnte die Konfiguration aus den Einstellungen nicht mit übernommen werden. Es erfolgt eine feste Auswahl als Default. 
 
 ### Arbeitseinsatz Auswertung
 
@@ -67,9 +68,7 @@ Im Mailempfänger Auswahldialog wurden einige Änderungen durchgeführt:
 
 In den vier Laschen im Abrechnungslauf View ist jetzt bei allen die Ausgabe der Liste als PDF oder CSV unterstützt.
 
-Diese Reports benutzen eine generische Implementierung zu Generierung der Reports aus den angezeigten Tabellen.
-* Es wird ein Dialog geöffnet mit dem sich die Spalten auswählen lassen die ausgegeben werden sollen
-* Die Breite der Spalten im PDF Report orientieren sich an der Breite der Spalten in der Anzeige
+Diese Reports benutzen eine generische Implementierung zu Generierung der Reports aus den angezeigten Tabellen. Diese sind über die entsprechenden Panel Buttons verfügbar (siehe oben).
 
 ### Menü in Saldo Views
 

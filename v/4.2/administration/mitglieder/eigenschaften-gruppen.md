@@ -4,7 +4,9 @@ Zur Gruppierung der Eigenschaften können Eigenschaften-Gruppen eingerichtet wer
 
 ## Liste der Eigenschaftengruppen
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/400_Eigenschaftengruppen.png" alt="" /></picture>
+Eine Liste der Eigenschaftengruppen kann über den Eintrag Administration->Mitglieder->Eigenschaftengruppen im Navigationsbaum angezeigt werden.
+
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_EigenschaftengruppenListeView.png" alt="" /></picture>
 
 Mit Neu kann eine neue Eigenschaftengruppe eingerichtet werden.
 
@@ -16,6 +18,8 @@ Das Kontextmenü bietet folgende Optionen:
 * Löschen: Damit kann eine Eigenschaftengruppe, deren keine Eigenschaft zugeordnet ist, gelöscht werden. Bei zugeordneten Eigenschaften erscheint eine Fehlermeldung
 
 ## Eigenschaftengruppe
+
+Bei der Erstellung einer neuen Eigenschaftengruppe erscheint folgende Anzeige.
 
 <picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/400_Eigenschaftengruppe.png" alt="" /></picture>
 

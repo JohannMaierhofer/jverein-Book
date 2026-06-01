@@ -6,15 +6,13 @@
 
 ## Liste der Buchungsarten
 
-Eine Liste der Buchungsarten kann über den Eintrag Buchungsarten im Navigationsbaum angezeigt werden.
+Eine Liste der Buchungsarten kann über den Eintrag Administration->Buchführung->Buchungsarten im Navigationsbaum angezeigt werden.
 
 <picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_BuchungsartenListeView.png" alt="" /></picture>
 
 Über den Neu Button können neue Buchungsarten erzeugt werden.
 
 Über das Kontextmenü können bestehende Buchungsarten bearbeitet und gelöscht werden.
-
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_Buchungsartenpdf.png" alt="" /></picture>
 
 ## Buchungsart
 
@@ -28,10 +26,10 @@ Eine Buchungsart hat folgende Parameter:
 * Bezeichnung
 * Art: Für jede Buchungsart wird die Art "Einnahme", "Ausgabe" oder "Umbuchung" ausgewählt
 * Buchungsklasse: Buchungsklassen dienen zu Gruppierung von Buchungsarten. Es hängt vom gewählten Kontenrahmen ab wie dieser Wert benutzt wird (siehe unten)
-* Spende: Bei einer Ausgabe für die Spendenbescheinigungen erstellt werden sollen ist dieser Schalter zu aktivieren
+* Spende: Bei einer Einnahme für die Spendenbescheinigungen erstellt werden sollen ist dieser Schalter zu aktivieren
 * Abschreibung: Falls Abschreibungen gebucht werden sollen und diese Buchungsart für eine Abschreibung benutzt werden soll ist dieser Schalter zu aktivieren
 * Steuer: Für Umsatzsteuer pflichtige Vereine kann hier die Steuer ausgewählt werden
-* Status: Aktiv bedeutet, dass der Eintrag in Auswahlmenüs zur Eingabe der Buchungsart angezeigt wird. Deaktiviert bedeutet, das die Buchungsart nicht mehr angeboten wird. Das kann Sinn machen wenn man die Buchungsart nicht mehr braucht aber noch alte Buchungen existieren denen sie zugeordnet sind. Bei Auto wird eine Buchungsklasse automatisch ausgeblendet wenn sie mehrere Monate nicht mehr verwendet wurde. Die Anzahl der Monate lässt sich unter Administration->Einstellungen->[Buchführung](../einstellungen/buchfuehrung.md) konfigurieren.
+* Status: Aktiv bedeutet, dass der Eintrag in Auswahlmenüs zur Eingabe der Buchungsart angezeigt wird. Deaktiviert bedeutet, das die Buchungsart nicht mehr angeboten wird. Das kann Sinn machen wenn man die Buchungsart nicht mehr braucht aber noch alte Buchungen existieren denen sie zugeordnet sind. Bei Auto wird eine Buchungsklasse automatisch ausgeblendet wenn sie mehrere Monate nicht mehr verwendet wurde. Die Anzahl der Monate lässt sich unter Administration->Einstellungen->[Anzeige](../einstellungen/anzeige.md) konfigurieren.
 * Suchbegriff: Hier kann ein Suchbegriff (oder Komma getrennte Liste von Suchbegriffen) angegeben werden anhand der die aus Hibiscus importierten Buchungen automatisch dieser Buchungsart zugeordnet werden.
 * Suchbegriff ist regulärer Ausdruck: wenn aktiviert, wird der Suchbegriff als regulärer Ausdruck ausgewertet.
 

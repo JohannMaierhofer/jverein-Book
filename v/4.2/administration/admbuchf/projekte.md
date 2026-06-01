@@ -4,8 +4,6 @@
 
 Zur Nutzung der Projekte ist die Option unter Administration->Einstellungen->Anzeige zu aktivieren.
 
-Anschließend sollte JVerein neu gestartet werden, damit der Menüpunkt "Projekte" zur Verfügung steht.
-
 ## Allgemeines
 
 Innerhalb der Buchführung können Buchungen zu Projekten zusammengefasst werden. Siehe auch [https://jverein-forum.de/viewtopic.php?f=4\&t=646](https://jverein-forum.de/viewtopic.php?f=4\&t=646)
@@ -14,11 +12,11 @@ Die Verwendung von Projekten ist dann sinnvoll, wenn die Informationen, die die 
 
 Indem bei einer Buchung ein Projekt hinterlegt wird, können zusammengehörige Buchungen über das Projekt ausgewertet werden.
 
-Unter Administration->Buchführung->Projekte werden die Projekte angelegt bzw. bearbeitet.
-
 ## Liste der Projekte
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_ProjekteListeView.png" alt="" /></picture>
+Unter Administration->Buchführung->Projekte werden die Projekte angelegt bzw. bearbeitet.
+
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_ProjekteListeView.png" alt="" /></picture>
 
 Mit neu kann ein neues Projekt eingerichtet werden.
 
@@ -31,16 +29,18 @@ Das Kontextmenü bietet folgende Optionen:
 
 ## Projekt
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_ProjektView.png" alt="" /></picture>
+Mit Neu kann ein neues Projekt eingerichtet werden.
+
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_ProjektView.png" alt="" /></picture>
 
 ## Auswertung
 
-Informationen zu Projekten liefert die Funktion Projekt-Saldo (zu finden unter Buchführung->Projekte), Detailinformation filtert man unter Buchführung->Buchungen.
+Informationen zu Projekten liefert die Funktion Projekt-Saldo, Detailinformation filtert man unter Buchführung->Buchungen.
 
 ### Projektsaldo
 
-In Anlehnung an die Funktion Buchungsklassen liefert die Funktion Projekt-Saldo, die über Buchführung->Projekte aufgerufen wird, die Einnahmen und Ausgaben aller Projekte gruppiert nach Buchungsarten. Siehe [Projektsaldo](../../buchf/projekte.md)
+In Anlehnung an die Funktion Buchungsklassen liefert die Funktion Projekt-Saldo, die über Buchführung->Projektsaldo aufgerufen wird, die Einnahmen und Ausgaben aller Projekte gruppiert nach Buchungsarten. Siehe [Projektsaldo](../../buchf/projekte.md)
 
 ### Buchungen
 
-Die Liste aller Buchungen (Buchführung|Buchungen) kann auf ein Projekt, ggf. auch mit Datumseingrenzung, gefiltert werden. So erhält man die Liste aller Buchungen zu einen Projekt, die auch als PDF- oder CSV-Datei ausgegeben werden kann.
+Die Liste aller Buchungen (Buchführung->Buchungen) kann auf ein Projekt, ggf. auch mit Datumseingrenzung, gefiltert werden. So erhält man die Liste aller Buchungen zu einen Projekt, die auch als PDF- oder CSV-Datei ausgegeben werden kann.

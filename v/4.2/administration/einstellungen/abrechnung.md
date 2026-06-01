@@ -12,7 +12,7 @@ Die Standardwerte für den Zahlungsrhythmus und den Zahlungsweg bei der Speicher
 
 Für die SEPA-Konvertierung ist das SEPA-Land auszuwählen.
 
-SEPA XML-Version welche für die Generierung einer 1ct Überweisung (pain.001...) bzw. einer Lastschrift (pain.008...) XML Datei verwendet wird.
+SEPA XML-Version welche für die Generierung einer Überweisung (pain.001...) bzw. einer Lastschrift (pain.008...) XML Datei verwendet wird.
 
 Unterstützte Versionen sind aus folgender Tabelle ersichtlich.
 

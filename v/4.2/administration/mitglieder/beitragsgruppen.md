@@ -6,7 +6,9 @@ Es muss mindestens eine Beitragsgruppe erfasst werden.
 
 ## Liste der Beitragsgruppen
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_Beitragsgruppen.png" alt="" /></picture>
+Eine Liste der Beitragsgruppen kann über den Eintrag Administration->Mitglieder->Beitragsgruppen im Navigationsbaum angezeigt werden.
+
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_BeitragsgruppenListeView.png" alt="" /></picture>
 
 Mit Neu kann eine neue Beitragsgruppe eingerichtet werden.
 
@@ -19,7 +21,9 @@ Das Kontextmenü bietet folgende Optionen:
 
 ## Beitragsgruppe
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_Beitragsgruppe.png" alt="" /></picture>
+Bei der Erstellung einer neuen Beitragsgruppe erscheint folgende Anzeige.
+
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_BeitragsgruppeView.png" alt="" /></picture>
 
 ### Bezeichnung
 

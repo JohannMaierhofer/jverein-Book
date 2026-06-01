@@ -51,8 +51,6 @@ Mit dem Button "Neu" lässt sich ein neues Mitglied anlegen. Siehe [Stammdaten](
 
 Mit dem Button "Import" lassen sich ein neue Mitglieder aus CSV Dateien importieren. Siehe [Mitglieder Import](../import.md)
 
-Unter Administration->Einstellungen->Mitglieder Spalten lassen sich die die angezeigten Spalten konfigurieren.
-
 In 3.1.0 wurde eine weitere Spalte "Status" eingeführt. Sie liefert das Ergebnis der Checks die auch beim Speichern eines Mitglieds ausgeführt werden. Es kann nützlich sein diese Spalte für einen Check zu aktivieren, weil z.B. weitere Checks implementiert wurden. Z.B. wurde in 3.0.0 ein genauerer Check der Kontodaten eingeführt. Wenn alles OK ist kann man sie wieder entfernen.
 
 ### Filterung nach Eigenschaften
