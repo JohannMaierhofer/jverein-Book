@@ -2,11 +2,21 @@
 
 ## Allgemeines
 
-Jedem Mitglied können Eigenschaften zugeordnet werden.
+Für Mitglieder lassen sich Eigenschaften definieren. Eingerichtet werden Eigenschaften unter Administration->Mitglieder->Eigenschaften.
 
-Die Eigenschaften werden unter Administration->Mitglieder->Eigenschaften bearbeitet.
+Im Gegensatz zu Zusatzfeldern (siehe [Zusatzfelder ](felddefinition.md)) ist die Bezeichnung vorgegeben und sie können sie nur selektiert werden. Bei Zusatzfeldern können je nach Datentyp Mitglied individuelle Daten eingegeben werden.
 
-Jeder Eigenschaft ist eine [Eigenschaftengruppe ](eigenschaften-gruppen.md)zuzuordnen.
+Jeder Eigenschaft ist eine [Eigenschaftengruppe ](eigenschaften-gruppen.md) zuzuordnen.
+
+Eingerichtete Eigenschaften erscheinen beim Mitglied unter dem Reiter "Eigenschaften" und können dort ausgewählt werden. Über das Mitglied Menü in der Liste der Mitglieder können Eigenschaften für alle selektierten Mitglieder gleichzeitig gesetzt bzw. gelöscht werden.
+
+Zusätzlich werden sie in der Tabelle der Mitgliederliste in der Spalte der zugehörigen Eigenschaftengruppe anzeigen. Über die Spaltenauswahl des Panel Buttons kann die Anzeige der zugehörigen Eigenschaftengruppe ausgewählt werden.
+
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_MitgliederListeEigenschaftView.png" alt="" /></picture>
+
+In dem Bild wurde die Eigenschaftengruppe "Abteilung" in der Tabelle eingeblendet. Bei dem Mitglied Koch Otto wird die gesetzte Eigenschaft "Gymnastik" angezeigt.
+
+Eigenschaften lassen sich auch als Variablen in Mails und Reports einfügen. Es wird dabei über den Namen adressiert. Intern wird `mitglied_eigenschaft_` vorne angefügt. Um z.B. beim Schreiben einer Mail auf das Zusatzfeld Übungsleiter zuzugreifen, muss `$mitglied_eigenschaf_gymnastik` eingegeben werden.
 
 ## Liste der Eigenschaften
 

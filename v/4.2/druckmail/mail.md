@@ -18,7 +18,7 @@ In der Liste aller Mails wird der Betreff, das Bearbeitungs- und das Versanddatu
 
 Über das Kontextmenü lassen sich Mails bearbeiten oder löschen.
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_MailsView.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_MailsListeView.png" alt="" /></picture>
 
 ## Mails
 

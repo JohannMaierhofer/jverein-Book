@@ -2,7 +2,7 @@
 
 ## Allgemeines
 
-Es muss mindestens eine Beitragsgruppe erfasst werden.
+Es muss mindestens eine Beitragsgruppe erfasst werden, da jedem Mitglied eine Beitragsgruppe zugeordnet werden muss.
 
 ## Liste der Beitragsgruppen
 

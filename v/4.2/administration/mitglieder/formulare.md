@@ -4,6 +4,10 @@
 
 In JVerein werden für [Spendenbescheinigungen](../../mitglieder/spendenbescheinigung.md), [Mahnung](../../druckmail/mahnungen.md), [Rechnungen](../../druckmail/rechnungen.md), [Pre-Notification](../../druckmail/pre-notification.md) und diverse Zwecke [Freie Formulare](../../druckmail/freiesformular.md) hinterlegt.
 
+Bei der Generierung von PDF Dokumenten können die Formulare mit Formularfeldern bedruckt werden.
+
+Bei fest eingebauten Reports ohne Formular z.B. Kontoauszug oder Personalbogen kann ein fester Hintergrund und Vordergrund platziert werden. Hintergründe und Vordergründe müssen ebenfalls als Formulare definiert werden. Sie werden so genommen wie sie sind. Es lassen sich keine Formularfelder platzieren.
+
 ## Liste der Formulare
 
 Eine Liste der Formulare kann über den Eintrag Administration->Mitglieder->Formulare im Navigationsbaum angezeigt werden.

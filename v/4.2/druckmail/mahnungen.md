@@ -4,8 +4,6 @@
 
 Zur Nutzung der Mahnungen ist die Option "Rechnungen" unter Administration->Einstellungen->Anzeige zu aktivieren.
 
-Anschließend sollte JVerein neu gestartet werden, damit der Menüpunkt "Mahnungen" zur Verfügung steht.
-
 ## Allgemeines
 
 Für alle offenen Rechnungen können Mahnungen erstellt werden. Dabei hat man die Möglichkeit eine Mahnung selektiv oder automatisch zu erstellen. Eine Buchung ist offen, wenn der Betrag der Spalte Zahlungseingang kleiner ist als der Wert in der Spalte Betrag.

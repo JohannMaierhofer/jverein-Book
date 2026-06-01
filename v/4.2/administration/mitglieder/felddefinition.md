@@ -6,15 +6,19 @@ Zur Nutzung der Zusatzfelder ist die Option unter Administration->Einstellungen-
 
 ### Allgemeines
 
-Der Benutzer kann zusätzliche Datenfelder (=Zusatzfelder) definieren.
+Zusatzfelder sind Attribute für Mitglieder die zusätzlich zu den in JVerein vordefinierten Attributen vom Anwender frei definiert werden können. Eingerichtet werden solche Zusatzfelder unter Administration->Mitglieder->Zusatzfelder.
 
-Diese erscheinen beim Mitglied unter Reiter "Zusatzfelder".
+Damit lassen sich individuelle Daten zu einem Mitglied speichern. Eingerichtete Zusatzfelder erscheinen beim Mitglied unter dem Reiter "Zusatzfelder" und können dort individuell gesetzt werden.
 
-Zusätzlich lassen sie sich in der Tabelle der Mitgliederliste anzeigen. Dazu sind die entsprechenden Mitgliedern Spalten in den [Einstellungen](../einstellungen/spalten.md) zu aktivieren.
+Im Gegensatz zu Eigenschaften (siehe [Eigenschaften ](eigenschaften.md))  können je nach Datentyp individuelle Daten beim Mitglied eingegeben werden.
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_Mitgliedzusatzfelder.png" alt="" /></picture>
+Zusätzlich lassen sie sich in der Tabelle der Mitgliederliste als eigene Spalte anzeigen. Über die Spaltenauswahl des Panel Buttons kann die Anzeige ausgewählt werden.
 
-Eingerichtet werden solche Zusatzfelder unter JVerein->Administration->Zusatzfelder
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_MitgliederListeZusatzfeldView.png" alt="" /></picture>
+
+In dem Bild wurde das Zusatzfeld "Übungsleiter" in der Tabelle eingeblendet.
+
+Zusatzfelder lassen sich auch als Variablen in Mails und Reports einfügen. Es wird dabei über den Namen adressiert. Intern wird `mitglied_zusatzfeld_` vorne angefügt. Um z.B. beim Schreiben einer Mail auf das Zusatzfeld Übungsleiter zuzugreifen, muss `$mitglied_zusatzfeld_uebungsleiter` eingegeben werden.
 
 ### Liste der Zusatzfelder
 
@@ -37,7 +41,9 @@ Durch einen Klick auf neu öffnet sich folgendes Fenster:
 
 <picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_ZusatzfeldView.png" alt="" /></picture>
 
-Der Name des Feldes kann aus den Zeichen a-z und 0-9 und \_ (Unterstrich) bestehen. Er darf keine Leerzeichen enthalten und sich nicht mit existierenden Feldnamen überschneiden. Als Label kann ein beliebiger Begriff verwendet werden, der bei der Eingabe der Daten den Feld vorangestellt wird.
+Der Name des Feldes kann aus den Zeichen a-z und 0-9 und \_ (Unterstrich) bestehen. Er darf keine Leerzeichen enthalten und sich nicht mit existierenden Feldnamen überschneiden. Er wird bei der Bildung des Variablennamen verwendet.
+
+Als Label kann ein beliebiger Begriff verwendet werden. Es wird am GUI verwendet, z.B. als Name der Spalte in der Mitglieder Tabelle.
 
 Folgende Datentypen stehen zur Verfügung:
 
