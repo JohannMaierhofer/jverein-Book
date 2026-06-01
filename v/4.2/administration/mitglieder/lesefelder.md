@@ -6,7 +6,7 @@ Zur Nutzung der Lesefelder ist die Option in den Einstellungen (Administration->
 
 ## Allgemeines
 
-In Mails oder Reports können Variablen verwendet werden. Diese werden bei der Generierung durch die echten Werte ersetzt. Nemen den in JVerein eingebauten Variablen, Eigenschaftengruppen, Eigenschaften und Zusatzfeldern können auch Variablen (Lesefelder) definiert werden die die Ausführung eine Skriptes veranlassen.
+In Mails oder Reports können Variablen verwendet werden. Diese werden bei der Generierung durch die echten Werte ersetzt. Neben den in JVerein eingebauten Variablen, Eigenschaftengruppen, Eigenschaften und Zusatzfeldern können auch Variablen (Lesefelder) definiert werden die die Ausführung eine Skriptes veranlassen.
 
 Lesefelder sind virtuelle Datenbank-Felder. Sie werden mit Hilfe eines Skriptes berechnet und sind daher nur lesbar (-> Lesefelder ). Jedes Lesefeld besteht aus einem Namen und Skript-Code.
 

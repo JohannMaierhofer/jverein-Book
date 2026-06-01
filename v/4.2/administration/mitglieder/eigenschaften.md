@@ -4,7 +4,7 @@
 
 Für Mitglieder lassen sich Eigenschaften definieren. Eingerichtet werden Eigenschaften unter Administration->Mitglieder->Eigenschaften.
 
-Im Gegensatz zu Zusatzfeldern (siehe [Zusatzfelder ](felddefinition.md)) ist die Bezeichnung vorgegeben und sie können sie nur selektiert werden. Bei Zusatzfeldern können je nach Datentyp Mitglied individuelle Daten eingegeben werden.
+Im Gegensatz zu Zusatzfeldern (siehe [Zusatzfelder ](felddefinition.md)) ist die Bezeichnung vorgegeben und sie können nur selektiert werden. Bei Zusatzfeldern können je nach Datentyp Mitglied individuelle Daten eingegeben werden.
 
 Jeder Eigenschaft ist eine [Eigenschaftengruppe ](eigenschaften-gruppen.md) zuzuordnen.
 
@@ -16,7 +16,7 @@ Zusätzlich werden sie in der Tabelle der Mitgliederliste in der Spalte der zuge
 
 In dem Bild wurde die Eigenschaftengruppe "Abteilung" in der Tabelle eingeblendet. Bei dem Mitglied Koch Otto wird die gesetzte Eigenschaft "Gymnastik" angezeigt.
 
-Eigenschaften lassen sich auch als Variablen in Mails und Reports einfügen. Es wird dabei über den Namen adressiert. Intern wird `mitglied_eigenschaft_` vorne angefügt. Um z.B. beim Schreiben einer Mail auf das Zusatzfeld Übungsleiter zuzugreifen, muss `$mitglied_eigenschaf_gymnastik` eingegeben werden.
+Eigenschaften lassen sich auch als Variablen in Mails und Reports einfügen. Es wird dabei über den Namen adressiert. Intern wird `mitglied_eigenschaft_` vorne angefügt. Um z.B. beim Schreiben einer Mail auf die Eigenschaft Gymnastik zuzugreifen, muss `$mitglied_eigenschaft_gymnastik` eingegeben werden.
 
 ## Liste der Eigenschaften
 

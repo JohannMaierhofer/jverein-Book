@@ -14,7 +14,7 @@ Zusätzlich lassen sie sich in der Tabelle der Mitgliederliste als eigene Spalte
 
 In dem Bild wurde die Eigenschaftengruppe "Abteilung" in der Tabelle eingeblendet.
 
-Eigenschaftengruppen lassen sich auch als Variablen in Mails und Reports einfügen. Es wird dabei über den Namen adressiert. Intern wird `mitglied_eigenschaften_` vorne angefügt. Um z.B. beim Schreiben einer Mail auf das Zusatzfeld Übungsleiter zuzugreifen, muss `$mitglied_eigenschaften_abteilung` eingegeben werden.
+Eigenschaftengruppen lassen sich auch als Variablen in Mails und Reports einfügen. Es wird dabei über den Namen adressiert. Intern wird `mitglied_eigenschaften_` vorne angefügt. Um z.B. beim Schreiben einer Mail auf die Eigenschaftengruppe Abteilung zuzugreifen, muss `$mitglied_eigenschaften_abteilung` eingegeben werden.
 
 ## Liste der Eigenschaftengruppen
 
