@@ -6,7 +6,7 @@ Entsprechend der Abbuchungsausgabe wurden diese entweder an Hibiscus übergeben 
 
 ## Liste der Lastschriften
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/401_LastschriftenListeView.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_LastschriftenListeView.png" alt="" /></picture>
 
 Die Lastschriften lassen sich in dem View nach verschiedenen Kriterien filtern. Mit dem Filter Mitgliedschaft lässt sich nach Mitglieder, Nicht-Mitglieder oder Kursteilnehmer filtern.
 

@@ -6,9 +6,11 @@ Zur Nutzung der Lesefelder ist die Option in den Einstellungen (Administration->
 
 ## Allgemeines
 
-Lesefelder sind virtuelle Datenbank-Felder. Sie werden mit Hilfe eines Skriptes berechnet und sind daher nur lesbar (-> Lesefelder ). Jedes Lesefeld besteht aus einer Bezeichnung und Skript-Code.
+In Mails oder Reports können Variablen verwendet werden. Diese werden bei der Generierung durch die echten Werte ersetzt. Nemen den in JVerein eingebauten Variablen, Eigenschaftengruppen, Eigenschaften und Zusatzfeldern können auch Variablen (Lesefelder) definiert werden die die Ausführung eine Skriptes veranlassen.
 
-Lesefeld-Namen können frei, aber eindeutig gewählt werden. Intern wird `mitglied_lesefelder_` vorne angefügt. Um z.B. beim Schreiben einer E-Mail auf Lesefeld anrede zuzugreifen, muss `$mitglied_lesefelder_anrede` eingegeben werden.
+Lesefelder sind virtuelle Datenbank-Felder. Sie werden mit Hilfe eines Skriptes berechnet und sind daher nur lesbar (-> Lesefelder ). Jedes Lesefeld besteht aus einem Namen und Skript-Code.
+
+Lesefeld-Namen können frei, aber eindeutig, gewählt werden. Intern wird `mitglied_lesefelder_` vorne angefügt. Um z.B. beim Schreiben einer E-Mail auf Lesefeld anrede zuzugreifen, muss `$mitglied_lesefelder_anrede` eingegeben werden.
 
 Der Inhalt von Lesefeldern wird durch [http://www.beanshell.org/](http://www.beanshell.org/)-Skripte beschrieben. Damit ist es möglich sehr komplexe Skripte in Java zu erstellen.
 

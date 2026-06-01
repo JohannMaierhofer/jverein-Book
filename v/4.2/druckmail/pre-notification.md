@@ -16,7 +16,7 @@ Die Pre-Notification Funktion ist etwas versteckt und kann über die Liste der A
 
 Mit einem Rechtsklick auf den entsprechenden Abrechnungsverlauf öffnet sich ein Kontextmenü, mit dem man die Pre-Notifications erstellen kann.
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/401_AbrechnungslaufListeView.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_AbrechnungslaufListeView.png" alt="" /></picture>
 
 ## Dialog bei Aufruf über Abrechnungsläufe
 
@@ -47,7 +47,7 @@ Mit einem Rechtsklick auf eine oder mehrere Lastschriften öffnet sich ein Konte
 
 Diese Option hat den Vorteil, dass man einzelne Lastschriften auswählen kann. Da bei wiederkehrenden Lastschriften eine Pre-Notification nur beim ersten Mal notwendig ist, kann man hier nur die Mitglieder auswählen die neu hinzugekommen sind oder bei denen sich etwas geändert hat.
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/401_LastschriftenListeView.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_LastschriftenListeView.png" alt="" /></picture>
 
 
 ## Dialog bei Aufruf über Lastschriften

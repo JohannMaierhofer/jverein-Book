@@ -2,6 +2,20 @@
 
 Zur Gruppierung der Eigenschaften können Eigenschaften-Gruppen eingerichtet werden.
 
+## Allgemeines
+
+Für Mitglieder lassen sich Eigenschaften definieren. Diese lassen sich mit Eigenschaftengruppen gruppieren. Eingerichtet werden Eigenschaftengruppen unter Administration->Mitglieder->Eigenschaftengruppen.
+
+Eingerichtete Eigenschaftengruppen erscheinen beim Mitglied unter dem Reiter "Eigenschaften".
+
+Zusätzlich lassen sie sich in der Tabelle der Mitgliederliste als eigene Spalte anzeigen. Über die Spaltenauswahl des Panel Buttons kann die Anzeige ausgewählt werden.
+
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_MitgliederListeEigenschaftView.png" alt="" /></picture>
+
+In dem Bild wurde die Eigenschaftengruppe "Abteilung" in der Tabelle eingeblendet.
+
+Eigenschaftengruppen lassen sich auch als Variablen in Mails und Reports einfügen. Es wird dabei über den Namen adressiert. Intern wird `mitglied_eigenschaften_` vorne angefügt. Um z.B. beim Schreiben einer Mail auf das Zusatzfeld Übungsleiter zuzugreifen, muss `$mitglied_eigenschaften_abteilung` eingegeben werden.
+
 ## Liste der Eigenschaftengruppen
 
 Eine Liste der Eigenschaftengruppen kann über den Eintrag Administration->Mitglieder->Eigenschaftengruppen im Navigationsbaum angezeigt werden.
@@ -25,7 +39,7 @@ Bei der Erstellung einer neuen Eigenschaftengruppe erscheint folgende Anzeige.
 
 Folgende Attribute sind vorhanden:
 
-* Name: Name der Eigenschaft wie sie in den Mails, Formularen und Import/Export verwendet werden. Diese dürfen nur die Zeichen a-z, 0-9 und _ (Unterstrich) enthalten. Er darf keine Leerzeichen enthalten und sich nicht mit existierenden Namen überschneiden
+* Name: Name der Eigenschaftengruppe wie sie in den Mails, Formularen und Import/Export verwendet werden. Diese dürfen nur die Zeichen a-z, 0-9 und _ (Unterstrich) enthalten. Er darf keine Leerzeichen enthalten und sich nicht mit existierenden Namen überschneiden
 * Bezeichnung: Name der am GUI von JVerein angezeigt wird. Hier gibt es keine Zeichen Beschränkung
 * Pflicht: Den Eigenschaften-Gruppen gibt man mit, ob sie Pflichtfelder sind (es muss eine Eigenschaft dazu beim Mitglied angewählt werden) oder Kann-Felder (es kann eine Eigenschaft beim Mitglied angewählt werden)
 * Maximal 1 Eigenschaft: Weiterhin kann man anwählen, ob man max. eine Eigenschaft (in Verbindung mit dem Flag "Pflicht" dann genau eine) anwählen kann.
