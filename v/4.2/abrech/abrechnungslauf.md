@@ -32,4 +32,3 @@ In den Tabs werden die durch den Abrechnungslauf erzeugten Buchungen, Sollbuchun
 
 <picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_AbrechnungslaufView.png" alt="" /></picture>
 
-Mit dem Button Abrechnungslaufliste wird eine Liste aller Sollbuchungen ausgegeben.

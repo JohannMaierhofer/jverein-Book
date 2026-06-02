@@ -6,7 +6,7 @@ Zusatzbetrag Vorlagen lassen sich beim Erstellen eines neuen Zusatzbetrages ausw
 
 ### Erstellung
 
-Die Zusatzbeträge können erstellt werden
+Die Zusatzbeträge Vorlagen können erstellt werden
 
 * über den Zusatzbetrag zuordnen Dialog aus dem Mitglied Menü (siehe [Mitglied Zusatzbetrag zuordnen](content/mitglieder.md))
 * beim Anlegen eines Zusatzbetrags beim Mitglied (siehe [Zusatzbeträge](content/zusatzbeitraege.md))
