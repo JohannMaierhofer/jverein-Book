@@ -17,11 +17,9 @@ Die im System gespeicherten Buchungen können nach folgenden Kriterien selektier
 * Nur geprüfte
 * Steuer (Dieser Filter ist nur verfügbar wenn "Steuer individuell pro Buchung setzen" in den Einstellungen aktiviert ist)
 
-In Der Buchungsliste bedeutet die Spalte "S" Splitbuchung, folgende Werte sind möglich "S" Slitbuchung, "H" Hautbuchung, "G" Gegenbuchung.
+In der Buchungsliste bedeutet die Spalte "S" Splitbuchung, folgende Werte sind möglich "S" Splitbuchung, "H" Hauptbuchung, "G" Gegenbuchung.
 
 <picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_BuchungenListeView.png" alt="" /></picture>
-
-Mit einem Doppelklick auf eine Buchung wird die Detailansicht zur Bearbeitung geöffnet. Mit einem rechten Mausklick öffnet sich ein Kontextmenü. Damit können Buchungen bearbeitet werden und bestehende Buchungen gelöscht werden. Der Export der Daten ins PDF oder CSV Format wird durch einen Klick auf PDF/CSV angestoßen.
 
 Folgende Buttons sind vorhanden:
 
@@ -57,12 +55,12 @@ Folgende Menü Einträge sind vorhanden:
 * Löschen: Löscht die Buchung
 * Mitglied anzeigen: Für die selektierte Buchung wird das zugehörige Mitglied geöffnet, sofern der Buchung eine Sollbuchung zugeordnet wurde
 * Sollbuchung anzeigen: Für die selektierte Buchung wird die zugeordnete Sollbuchung angezeigt
-* Spendenbescheinigung anzeigen: Zeigt die Spendenbescheinigung für die Buchung an, falls eine für die Buchung existiert. Diese Option ist nur verfügbar wenn "Spendenbescheinigungen anzeigen" in den Einstellungen aktiviert ist
-* Spendenbescheinigung erstellen: Erstellt eine Spendenbescheinigung für die Buchung. Diese Option ist nur verfügbar wenn "Spendenbescheinigungen anzeigen" in den Einstellungen aktiviert ist
-* Neues Anlagenkonto: Für die selektierte Buchung wird ein Anlagenkonto erzeugt
+* Spendenbescheinigung anzeigen: Zeigt die Spendenbescheinigung für die Buchung an, falls eine für die Buchung existiert. Diese Option ist nur verfügbar wenn "Spendenbescheinigungen" in den Einstellungen aktiviert ist
+* Spendenbescheinigung erstellen: Erstellt eine Spendenbescheinigung für die Buchung. Diese Option ist nur verfügbar wenn "Spendenbescheinigungen" in den Einstellungen aktiviert ist
+* Neues Anlagenkonto: Für die selektierte Buchung wird ein Anlagenkonto erzeugt. Diese Option ist nur verfügbar wenn "Anlagenkonten" in den Einstellungen aktiviert ist
 * Buchungsart zuordnen: Es öffnet ein Dialog zur Zuordnung einer Buchungsart
 * Sollbuchung zuordnen: Es öffnet ein Dialog zur Zuordnung einer Sollbuchung (siehe unten)
-* Projekt zuordnen: Es öffnet ein Dialog zur Zuordnung eine Projekts. Diese Option ist nur verfügbar wenn "Projekte anzeigen" in den Einstellungen aktiviert ist
+* Projekt zuordnen: Es öffnet ein Dialog zur Zuordnung eine Projekts. Diese Option ist nur verfügbar wenn "Projekte" in den Einstellungen aktiviert ist
 * Kontoauszug zuordnen: Es öffnet ein Dialog zur Zuordnung eines Kontoauszugs
 
 Buchungen können nur neu aufgenommen, geändert oder gelöscht werden, wenn sie nicht durch einen [Jahresabschluss](jahresabschluss.md) abgeschlossen wurden.

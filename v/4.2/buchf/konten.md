@@ -134,7 +134,7 @@ Im Konto View können die Daten der Anlagenkontos editiert werden.
 
 Folgende allgemeine Daten können eingegeben werden:
 
-* Kontoart: Anlagenkonto PS: Nach Speichern des ersten Anlagenkontos muss JVerein neu gestartet werden. Erst dann sind die Einträge für Anlagenbuchungen und Anlagenverzeichnis im Navigationsbaum sichtbar
+* Kontoart: Anlagenkonto
 * Nummer
 * Bezeichnung
 * Eröffnungsdatum
@@ -250,6 +250,18 @@ Handling von Wirtschaftsgütern mit mehreren Ausgaben wie z.B. Hauskauf. Hier ge
 * Der AfA Mode sollte nach persönlichen Vorlieben gewählt werden (siehe Abschreibungen Buchen unten)
 
 PS: Es kann sein, dass die erste Buchung auf dem Anlagenkonto in einem anderen Jahr statt fand als die letzte Buchung. Hier beginnt die Abschreibung auch erst mit dem Datum der letzten Buchung! Im Vorjahr gibt es keine AfA Buchungen, sondern nur Zugang.
+
+#### Hier ein Beispiel einer Waschmaschine für 1200€ im Zweckbetrieb
+1. Buchungsart mit Bezeichnung "Einrichtungen", Art "Umbuchung" und Buchungsklasse "Zweckbetrieb" erstellen. Diese Buchungsart kann für alle Einrichtungsgegenstände benutzt werden
+2. Buchungsart mit Bezeichnung "Afa linear", Art "Ausgabe", Buchungsklasse "Zweckbetrieb" und Haken bei Abschreibung erstellen. Diese wird für die Afa Buchungen verwendet
+3. Die Waschmaschine wird vom Girokonto gekauft. Die Buchung bekommt die Buchungsart "Einrichtungen" und Betrag ist -1200€
+4. Über das Buchungsmenü der Waschmaschinen Buchung "Neues Anlagenkonto" aufrufen
+5. Im Dialog eingeben: Nummer ist beliebige eindeutige Nummer, Bezeichnung ist Waschmaschine, Anlagen Buchungsklasse ist Zweckbetrieb,  Anlagenbuchungsart ist "Einrichtungen", als Afa Buchungsart "Afa linear" auswählen, Nutzungsdauer 8 Jahre
+6. Mit Übernehmen öffnet sich der Konto Dialog. Über den Button "Auto Anlagenwert" wird der Anlagenwert mit 1200€ gefüllt und das Anschaffungsdatum gesetzt
+7. Als Afa Mode ist "Auto AfA" eingetragen, falls gewünscht kann er geändert werden
+8. Mit Speichern wird ein Anlagenkonto erzeugt mit Eröffnungsdatum als Datum der Buchung und Anfangsbestand 0€. Es wird auch eine Buchung auf dem Anlagenkonto von 1200€ erzeugt
+9. Gegen Ende des Jahres erzeugt man über den Button "Erzeuge Abschreibung" (so in den Einstellungen->Anzeige konfiguriert) in der Liste der Anlagenbuchungen die Abschreibung. Es wird eine Abschreibung auf dem Anlagenkonto erzeugt. Dies ist eine Ausgabe
+
 
 ### Anlagenkonten für bereits laufende Abschreibung
 

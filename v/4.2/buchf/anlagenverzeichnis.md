@@ -21,13 +21,11 @@ Die Liste zeigt unter anderem:
 
 <picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_AnlagenverzeichnisView.png" alt="" /></picture>
 
-Der Inhalt der Tabelle lässt sich über die entsprechenden Buttons als PDF und CSV exportieren.
+Der Inhalt der Tabelle lässt sich über die entsprechenden Buttons als festes PDF exportieren. Da die Breite der Seite beschränkt ist werden zur besseren Lesbarkeit die Spalten Zugang und Abgang weggelassen wenn sie keine Einträge haben.
 
 Das Kontextmenü bietet folgende Einträge:
 * Bearbeiten: Bei Auswahl der Anlagenart Zeile lässt sich die entsprechende Buchungsart editieren. Bei Auswahl einer Bezeichnung Zeile lässt sich das entsprechende Konto editieren
 * Buchungen anzeigen: Zeigt bei Auswahl von Bezeichnung die enthaltenen Buchungen an
-
-Da bei der PDF Ausgabe die Breite der Seite beschränkt ist werden zur besseren Lesbarkeit die Spalten Zugang und Abgang weggelassen wenn sie keine Einträge haben.
 
 Hinweis:
 

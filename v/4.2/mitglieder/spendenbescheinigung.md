@@ -28,10 +28,10 @@ Bei der automatischen Generierung von Spendenbescheinigungen erfolgt die Auswahl
 Bei einem Abrechnungslauf wird das "Zahler" Attribut in der Sollbuchung folgendermaßen gesetzt:
 
 * Normalerweise ist es das Mitglied selbst
-* Ist das Mitglied ein Familienmitglied in einem Familienverband und es wurde als Zahlungsweg "Durch Vollzahler" ausgewählt, dann wird als Zahler das voll zahlende Mitglied eingetragen
-* Ist beim Mitglied ein abweichender Kontoinhaber eingetragen, so wird das Mitglied als Zahler eingetragen. In die Spendenbescheinigung wird aber die Adresse des alternativen Kontoinhaber geschrieben
+* Ist beim Mitglied ein abweichender Zahler eingetragen, so wird dieser als Zahler eingetragen
+* Handelt es sich bei der Abrechnung um einen Zusatzbetrag und es ist bei diesem die Option "Mitglied zahlt selbst" selektiert, dann wird das Mitglied als Zahler eingetragen, unabhängig davon ob beim Mitglied ein abweichender Zahler eingetragen ist oder nicht
 
-Wird also z.B. ein Abrechnungslauf gemacht und die Mitglieder zahlen per Überweisung wird das Mitglied als Zahler eingetragen. Sollte dann aber eine andere Person den Beitrag überweisen gibt es folgende Möglichkeiten:
+Wird also z.B. ein Abrechnungslauf gemacht und die Mitglieder zahlen selbst per Überweisung wird das Mitglied als Zahler eingetragen. Sollte dann aber eine andere Person den Beitrag überweisen gibt es folgende Möglichkeiten:
 
 * Die Spendenbescheinigung wird manuell ausgestellt und die Daten des Zahlers eingetragen
 * Soll die Spendenbescheinigung automatisch erstellt werden, dann muss entweder ein zahlendes Mitglied oder ein Nicht-Mitglied als Zahler eingetragen werden, je nachdem wer bezahlt hat. Notfalls ist ein Nicht-Mitglied als Spender zu erzeugen
