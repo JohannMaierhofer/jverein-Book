@@ -26,7 +26,7 @@ Das Jahressteuergesetz 2020 für kleine und mittlere Vereine hat eine Erleichter
 Es gibt keine feste Vorgabe wie ein Mittelverwendung Nachweis auszuschauen hat. JVerein bietet zwei verschiedene Reports an:
 
 * Zufluss-basiert: Dieser Report listet den Verwendungsrückstand/-überhang und den Mittel Zufluss und Abfluss eines Geschäftsjahres. Dies ist ein fortgeschriebener Report, da er zugeflossene Mittel über zwei Jahre verfolgt. In diesem Zeitraum sind zugeflossene Mittel auszugeben
-* Saldo-Basiert: Dieser Report berechnet den Verwendungsrückstand/-überhang anhand der Kontensalden. Dies geschieht in Anlehnung an das Muster von Buchna. (Johannes Buchna (verst. 2013) war in der Oberfinanzdirektion Nordrhein-Westfalen tätig und war seit 1988 (Mit-)Autor des Werks „Gemeinnützigkeit im Steuerrecht“, in dem die Vorlage für eine Mittelverwendungsrechnung veröffentlich ist.)
+* Saldo-Basiert: Dieser Report berechnet den Verwendungsrückstand/-überhang anhand der Kontensalden. Dies geschieht in Anlehnung an das Muster von Buchna. (Johannes Buchna (verst. 2013) war in der Oberfinanzdirektion Nordrhein-Westfalen tätig und war seit 1988 (Mit-)Autor des Werks „Gemeinnützigkeit im Steuerrecht“, in dem die Vorlage für eine Mittelverwendungsrechnung veröffentlicht ist.)
 
 Der Mittelverwendung lässt sich über den entsprechenden Menüeintrag in der Navigation öffnen.
 

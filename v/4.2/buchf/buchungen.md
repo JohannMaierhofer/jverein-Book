@@ -9,7 +9,7 @@ Die im System gespeicherten Buchungen können nach folgenden Kriterien selektier
 * Projekt
 * Von Datum
 * Bis Datum
-* Betrag, hier können auch die Vergleichsoperatren >, <, <=, >=, | (Absolut Betrag), .. (Bereich zB. 10..100) verwendet werden
+* Betrag, hier können auch die Vergleichsoperatoren >, <, <=, >=, | (Absolut Betrag), .. (Bereich zB. 10..100) verwendet werden
 * Enthaltener Text
 * Mitglied zugeordnet
 * Splitbuchungen: nur Split oder nur Hauptbuchungen
@@ -91,7 +91,7 @@ Der obige Dialog hat zwei Registerkarten:
 * Istbuchung einer Sollbuchung zuordnen (Option 1)
 * Sollbuchung erzeugen und Istbuchung zuordnen (Option 2)
 
-Die erste Karte dient der Zuordnung einer Istbuchung auf eine vorhandene Sollbuchung (z.B. aus einem Abrechnungslauf). Beim zuordnen wird die Buchung automatisch anhand der Sollbuchungen gesplittet und den Buchungsarten zugeordnet. Wenn ber Betrag nicht der der Sollbuchung entsricht, wird vorher gefragt, ob eine Restbuchung erstellt werden soll. Hinweis: Wenn ja ausgewählt wird, ist die Sollbuchung ausgeglichen da die Restbuchung nicht dem Mitglied zugeornet wird. Bei "Nein" wird die Buchung ohne Spliten zugeordnet.
+Die erste Karte dient der Zuordnung einer Istbuchung auf eine vorhandene Sollbuchung (z.B. aus einem Abrechnungslauf). Beim zuordnen wird die Buchung automatisch anhand der Sollbuchungen gesplittet und den Buchungsarten zugeordnet. Wenn der Betrag nicht der der Sollbuchung entspricht, wird vorher gefragt, ob eine Restbuchung erstellt werden soll. Hinweis: Wenn ja ausgewählt wird, ist die Sollbuchung ausgeglichen da die Restbuchung nicht dem Mitglied zugeordnet wird. Bei "Nein" wird die Buchung ohne Splitten zugeordnet.
 
 Es kann auch eine Buchung mehreren Sollbuchungen auf einmal zugeordnet werden, dann wir diese entsprechen gesplittet. Auch das zuordnen mehrerer Buchungen zu einer Sollbuchung ist möglich, dabei wird jedoch kein automatisches Splitten durchgeführt..
 

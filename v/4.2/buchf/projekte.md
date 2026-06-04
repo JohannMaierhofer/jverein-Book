@@ -29,7 +29,7 @@ Mit den den Navigations Pfeilen lässt sich der ausgewählte Bereich nach vorne 
 
 Beginnt das Von Datum an einem Monatsanfang und endet das Bis Datum an einem letzten Tag eines Monats, wird Monatsweise geblättert. Andernfalls mit der Anzahl der Tage des Zeitbereichs.
 
-Um sich wiederholende Projekte z.B. jahresweise vergleichen zu können, kann entweder für jedes Jahr ein neues Projekt mit Jahreszahl (z.B. "St. Martin 2013", "St. Martin 2014" usw.) verwendet werden. Dann erhält man bei einem mehrjährigen Datumsbereich die einzelnen Projekte in einer Liste (wie im Beispiel des obigen Screenshots).
+Um sich wiederholende Projekte z.B. Jahresweise vergleichen zu können, kann entweder für jedes Jahr ein neues Projekt mit Jahreszahl (z.B. "St. Martin 2013", "St. Martin 2014" usw.) verwendet werden. Dann erhält man bei einem mehrjährigen Datumsbereich die einzelnen Projekte in einer Liste (wie im Beispiel des obigen Screenshots).
 
 Alternativ kann man aber auch stets dasselbe Projekt verwenden (z.B. "St. Martin") und dann für einen Mehrjahresvergleich die Auswertung mit unterschiedlichen Datumsbereichen (je Jahr) mehrmals abrufen.
 

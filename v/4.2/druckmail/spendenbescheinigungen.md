@@ -4,7 +4,6 @@
 
 Zur Nutzung der Spendenbescheinigungen ist die Option unter Administration->Einstellungen->Anzeige zu aktivieren.
 
-Anschließend sollte JVerein neu gestartet werden, damit der Menüpunkt "Spendenbescheinigungen" zur Verfügung steht.
 
 ## Spendenbescheinigungen selektiv drucken
 
@@ -18,7 +17,7 @@ Möchte man also Spendenbescheinigungen per Mail verschicken geht das nur für e
 
 Mit der Option "Sachspende oder Geldspende mit Erstattungsverzicht" erhält man alle Spendenbescheinigungen für die keine Unterschrift gedruckt wird. Diese müssen ausgedruckt und per Hand unterschrieben werden.
 
-In der Liste können ein oder mehrere Einträge markiert werden. Über ein Kontextmenu (rechter Mausklick) stehen verschiedene Aktionen zur Verfügung.
+In der Liste können ein oder mehrere Einträge markiert werden. Über ein Kontextmenü (rechter Mausklick) stehen verschiedene Aktionen zur Verfügung.
 
 ## Spendenbescheinigung selektiv drucken oder per Mail versenden
 
@@ -33,7 +32,7 @@ Danach wird angezeigt für welche Mitglieder keine Mail Adresse konfiguriert ist
 Es wird ebenfalls angezeigt für welche Spendenbescheinigung kein Mitglied zugeordnet ist. In diesem Fall wird der Inhalt von Zeile 1..3 ausgegeben und keine Mail verschickt.
 
 Im Parameter Feld gibt es folgende Optionen:
-* Ausgabe: Es lässt sich wählen ob die Rechnungen als PDF (eine Datei oder einzelne Dateien) gedruckt oder per Mail verschickt werden sollen
+* Ausgabe: Es lässt sich wählen ob die Spendenbescheinigung als PDF (eine Datei oder einzelne Dateien) gedruckt oder per Mail verschickt werden sollen
 * Adressblatt: Es lässt sich einstellen ob eine extra Seite mit einer Anschrift und oder Anschreiben ausgedruckt werden soll. Bei gedrucktem Anschreiben wird der Text aus dem Text Feld verwendet.
 * Versanddatum setzen: Diese Option ist für die Ausgabe als PDF verfügbar. Ist sie gewählt, wird beim Druck das Versanddatum gesetzt. Damit kann man z.B. Probeausdrucke machen ohne das Versanddatum zu setzen. Bei Mailversand wird das Versanddatum immer gesetzt
 
@@ -69,7 +68,7 @@ Es werden hier alle Spendenbescheinigungen gedruckt bzw. versendet die die Filte
 <picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/401_SpendenbescheinigungenDruckMailView2.png" alt="" /></picture>
 
 Im Parameter Feld gibt es folgende Optionen:
-* Ausgabe: Es lässt sich wählen ob die Rechnungen als PDF (eine Datei oder einzelne Dateien) gedruckt oder per Mail verschickt werden sollen
+* Ausgabe: Es lässt sich wählen ob die Spendenbescheinigung als PDF (eine Datei oder einzelne Dateien) gedruckt oder per Mail verschickt werden sollen
 * Adressblatt: Es lässt sich einstellen ob eine extra Seite mit einer Anschrift und oder Anschreiben ausgedruckt werden soll. Bei gedrucktem Anschreiben wird der Text aus dem Text Feld verwendet.
 * Versanddatum setzen: Diese Option ist für die Ausgabe als PDF verfügbar. Ist sie gewählt, wird beim Druck das Versanddatum gesetzt. Damit kann man z.B. Probeausdrucke machen ohne das Versanddatum zu setzen. Bei Mailversand wird das Versanddatum immer gesetzt
 

@@ -10,7 +10,7 @@ Zur Ausgabe einer Jubiläumsliste werden die Jubeljahre durch Komma getrennt ein
 
 Es kann eine Liste der Altersjubilare ausgegeben werden. Ohne Eingabe werden die Standardwerte 50,60,65,70,75,80,85,90,95 verwendet.
 
-Ab Version 2.5 gibt es das Feld Mindestalter f. Mitgliedschaftsjubiläum
+Ab Version 2.5 gibt es das Feld Mindestalter für Mitgliedschaftsjubiläum
 
 Geben Sie hier eine Zahl ein, dann werden Mitgliedsjahre, die vor diesem Alter liegen beim Errechnen eines Mitglieds-Jubiläums nicht mit gerechnet.
 

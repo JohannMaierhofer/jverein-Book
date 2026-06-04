@@ -12,6 +12,8 @@ Damit lassen sich individuelle Daten zu einem Mitglied speichern. Eingerichtete 
 
 Im Gegensatz zu Eigenschaften (siehe [Eigenschaften ](eigenschaften.md))  können je nach Datentyp individuelle Daten beim Mitglied eingegeben werden.
 
+Im Filterbereich der Mitglieder kann auch nach Werten in Zusatzfeldern gefiltert werden.
+
 Zusätzlich lassen sie sich in der Tabelle der Mitgliederliste als eigene Spalte anzeigen. Über die Spaltenauswahl des Panel Buttons kann die Anzeige ausgewählt werden.
 
 <picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_MitgliederListeZusatzfeldView.png" alt="" /></picture>

@@ -54,21 +54,66 @@ Nach dem Einrichten von Hibiscus, muss JVerein eingerichtet werden. Dazu wählt 
 
 <picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/aller_anfang_-_erster_start_-_hauptuebersicht_2.png" alt="" /></picture>
 
-Die vorzunehmenden Einstellungen sind selbsterklärend. Man sollte jeden Reiter sorgfältig prüfen und nach besten Wissen ausfüllen.
-
-1. Allgemein: alles ausfüllen
-2. Anzeige: externe Mitgliedsnummer? (hier sei schon darauf hingewiesen, die Mitgliedsnummer können nur Zahlen sein)
-3. Mitglieder Spalten: kann so bleiben
-4. Mitglieder Ansicht: kann so bleiben
-5. Abrechnung: Entscheidung! Externe oder von JVerein vergebene Mitgliedsnummern für die Mandatsreferenznummer! Diese kann und sollte im Nachhinein nicht geändert werden.
-6. Dateinamen: zum aktuellen Zeitpunkt weniger von Interesse
-7. Spendenbescheinigung: alles ausfüllen
-8. Buchführung: kann so bleiben
-9. Rechnungen: kann so bleiben
-10. Mail: alles ausfüllen - Tipp: die IMAP Funktion zur Speicherung von ausgehenden E-Mails ist hilfreich. Dies ist jedoch auch mit der "Immer Bcc an Adresse" ausreichend 'protokolliert'.
-11. Statistik: kann so bleiben (vorerst)
+Die vorzunehmenden Einstellungen sind selbsterklärend. Man sollte jeden Reiter sorgfältig prüfen und nach besten Wissen ausfüllen. Am besten können dazu auch die entsprechenden Hilfeseiten kontaktiert werden.
 
 <picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/aller_anfang_-_erster_start_-_jverein_-_1_einstellungen.png" alt="" /></picture>
+
+#### Allgemein
+
+* Vereinsdaten ausfüllen
+* IBAN und Gläubiger-ID werden benötigt falls Lastschriften eingezogen werden sollen
+* Sollen altersbezogene Mitgliedsbeiträge (Altersstaffel) bestehen, dann muss "Mitglieder Geburtsdatum" gesetzt werden
+
+#### Anzeige
+
+OpenJVerein ist sehr umfangreich und startet darum mit einem minimalen Oberfläche. Weitere Funktionen können hier aktiviert werden. Diese erscheinen dann in der Oberfläche.
+
+Auch lässt sich das Verhalten der Anzeige konfigurieren.
+
+####  Mitglieder Ansicht
+
+Kann so bleiben.
+
+####  Abrechnung
+
+Hier sollte die Entscheidung über das Beitragsmodell getroffen werden.
+
+Entscheidung! Externe oder von JVerein vergebene Mitgliedsnummern für die Mandatsreferenznummer! Diese kann und sollte im Nachhinein nicht geändert werden.
+
+#### Verzeichnisse
+
+Zum aktuellen Zeitpunkt weniger von Interesse.
+
+#### Vorlagen
+
+Zum aktuellen Zeitpunkt weniger von Interesse.
+
+#### Spendenbescheinigung
+
+Falls unter Anzeige "Spendenbescheinigungen" aktiviert wurde, hier alles ausfüllen. Falls eigene Vorlagen für Spendenbescheinigungen benutzt werden sollen, müssen diese erst eingerichtet werden.
+
+#### Buchführung
+
+Für Umsatzsteuer pflichtige Vereine sind hier die entsprechenden Optionen auszuwählen.
+
+#### Rechnungen
+
+Kann so bleiben.
+
+#### Mail
+
+Alles ausfüllen falls Mails verschickt werden sollen.
+
+Tipp: die IMAP Funktion zur Speicherung von ausgehenden E-Mails ist hilfreich. Dies ist jedoch auch mit der "Immer Bcc an Adresse" ausreichend 'protokolliert'.
+
+#### Statistik
+
+Kann so bleiben (vorerst).
+
+#### Reports
+
+Kann so bleiben (vorerst).
+
 
 ### Weitere Einstellungen
 

@@ -35,7 +35,9 @@ Eine Buchungsart hat folgende Parameter:
 
 ## Kontenrahmen
 
-Anstelle des Begriffs "Buchungsarten" wird im Kontext der Buchhaltung oft von "Konto" gesprochen, ein Kontenrahmen listet dann alle möglichen Buchungsarten/Konten auf.
+Anstelle des Begriffs "Buchungsarten" wird im Kontext der Buchhaltung oft von "Konto" gesprochen, ein Kontenrahmen listet dann alle möglichen Konten auf.
+
+In der einfachen Buchführung, wie von JVerein unterstützt,  entsprechen die "Buchungsarten" den Erfolgskonten (Ertrags- und Aufwandskonten) der doppelten Buchführung. Konten in JVerein (siehe [Konten](../../buchf/konten.md)) entsprechen den Bestandskonten der doppelten Buchführung.
 
 Ein Verein ist aber nicht verpflichtet eine Standard Kontenrahmen zu verwenden.
 

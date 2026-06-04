@@ -10,6 +10,8 @@ Jeder Eigenschaft ist eine [Eigenschaftengruppe ](eigenschaften-gruppen.md) zuzu
 
 Eingerichtete Eigenschaften erscheinen beim Mitglied unter dem Reiter "Eigenschaften" und können dort ausgewählt werden. Über das Mitglied Menü in der Liste der Mitglieder können Eigenschaften für alle selektierten Mitglieder gleichzeitig gesetzt bzw. gelöscht werden.
 
+Im Filterbereich der Mitglieder kann auch nach ausgewählten Eigenschaften gefiltert werden.
+
 Zusätzlich werden sie in der Tabelle der Mitgliederliste in der Spalte der zugehörigen Eigenschaftengruppe anzeigen. Über die Spaltenauswahl des Panel Buttons kann die Anzeige der zugehörigen Eigenschaftengruppe ausgewählt werden.
 
 <picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_MitgliederListeEigenschaftView.png" alt="" /></picture>

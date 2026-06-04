@@ -6,15 +6,15 @@ Allgemeine Einstellungen
 
 ### Vereinsdaten
 
-Name und Anschrift des Vereins müssen hier eingegeben werden (Pflichtangaben).
+Name und Anschrift des Vereins müssen hier eingegeben werden. Sie werden von der Abrechnung für die Erstellung der Lastschriften zwingend benötigt. 
 
 Für die Abbuchung sind die Bankverbindung und Gläubiger-ID einzugeben.
-
-Die Pflichtfelder werden von der Abrechnung für die Erstellung der Lastschriften zwingend benötigt. Die weiteren Angaben werden überwiegend bei Spendenbescheinigungen eingesetzt.
 
 ### Pflichtfelder
 
 Hier lassen sich Konfigurationen für Pflichtfelder bei der Eingabe von Mitgliedern, Nicht-Mitgliedern oder Kursteilnehmern konfigurieren.
+
+PS: Für manche Funktionen wie z.B. Altersstaffel bei Beiträgen ist das Geburtsdatum zwingend nötig. Soll die Altersstaffel verwendet werden, muss hier "Mitglieder Geburtsdatum" als Pflichtfeld gesetzt werden.
 
 ### Pflicht Eigenschaften
 
