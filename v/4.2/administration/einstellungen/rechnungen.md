@@ -6,8 +6,10 @@ Zur Nutzung der Rechnungen ist die Option unter Administration->Einstellungen->A
 
 ### Konfiguration
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/401_EinstellungenRechnungen.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_EinstellungenRechnungen.png" alt="" /></picture>
 
-Texte für die einzelnen Zahlungswege für den Rechnungsdruck. In den Text zur Abbuchung können die Variablen ${IBAN}, ${BIC}, ${MANDATID}, ${Konto} und ${BLZ} eingemischt werden. Außerdem sind weiter Variablen möglich. Siehe [Variablen](../../../../sonstiges/variable.md).
+Hier lassen sich Texte für die einzelnen Zahlungswege für den Rechnungsdruck eingeben. In den Text zur Abbuchung können Variablen eingemischt werden. Siehe [Variablen](../../../../sonstiges/variable.md).
+
+Der Text kann mit der Variable $rechnung_zahlungsweg_text in das Formular der Rechnung eingefügt werden.
 
 Es ist möglich einen QR Code mit den Rechnungsdaten auf die Rechnung zu platzieren. Dazu sind die entsprechenden Felder zu konfigurieren.

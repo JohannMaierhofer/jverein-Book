@@ -42,7 +42,7 @@ Hier können allgemeine Feature aktiviert werden:
 
 Hier kann eingestellt werden welche Information bei Mitgliedern verfügbar ist:
 * Auslandsadressen (Staat): Eingabemöglichkeit von Staat
-* Externe Mitgliedsnummer: Grundsätzlich zahlt das Mitglied den Beitrag, der in der Beitragsgruppe angegeben wurde. Sofern diese Option aktiviert wurde, kann bei jedem Mitglied ein abweichender individueller Beitrag angegeben werden
+* Externe Mitgliedsnummer: Die Mitgliedsnummer ist standardmäßig die Datenbank Nummer des Mitglieds. Sollen abweichende Nummern verwendet werden, weil z.B. schon Mitgliedsnummern existieren, kann hier auf externe Mitgliedsnummern umgeschaltet werden. Diese können vom Anwender frei eingegeben werden
 * (Ext.) Mitgliedsnummer bei Namen: Bei Auswahl dieser Option wird in Tabellen oder bei der Mitglieder Auswahl an den Mitglied Namen in Klammern die Mitgliedsnummer, oder falls Externe Mitgliedsnummer aktiviert ist, die externe Mitgliedsnummer angezeigt. Dies ist nützlich falls es mehrere Mitglieder mit dem gleichen Namen gibt. Diese lassen sich so unterscheiden
 * Individuelle Beiträge: Grundsätzlich zahlt das Mitglied den Beitrag, der in der Beitragsgruppe angegeben wurde. Sofern diese Option aktiviert wurde, kann bei jedem Mitglied ein abweichender individueller Beitrag angegeben werden
 * Juristische Personen erlaubt: Die Eingabe von Firmen, Organisationen und Behörden als Mitglieder wird erlaubt. Anstatt Name und Vorname werden Name-Zeile1 und Name-Zeile2 erfasst. Geburtsdatum und Geschlecht werden nicht erfasst

@@ -1,4 +1,4 @@
-# Splittbuchungen
+# Splitbuchungen
 
 ## Allgemeines
 
@@ -12,9 +12,7 @@ Beispiele:
 
 ## Splitbuchung erzeugen
 
-Rechtsklick auf die Buchung(en), dann Splitbuchung auswählen:
-
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_Splitbuchung01.png" alt="" /></picture>
+Splitbuchungen können dem Kontextmenü bei Buchung(en) erzeugt werden.
 
 Es können auch mehrere Buchungen gleichzeitig ausgewählt werden. Sie müssen allerdings den gleichen Betrag haben. Anschließend wird ein Buchungseintrag bearbeitet. Beim Speichern wird eine analoge Aufteilung der Beträge auch auf alle anderen selektierten Buchungen angewendet.
 

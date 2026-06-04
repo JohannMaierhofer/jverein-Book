@@ -43,3 +43,6 @@ Formular welches bei der Generierung von Sammelbescheinigungen bei Geldspenden a
 #### Formular für Sachspenden
 
 Formular welches bei der Generierung von Sachspenden Bescheinigungen automatisch in der Bescheinigung gesetzt wird.
+
+PS: Bei der Auswahl von "Standard" wird kein Benutzer konfiguriertes Formular verwendet sondern eine fest eingebaute Ausgabe generiert. Diese lässt sich mit Hintergrund und Vordergrund Formularen benutzen. Siehe auch unter [Reports](reports.md).
+

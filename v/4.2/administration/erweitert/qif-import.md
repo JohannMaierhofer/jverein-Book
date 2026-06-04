@@ -52,7 +52,7 @@ Geben Sie weder ein Eröffnungsdatum, noch einen Anfangssalto an, weil diese Dat
 
 Möchten Sie weitere Konten in JVerein führen, können Sie diese später anlegen, nachdem der Import abgeschlossen wurde.
 
-Nun müssen Sie noch die Buchungsklassen und Buchungsarten in JVerein anlegen. Prüfen Sie dabei gleich, ob Sie jeder Buchungsart des alten Programmes eine neuen Buchungsart aus JVerein zuordnen könnten.
+Nun müssen Sie noch die Buchungsklassen und Buchungsarten in JVerein anlegen. Prüfen Sie dabei gleich, ob Sie jeder Buchungsart des alten Programms eine neuen Buchungsart aus JVerein zuordnen könnten.
 
 Sollen Buchungen Mitgliederkonten zugeordnet werden, müssen alle Mitglieder in JVerein angelegt sein.
 

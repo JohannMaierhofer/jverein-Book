@@ -29,4 +29,5 @@ Eine Buchungsart hat folgende Parameter:
 * Name der Steuer
 * Satz: Steuersatz
 * Buchungsart für die Steuer
+* Buchungsklasse der Steuer (nur sichtbar falls keine feste Zuordnung von Buchungsklasse zu Buchungsart konfiguriert ist)
 * Aktiv

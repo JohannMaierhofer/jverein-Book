@@ -185,7 +185,7 @@ Geringwertige Wirtschaftsgüter können sofort abgeschrieben werden, werden aber
 Folgende Schritte sollten ausgeführt werden:
 
 * In der Buchungsliste wird der Buchung der Anschaffung eine passende Buchungsart wie oben erzeugt zugewiesen
-* Über das Menü der Buchung wird "Neues Anlagenkonto" ausgewählt. Dieses erzeugt ein neues Anlagenkonto, einen Anfangsbestand Eintrag für das Konto (0€) und die entsprechende Gegenbuchung im Anlagenkonto. (Bei Umsatzsteuerpflicht wird nur der Nettobetrag als Gegenguchung erstellt, die Steuer ist direkt als Ausgabe abziehbar und wird im Buchungsklassensaldo ausgeweiesen).
+* Über das Menü der Buchung wird "Neues Anlagenkonto" ausgewählt. Dieses erzeugt ein neues Anlagenkonto, einen Anfangsbestand Eintrag für das Konto (0€) und die entsprechende Gegenbuchung im Anlagenkonto. (Bei Umsatzsteuerpflicht wird nur der Nettobetrag als Gegenbuchung erstellt, die Steuer ist direkt als Ausgabe abziehbar und wird im Buchungsklassensaldo ausgewiesen).
 * Es wird der Neues Anlagenkonto Dialog angezeigt. Buchungsklasse und Buchungsart wird mit den Daten der Buchung initialisiert
 
 <picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_NeuesAnlagenkontoDialog.png" alt="" /></picture>
@@ -207,7 +207,7 @@ Bei der Pool Abschreibung werden mehrere Anlagen zu einem Anlagenkonto zusammen 
 Bei der ersten Anlage zum Pool wird so vorgegangen:
 
 * In der Buchungsliste wird der ersten Buchung des Pools eine passende Buchungsart wie oben erzeugt zugewiesen
-* Über das Menü der Buchung wird "Neues Anlagenkonto" ausgewählt. Dieses erzeugt ein neues Anlagenkonto, einen Anfangsbestand Eintrag für das Konto (0€) und die entsprechende Gegenbuchung im Anlagenkonto. (Bei Umsatzsteuerpflicht wird nur der Nettobetrag als Gegenguchung erstellt, die Steuer ist direkt als Ausgabe abziehbar und wird im Buchungsklassensaldo ausgeweiesen).
+* Über das Menü der Buchung wird "Neues Anlagenkonto" ausgewählt. Dieses erzeugt ein neues Anlagenkonto, einen Anfangsbestand Eintrag für das Konto (0€) und die entsprechende Gegenbuchung im Anlagenkonto. (Bei Umsatzsteuerpflicht wird nur der Nettobetrag als Gegenbuchung erstellt, die Steuer ist direkt als Ausgabe abziehbar und wird im Buchungsklassensaldo ausgewiesen).
 * Es wird der Neues Anlagenkonto Dialog angezeigt. Buchungsklasse und Buchungsart wird mit den Daten der Buchung initialisiert
 * Jetzt Nummer, Bezeichnung z.B. Abschreibung Pool 2024, Buchungsklasse, Buchungsart und AfA Buchungsart auswählen
 * Als Nutzungsdauer den Wert 5 eintragen (Pools werden mit einer Dauer von 5 Jahren abgeschrieben)

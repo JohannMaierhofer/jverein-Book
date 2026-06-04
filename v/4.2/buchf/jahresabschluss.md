@@ -20,11 +20,15 @@ Damit ein Jahresabschluss verbucht werden kann, müssen folgende Bedingungen erf
 
 Durch eine Klick auf Neu kann ein neuer Jahresabschluss vorgenommen werden:
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_JahresabschlussView.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_JahresabschlussView.png" alt="" /></picture>
 
 Der Jahresabschluss zeigt den Zeitraum des Jahresabschlusses an. Es ist das Geschäftsjahr nach dem letzten Abschluss.
 
 Bei Name sollte der Name desjenigen eingetragen werden, der den Abschluss durchführt.
+
+Das Kontextmenü bietet folgende Einträge:
+* Bearbeiten: Bei Auswahl einer Konto Zeile lässt sich das entsprechende Konto editieren
+* Buchungen anzeigen: Zeigt bei Auswahl einer Steuer Zeile die enthaltenen Buchungen an
 
 Tipp: Die Checkbox "Anfangsbestände Folgejahr" sollte aktiviert werden. Damit werden die Endstände in der Liste der Anfangsbestände abgespeichert und als Basis für das nächste Geschäftsjahr verwendet. Auch das Anlagenverzeichnis verwendet die Anfangsbestände.
 
@@ -39,4 +43,3 @@ Die Felder:
 
 werden nur angezeigt wenn [Mittelverwendung](mittelverwendung.md) aktiviert ist.
 
-Das gleiche gilt für den Pfeil Button links neben dem Speichern Button. Sie [Mittelverwendung](mittelverwendung.md) für die Bedeutung dieses Buttons.
