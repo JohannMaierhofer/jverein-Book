@@ -95,6 +95,15 @@ In der Zuordnungsvorschau wurden Checkboxen hinzugefügt, so kann man individuel
 
 In der Vorschau wurden einige zusätzliche Spalten hinzugefügt, so dass man besser prüfen kann, ob die Zuordnung richtig ist.
 
+### Manuelle Sammelbescheinigung für Geldspenden über Buchungsmenü
+
+Bei der Auswahl mehrerer Buchungen mit einer Spenden Buchungsart kann jetzt auch eine Sammelbescheinigung für Geldspenden erstellt werden. Voraussetzung ist, dass die Namen in den Buchungen gleich sind und falls bereits Sollbuchungen zugewiesen sind, müssen die dort eingetragenen Zahler gleich sein.
+
+### Ergänzungen bei Reports
+
+* Vordergrund und Hintergrund bei Reports können jetzt auch mehrere Seiten lang sein. Ist der Report länger als Vordergrund bzw. Hintergrund wird deren letzte Seite weiter verwendet
+* Beim Kontoauszug werden jetzt Seitennummern ausgegeben
+* Beim Kontoauszug und Personalbogen wird beim Druck mehrerer Mitglieder in eine PDF Datei bei jedem Mitglied mit der Seitennummerierung, dem Vordergrund und Hintergrund neu begonnen
 
 ## Kleinere Korrekturen und Erweiterungen
 
