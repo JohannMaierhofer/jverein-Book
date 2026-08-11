@@ -43,7 +43,7 @@ Die PDF-Auswertungen sind hier abrufbar. Ausführlich beschrieben werden sie im 
 
 Folgende Menü Einträge sind vorhanden:
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_BuchungenMenue.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/403_BuchungenMenue.png" alt="" /></picture>
 
 * Bearbeiten: Öffnet die Detailansicht für die selektierte Buchung
 * Als "geprüft" markieren: Markiert die Buchung als geprüft
