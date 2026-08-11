@@ -54,6 +54,7 @@ Art des Formulars. Es gibt an für welche Ausgabe das Formular verwendet werden 
 * SEPA-Prenotification
 * Sachspendenbescheinigung
 * Hintergrund/Vordergrund
+* Buchungsreport
 
 ### Datei
 
