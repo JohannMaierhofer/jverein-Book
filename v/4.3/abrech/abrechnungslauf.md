@@ -4,14 +4,18 @@ Auflistung aller Abrechnungsläufe. Mit einem Rechtsklick kann ein Lauf gelösch
 
 ## Liste der Abrechnungsläufe
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_AbrechnungslaufListeView.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/403_AbrechnungslaufListeView.png" alt="" /></picture>
 
 Folgende Menü Einträge sind vorhanden:
 
 * Bearbeiten: Öffnet die Detailansicht für den selektierten Abrechnungslauf
-* Löschen: Löscht den Abrechnungslauf. Dies löscht auch alle vom Abrechnungslauf generierten Rechnungen, Sollbuchungen, Buchungen und Lastschriften
+* Löschen: Löscht den Abrechnungslauf. Dies löscht auch alle vom Abrechnungslauf generierten Sollbuchungen, Buchungen und Lastschriften. Sind Rechnungen oder Spendenbescheinigungen zugeordnet werden diese auf Nachfrage mit gelöscht
 * Gutschrift erstellen: Öffnet den Dialog zum Erstellen von Gutschriften. Siehe [Gutschrift](../mitglieder/gutschrift.md)
 * Pre-Notification: Öffnet den Dialog zum Erzeugen von Pre-Notifications für den selektierten Abrechnungslauf
+* Abschließen: Markiert den Abrechnungslauf als abgeschlossen. Es lassen sich dann der Abrechnungslauf und die durch den Abrechnungslauf generierten Buchungen, Sollbuchungen und Lastschriften nicht mehr editieren und löschen
+* Aufschließen: Hebt die Abschließen Markierung wieder auf. Dies ist nur möglich solange das Jahr der Abrechnungslaufens noch keinen Jahresabschluss hat
+
+PS: Die Optionen Abschließen und Aufschließen sind nur verfügbar wenn dieses unter Administration->Einstellungen->Abrechnung aktiviert wurde.
 
 
 Auch ein Doppelklick auf den Abrechnungslauf Eintrag zeigt den Abrechnungslauf an.

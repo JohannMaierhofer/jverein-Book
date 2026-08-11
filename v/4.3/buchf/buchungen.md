@@ -62,6 +62,7 @@ Folgende Menü Einträge sind vorhanden:
 * Sollbuchung zuordnen: Es öffnet ein Dialog zur Zuordnung einer Sollbuchung (siehe unten)
 * Projekt zuordnen: Es öffnet ein Dialog zur Zuordnung eine Projekts. Diese Option ist nur verfügbar wenn "Projekte" in den Einstellungen aktiviert ist
 * Kontoauszug zuordnen: Es öffnet ein Dialog zur Zuordnung eines Kontoauszugs
+* Buchungsreport: Erzeugt ein Dokument mit Hilfe eines auswählbaren Formulars, z.B. Ersatzbeleg
 
 Buchungen können nur neu aufgenommen, geändert oder gelöscht werden, wenn sie nicht durch einen [Jahresabschluss](jahresabschluss.md) abgeschlossen wurden.
 
