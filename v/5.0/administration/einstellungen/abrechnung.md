@@ -1,6 +1,6 @@
 # Abrechnung
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_EinstellungAbrechnung.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/500_EinstellungAbrechnung.png" alt="" /></picture>
 
 ## Beitragsmodell
 

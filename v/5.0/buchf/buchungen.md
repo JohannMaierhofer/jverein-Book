@@ -43,7 +43,7 @@ Die PDF-Auswertungen sind hier abrufbar. Ausführlich beschrieben werden sie im 
 
 Folgende Menü Einträge sind vorhanden:
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/403_BuchungenMenue.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/500_BuchungenMenue.png" alt="" /></picture>
 
 * Bearbeiten: Öffnet die Detailansicht für die selektierte Buchung
 * Als "geprüft" markieren: Markiert die Buchung als geprüft
@@ -62,6 +62,7 @@ Folgende Menü Einträge sind vorhanden:
 * Sollbuchung zuordnen: Es öffnet sich ein Dialog zur Zuordnung einer Sollbuchung (siehe unten)
 * Projekt zuordnen: Es öffnet sich ein Dialog zur Zuordnung eine Projekts. Diese Option ist nur verfügbar wenn "Projekte" in den Einstellungen aktiviert ist
 * Kontoauszug zuordnen: Es öffnet sich ein Dialog zur Zuordnung eines Kontoauszugs
+* Beleg zuordnen: Es öffnet sich ein Dialog zur Zuordnung von Belegen
 * Buchungsreport: Erzeugt ein Dokument mit Hilfe eines auswählbaren Formulars, z.B. Ersatzbeleg
 
 Buchungen können nur neu aufgenommen, geändert oder gelöscht werden, wenn sie nicht durch einen [Jahresabschluss](jahresabschluss.md) abgeschlossen wurden.

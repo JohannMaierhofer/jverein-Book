@@ -36,12 +36,12 @@ Der Übersicht View für Zusatzbeträge zeigt alle vorhandenen Zusatzbeträge an
 
 Über den Filterbereich lässt sich nach verschiedenen Kriterien filtern.
 
-Der Ausführungstag bietet folgende Optionen:
+Das Ausführung bietet folgende Optionen:
 
 * Alle: Es werden alle vorhandenen Zusatzbeträge angezeigt
-* Aktive: Es werden alle Zusatzbeträge angezeigt die noch in Abrechnungen berücksichtigt werden. Also keine einmaligen Zusatzbeträge mehr die schon ausgeführt wurden oder bei periodischen, keine mehr, bei denen die nächste Fälligkeit zum oder nach dem Endedatum liegt. Ob ein Zusatzbetrag beim einem Abrechnungslauf zum aktuellen Datum abgerechnet würde hängt von seiner nächsten Fälligkeit ab
-* Noch nicht ausgeführt: Einmalige Zusatzbeträge die noch nicht ausgeführt wurden
-* Liste mit Datum: Die Liste enthält Datum Einträge von kürzlich ausgeführten Abrechnungen
+* Aktive: Es werden alle Zusatzbeträge angezeigt die noch in Abrechnungen berücksichtigt werden. Also keine einmaligen Zusatzbeträge mehr die schon ausgeführt wurden oder bei periodischen, keine mehr, bei denen die nächste Fälligkeit zum oder nach dem Ende Datum liegt. Ob ein Zusatzbetrag beim einem Abrechnungslauf zum Stichtag abgerechnet würde hängt von seiner nächsten Fälligkeit ab
+* Überfällig: Zusatzbeträge deren nächste Fälligkeit vor dem aktuellen Datum liegt und die noch nicht beendet sind
+
 
 In der Tabelle werden folgende Spalten angezeigt:
 
@@ -59,7 +59,7 @@ In der Tabelle werden folgende Spalten angezeigt:
 * Steuer : Steuer (falls in Administration->Einstellungen->Buchführung die Option "Steuer individuell pro Buchung setzen" aktiviert ist)
 * Mitglied zahlt selbst
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_ZusatzBetraegeListeView.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/500_ZusatzBetraegeListeView.png" alt="" /></picture>
 
 Folgende Buttons stehen zu Verfügung:
 

@@ -9,7 +9,7 @@ Zur Nutzung der Kursteilnehmer ist die Option unter Administration->Einstellunge
 
 Teilnehmer von Kursen können abgerechnet werden. Kursteilnehmer sind Personen, die nicht Mitglied des Vereins sind.
 
-Dies ist ein veraltetes Feature.
+**Achtung: Dies ist ein veraltetes Feature. Es wird in der Version 5.0 aus JVerein entfernt !!!!**
 
 Sofern Mitglieder an Kursen teilnehmen, bieten sich die [Zusatzbeträge](../mitglieder/zusatzbetrage.md) an. Auch lassen sich Nicht-Mitglieder erstellen die über Zusatzbeträge abgerechnet werden können. Der Vorteil dabei ist, dass auch Mail Adressen eingegeben werden können und z.B. Pre-Notification oder Rechnungen an die Teilnehmer per Mail verschickt werden können. Für Kursteilnehmer lassen sich keine Rechnungen erzeugen weil es keine Sollbuchungseinträge gibt.
 

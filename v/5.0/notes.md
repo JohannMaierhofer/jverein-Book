@@ -8,9 +8,27 @@ Man kann also mit einer migrierten Datenbank nicht mehr auf eine ältere Version
 
 Gründe für die Inkompatibilität:
 * Für die Belegverwaltung musste die Datenbank Struktur geändert werden
+* Löschung des Supports für Kursteilnehmer
+* Umwandlung der Datenbank Attribute für Beträge von Double nach Decimal. Dies erlaubt eine exakte Speicherung von Beträgen ohne die Rundungsprobleme die mit der Format bedingten Umwandlung von Beträgen in das Fließkomma Format entstehen
+* Unterstützung der neueren H2DB Version
 
 
 ## The Big Ones
+
+### Support für Kursteilnehmer entfernt !!!
+
+* Das Feature Kursteilnehmer ist veraltet und wurde aus dem Code entfernt
+* Auch die entsprechenden Daten in der Datenbank wurden gelöscht
+* Werden Kursteilnehmer als Nicht-Mitglieder weiter benötigt, müssen sie in der 4.3 in Nicht-Mitglieder umgewandelt werden
+* Sollten Listen der Daten benötigt werden, so müssen sie noch mit der 4.3 generiert werden
+
+### Unterstützung einer aktuellen H2DB version
+
+Da die alte Version der H2 Datenbank fehlerhaft war und immer wieder zu Problemen führte wird jetzt die Migration zu einer aktuellen Version der Datenbank unterstützt.
+
+Die Datenbank Version wird von Jameica bereitgestellt. Sie ist dort in einer Version höher als 2.12 enthalten, also ab der 2.13.0-nightly.
+
+Die Option einer Migration wird beim Start von JVerein als Message Box angezeigt falls eine entsprechende Jameica Version installiert ist. Über einen Button lässt sich die Migration starten. Es wird dabei eine neue Datenbank mit neuem Namen erzeugt. Die alte Datenbank bleibt unverändert.
 
 ### Lokale Dokumentspeicherung
 
@@ -27,6 +45,9 @@ Unter Administration->Einstellungen->Vorlagen lassen sich die relativen Pfade f�
  
 Belege (Dokumente) lassen sich bei den Buchungen und Mitgliedern erstellen aber auch direkt aus der Anzeige der Liste. Erstellte Belege lassen sich auch nachträglich einer Buchung bzw. einem Mitglied zuordnen. Es ist z.B. auch möglich, einen Beleg mehreren Buchungen zuzuordnen. Ein Beleg kann auch von einer Buchung entfernt werden ohne ihn zu löschen.
 
+Über einen Menüpunkt Eintrag lassen sich die Belege auf Konsistenz prüfen.
+
+Datenbank bereinigen löscht auch Belege.
 
 ## Kleinere Korrekturen, Erweiterungen oder Modifikationen
 
@@ -43,8 +64,19 @@ Dieser bietet folgende Schalter:
 
 Bei Tabellen gibt es eine neue Spalte "Gesperrt" bzw. "Abgeschlossen". Sie ist standardmäßig ausgeblendet. Sie zeigt ein Schlosssymbol wenn der Eintrag nicht gelöscht werden kann. 
 
+### Weitere Variablen bei Zusatzbeträgen
+
+Bei den Buchungstext Variablen von Zusatzbeträgen werden weitere Variablen unterstützt.
+* Abrechnungslauf Variablen
+* Variablen aus Feldern des Zusatzbetrags wie z.B. die Fälligkeit des Zusatzbetrags
+
 
 ## Sonstiges
 
 * Bei Rechnungsformularen sind in den Variablen jetzt auch die Attribute des Zahlers verfügbar
+* Im Filterbereich der Zusatzbeträge sind weite Filter Optionen bereitgestellt
+* Mitgliedskonto Tab bei den Mitgliedern und Nicht-Mitgliedern in Sollbuchung umbenannt
+* Zahlung Tab bei den Mitgliedern umstrukturiert
+* Eigener Defaultwert für den Zahlungsweg von Nicht-Mitgliedern unter Einstellungen->Abrechnung
+* Im Rechnung View gibt es einen neuen Button um die Rechnung anzuzeigen
 

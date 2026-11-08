@@ -1,5 +1,20 @@
 # Allgemeines
 
+## JVerein Menü
+
+Das Jverein Menü wird in der oberen Leiste angezeigt.
+
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/500_jverein_menu.png" alt="" /></picture>
+
+Das Jverein Menü bietet folgende Menüeinträge:
+* Über: Zeigt die JVerein Version und Datenbank Version an
+* Lizenzinformationen: Listet die verwendeten Lizenzen auf
+* Neues Mitglied: Öffnet die Ansicht für ein neues Mitglied
+* Neue Buchung: Öffnet die Ansicht für eine neue Buchung
+* Neuer Abrechnungslauf: Öffnet den Abrechnungslauf Dialog
+* Erweitert-> Belege prüfen: Prüft die Belege auf Konsistenz
+* 
+
 ## Panel Buttons
 
 In der Panelleiste oben sind verschiedene Buttons verfügbar. Sie werden bei Ansichten mit Tabellen angezeigt.
