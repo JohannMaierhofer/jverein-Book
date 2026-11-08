@@ -1,8 +1,8 @@
-# Mitgliedskonto
+# Sollbuchungen
 
 In der Baumansicht werden die Summen pro Mitglied, die einzelnen Sollbuchungen (Rechnersymbol), sowie die einzelnen zugeordneten Istbuchungen (Euro-Symbol) angezeigt.
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/401_MitgliedskontoTab.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/500_SollbuchungenTab.png" alt="" /></picture>
 
 Durch einen Doppelklick auf eine
 

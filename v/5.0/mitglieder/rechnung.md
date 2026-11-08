@@ -58,4 +58,5 @@ Folgende Buttons stehen zu Verfügung:
 
 * Druck und Mail: Wechselt in den Dialog zum Drucken und Mailen der Rechnung, siehe [Rechnungen](../druckmail/rechnungen.md)
 * Mahnung Druck und Mail: Wechselt in den Dialog zum Drucken und Mailen einer Mahnung zur Rechnung, siehe [Mahnungen](../druckmail/mahnungen.md)
+* Rechnung anzeigen: Zeigt das Rechnungsdokument an
 * Speichern: Änderungen von Formular und Kommentar werden gespeichert

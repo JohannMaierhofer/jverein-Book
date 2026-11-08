@@ -12,8 +12,9 @@ Aktuell können folgende Daten gelöscht werden:
 * Rechnungen
 * Spendenbescheinigungen
 * Buchungen: Sind die Geschäftsjahre abgeschlossen bzw. sind ihnen noch Spendenbescheinigungen zugeordnet, lassen sie sich nicht löschen. Bei dieser Funktion sollten darum auch die Optionen "Jahresabschlüsse" und "Spendenbescheinigungen" für den ausgewählten Zeitraum mit ausgewählt werden. Da ein Löschen von Buchungen welche Sollbuchungen zugeordnet sind zu offenen Buchungen führen können hier auch die zugeordneten Sollbuchungen mit gelöscht werden.
+* Belege: Belege die noch abgeschlossenen Buchungen oder Mitgliedern zugeordnet sind werden nicht gelöscht
 * Lastschriften
 * Abrechnungsläufe
 * Mails
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_Bereinigung.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/500_BereinigungView.png" alt="" /></picture>
