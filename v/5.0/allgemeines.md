@@ -13,7 +13,6 @@ Das Jverein Menü bietet folgende Menüeinträge:
 * Neue Buchung: Öffnet die Ansicht für eine neue Buchung
 * Neuer Abrechnungslauf: Öffnet den Abrechnungslauf Dialog
 * Erweitert-> Belege prüfen: Prüft die Belege auf Konsistenz
-* 
 
 ## Panel Buttons
 
