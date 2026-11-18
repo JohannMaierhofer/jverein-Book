@@ -71,13 +71,34 @@ Buchungen können nur neu aufgenommen, geändert oder gelöscht werden, wenn sie
 
 Durch einen Klick auf den Button "Neu" kann eine neue Buchung erstellt werden.
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_BuchungDialog.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/500_BuchungDialog.png" alt="" /></picture>
 
 Falls es sich bei der Buchung um eine Geldspende um einen Verzicht auf Aufwendungen handelt, ist die entsprechende Checkbox zu selektieren.
 
 Handelt es sich bei der Buchung um eine Sachspende so sind die entsprechenden Angaben in der Buchung zu machen.
 
-Falls Dokumentspeicherung aktiviert ist, wird eine Liste angezeigt mit der sich Dokumente zuordnen lassen. Allgemeines zur Dokumentspeicherung siehe [Dokumente](../../../../sonstiges/dokumente.md).
+Falls Dokumentspeicherung aktiviert ist, wird eine Liste angezeigt mit der sich Belege zuordnen lassen. Allgemeines zur Dokumentspeicherung siehe [Dokumente](../../../../sonstiges/dokumente.md).
+
+Über den Button "Neuer Buchungsreport" kann ein Report mit den Daten der Buchung erstellt werden. Falls Dokumentenspeicherung aktiv ist, kann der Reports direkt als Beleg generiert werden. In diesem Fall kann auch die Belegnummer in den Report aufgenommen werden.
+
+## Buchungsreport
+
+Bei Selektion des Menüeintrags "Buchungsreport" oder des Buttons "Neuer Buchungsreport" erscheint folgender Dialog. 
+
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/500_BuchungsreportDialog.png" alt="" /></picture>
+
+Es ist ein Formular als Vorlage für den Report auszuwählen. 
+
+Ist Dokumentenspeicherung aktiv werden auch die weiteren Felder angezeigt:
+* Als Beleg speichern: Ist dies nicht selektiert wird mit Übernehmen der Pfadauswahldialog angezeigt in den das generierte Dokument gespeichert werden soll. Ist die Option ausgewählt, wird der Report direkt als Beleg bei der Buchung hinterlegt. Mit der Variablen "$beleg_nummer" lässt sich die Belegnummer in das Dokument einfügen.
+* Datum: Das Datum für den Beleg
+* Beleggruppe: Dieses Feld ist optional und wird als Wert in den Beleg übernommen
+
+Beispiel Ersatzbeleg:
+
+{% file src="../../../assets/500_FormularErsatzbeleg.xml" %}
+Ersatzbeleg
+{% endfile %}
 
 
 ## Zuordnung einer Buchung zu einer Sollbuchung

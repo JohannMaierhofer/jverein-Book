@@ -52,11 +52,11 @@ Durch einen Rechtsklick auf eine Rechnung öffnet sich ein Kontextmenü mit mehr
 
 Mit einem Doppelklick auf die Rechnung oder Klick auf Anzeigen wird die Rechnung angezeigt.
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/401_RechnungView.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/500_RechnungView.png" alt="" /></picture>
 
 Folgende Buttons stehen zu Verfügung:
 
 * Druck und Mail: Wechselt in den Dialog zum Drucken und Mailen der Rechnung, siehe [Rechnungen](../druckmail/rechnungen.md)
 * Mahnung Druck und Mail: Wechselt in den Dialog zum Drucken und Mailen einer Mahnung zur Rechnung, siehe [Mahnungen](../druckmail/mahnungen.md)
-* Rechnung anzeigen: Zeigt das Rechnungsdokument an
+* Anzeigen: Zeigt das Rechnungsdokument an
 * Speichern: Änderungen von Formular und Kommentar werden gespeichert
