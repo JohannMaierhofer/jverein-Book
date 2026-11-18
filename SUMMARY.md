@@ -989,6 +989,7 @@
     * [Buchführung](v/5.0/administration/admbuchf/README.md)
       * [Buchungsklassen](v/5.0/administration/admbuchf/buchungsklasse.md)
       * [Buchungsarten](v/5.0/administration/admbuchf/buchungsart.md)
+      * [Beleggruppen](v/5.0/administration/admbuchf/beleggruppe.md)
       * [Kontenrahmen Import Export](v/5.0/administration/admbuchf/kontenrahmen-import-export.md)
       * [Projekte](v/5.0/administration/admbuchf/projekte.md)
       * [Steuer](v/5.0/administration/admbuchf/steuer.md)

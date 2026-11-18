@@ -100,7 +100,7 @@ Soll nach Zusatzfelder gefiltert werden, kommt es auf den Datentyp des jeweilige
 
 ## Kontextmenu
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/402_MitgliedMenu.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/500_MitgliedMenu.png" alt="" /></picture>
 
 ### Bearbeiten
 
@@ -126,6 +126,14 @@ Die Icons haben fünf Zustände:
 
 <picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_EigenschaftenAuswahlDialog.png" alt="" /></picture>
 
+### Zusatzbetrag zuordnen
+
+Für alle markierten Mitglieder werden Zusatzbeiträge erzeugt.
+
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/401_ZusatzbetragDialog.png" alt="" /></picture>
+
+PS: Zur Nutzung der Zusatzbeträge ist die Option unter Administration->Einstellungen->Anzeige zu aktivieren.
+
 ### Arbeitseinsatz zuordnen
 
 Für alle markierten Mitglieder werden Arbeitseinsätze erzeugt.
@@ -134,13 +142,13 @@ Für alle markierten Mitglieder werden Arbeitseinsätze erzeugt.
 
 PS: Zur Nutzung der Arbeitseinsätze ist die Option unter Administration->Einstellungen->Anzeige zu aktivieren.
 
-### Zusatzbetrag zuordnen
+### Beleg zuordnen
 
-Für alle markierten Mitglieder werden Zusatzbeiträge erzeugt.
+Für alle markierten Mitglieder werden Belege zugeordnet.
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/401_ZusatzbetragDialog.png" alt="" /></picture>
+Der angezeigte Dialog entspricht dem der Liste der Belege. Es lassen sich auch mehrere Belege auswählen.
 
-PS: Zur Nutzung der Zusatzbeträge ist die Option unter Administration->Einstellungen->Anzeige zu aktivieren.
+PS: Zur Nutzung der Belege ist unter Administration->Einstellungen->Anzeige die Option Dokumentenspeicherung zu aktivieren.
 
 ### Zu Nicht-Mitglied umwandeln
 

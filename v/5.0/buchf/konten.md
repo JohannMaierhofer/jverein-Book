@@ -4,7 +4,7 @@
 
 Bei Auswahl des Konten Eintrags im Navigationsbaum werden alle Konten angezeigt.
 
-<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/320_KontenListeView.png" alt="" /></picture>
+<picture><img src="https://github.com/openjverein/jverein-Book/raw/master/assets/500_KontenListeView.png" alt="" /></picture>
 
 Durch Doppel Klick auf ein Konto werden die Daten der Kontos angezeigt.
 
@@ -17,6 +17,7 @@ Durch Doppel Klick auf ein Konto werden die Daten der Kontos angezeigt.
 
 * Konten zum Bearbeiten anzeigen
 * Ein Anfangsbestand erzeugen (Ab Version 4.1 wird beim Anlegen eines neuen Kontos automatisch ein Anfangsbestand zum Eröffnungsdatum des Kontos mit Betrag 0€ angelegt)
+* Beleg zuordnen: Diese Option ist nur verfügbar wenn unter Administration->Einstellungen->Anzeige die Option Dokumentenspeicherung aktiv ist
 * Das Konto löschen
 
 ## Kontenarten
@@ -30,6 +31,7 @@ Ab JVerein 2.8.23 wird die Unterstützung von Anlagenkonten erweitert. Anlagenko
 * Kontoart Anlagenkonto 
 * Anzeige der Anlagenkonten und AfA Buchungen in einem eigenen [Anlagenbuchungen View](anlagenbuchungen.md)
 * Erstellung eines [Anlagenverzeichnisses](anlagenverzeichnis.md)
+* Belege zuordnen: Nur verfügbar wenn 
 * Unterstützung bei der Generierung von AfA Buchungen
 
 Ab JVerein 3.0.0 gibt es zusätzlich folgende Kontoarten (Rücklagenkonten sind unter Administration->Einstellungen->Anzeige zu aktivieren):

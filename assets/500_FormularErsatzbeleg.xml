@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects>
+  <object type="de.jost_net.JVerein.server.FormularImpl" id="42">
+    <zaehler type="java.lang.Integer">0</zaehler>
+    <art type="java.lang.Integer">9</art>
+    <bezeichnung type="java.lang.String">Ersatzbeleg</bezeichnung>
+    <inhalt type="[B">JVBERi0xLjcKJcOkw7zDtsOfCjIgMCBvYmoKPDwvTGVuZ3RoIDMgMCBSL0ZpbHRlci9GbGF0ZURl
+Y29kZT4+CnN0cmVhbQp4nDPQM1Qo5ypUMFAw0DMwslAwMbTUMzWyUDCyNNczM7BUKErlCtdSyOMK
+VAAAtuQIrwplbmRzdHJlYW0KZW5kb2JqCgozIDAgb2JqCjUwCmVuZG9iagoKNSAwIG9iago8PAo+
+PgplbmRvYmoKCjYgMCBvYmoKPDwvRm9udCA1IDAgUi9Qcm9jU2V0Wy9QREYvVGV4dF0KPj4KZW5k
+b2JqCgoxIDAgb2JqCjw8L1R5cGUvUGFnZS9QYXJlbnQgNCAwIFIvUmVzb3VyY2VzIDYgMCBSL01l
+ZGlhQm94WzAgMCA0MTkuNTU1OTA1NTExODExIDI5Ny42Mzc3OTUyNzU1OTFdL1RhYnMvUwovQ29u
+dGVudHMgMiAwIFI+PgplbmRvYmoKCjcgMCBvYmoKPDwvVHlwZS9NZXRhZGF0YS9TdWJ0eXBlL1hN
+TC9MZW5ndGggNDk1MT4+CnN0cmVhbQo8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENl
+aGlIenJlU3pOVGN6a2M5ZCI/Pgo8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIj4K
+IDxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3lu
+dGF4LW5zIyI+CiAgPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6cGRmPSJodHRw
+Oi8vbnMuYWRvYmUuY29tL3BkZi8xLjMvIj4KICAgPHBkZjpQcm9kdWNlcj5MaWJyZU9mZmljZSAy
+Ni4yLjUuMiAoWDg2XzY0KTwvcGRmOlByb2R1Y2VyPgogICA8cGRmOlBERlZlcnNpb24+MS43PC9w
+ZGY6UERGVmVyc2lvbj4KICA8L3JkZjpEZXNjcmlwdGlvbj4KICA8cmRmOkRlc2NyaXB0aW9uIHJk
+ZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iPgogICA8
+eG1wOkNyZWF0b3JUb29sPldyaXRlcjwveG1wOkNyZWF0b3JUb29sPgogICA8eG1wOkNyZWF0ZURh
+dGU+MjAyNi0wOC0xMFQxNjo1Mzo1NCswMjowMDwveG1wOkNyZWF0ZURhdGU+CiAgIDx4bXA6TW9k
+aWZ5RGF0ZT4yMDI2LTA4LTEwVDE2OjUzOjU0KzAyOjAwPC94bXA6TW9kaWZ5RGF0ZT4KICAgPHht
+cDpNZXRhZGF0YURhdGU+MjAyNi0wOC0xMFQxNjo1Mzo1NCswMjowMDwveG1wOk1ldGFkYXRhRGF0
+ZT4KICA8L3JkZjpEZXNjcmlwdGlvbj4KIDwvcmRmOlJERj4KPC94OnhtcG1ldGE+CiAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCjw/eHBh
+Y2tldCBlbmQ9InciPz4KCmVuZHN0cmVhbQplbmRvYmoKCjQgMCBvYmoKPDwvVHlwZS9QYWdlcwov
+UmVzb3VyY2VzIDYgMCBSCi9LaWRzWyAxIDAgUiBdCi9Db3VudCAxPj4KZW5kb2JqCgo4IDAgb2Jq
+Cjw8L1R5cGUvQ2F0YWxvZy9QYWdlcyA0IDAgUgovUGFnZUxheW91dC9TaW5nbGVQYWdlCi9QYWdl
+TW9kZS9Vc2VPdXRsaW5lcwovT3BlbkFjdGlvblsxIDAgUiAvWFlaIG51bGwgbnVsbCAwLjVdCi9M
+YW5nKGRlLURFKQovTWV0YWRhdGEgNyAwIFI+PgplbmRvYmoKCjkgMCBvYmoKPDwvQ3JlYXRvcjxG
+RUZGMDA1NzAwNzIwMDY5MDA3NDAwNjUwMDcyPi9Qcm9kdWNlcjxGRUZGMDA0QzAwNjkwMDYyMDA3
+MjAwNjUwMDRGMDA2NjAwNjYwMDY5MDA2MzAwNjUwMDIwMDAzMjAwMzYwMDJFMDAzMjAwMkUwMDM1
+MDAyRTAwMzIwMDIwMDAyODAwNTgwMDM4MDAzNjAwNUYwMDM2MDAzNDAwMjk+L0NyZWF0aW9uRGF0
+ZShEOjIwMjYwODEwMTY1MzU0KzAyJzAwJyk+PgplbmRvYmoKCnhyZWYKMCAxMAowMDAwMDAwMDAw
+IDY1NTM1IGYgCjAwMDAwMDAyMzMgMDAwMDAgbiAKMDAwMDAwMDAxOSAwMDAwMCBuIAowMDAwMDAw
+MTQwIDAwMDAwIG4gCjAwMDAwMDUzOTIgMDAwMDAgbiAKMDAwMDAwMDE1OSAwMDAwMCBuIAowMDAw
+MDAwMTgxIDAwMDAwIG4gCjAwMDAwMDAzNjQgMDAwMDAgbiAKMDAwMDAwNTQ2NSAwMDAwMCBuIAow
+MDAwMDA1NjIzIDAwMDAwIG4gCnRyYWlsZXIKPDwvU2l6ZSAxMC9Sb290IDggMCBSCi9JbmZvIDkg
+MCBSCi9JRCBbIDxGNzcwODYzRTVBRDM4N0IzNjRBNDU4Rjc0MzdBRDNBMz4KPEY3NzA4NjNFNUFE
+Mzg3QjM2NEE0NThGNzQzN0FEM0EzPiBdCi9Eb2NDaGVja3N1bSAvNjcwODdDODgzRkZFNDFBQjVF
+NTRBNEUxN0UwQjc2NjgKPj4Kc3RhcnR4cmVmCjU4NTEKJSVFT0YK</inhalt>
+  </object>
+  <object type="de.jost_net.JVerein.server.FormularfeldImpl" id="58">
+    <formular type="java.lang.Integer">42</formular>
+    <name type="java.lang.String">$verein_name</name>
+    <x type="java.lang.Double">15.0</x>
+    <y type="java.lang.Double">90.0</y>
+    <fontsize type="java.lang.Integer">12</fontsize>
+    <seite type="java.lang.Integer">1</seite>
+    <font type="java.lang.String">Carlito-Regular</font>
+    <ausrichtung type="java.lang.Integer">0</ausrichtung>
+  </object>
+  <object type="de.jost_net.JVerein.server.FormularfeldImpl" id="59">
+    <formular type="java.lang.Integer">42</formular>
+    <name type="java.lang.String">$buchung_kontonummer
+$buchung_name
+
+$buchung_betrag
+$buchung_betraginworten
+
+$buchung_zweck1</name>
+    <x type="java.lang.Double">40.0</x>
+    <y type="java.lang.Double">65.0</y>
+    <fontsize type="java.lang.Integer">12</fontsize>
+    <seite type="java.lang.Integer">1</seite>
+    <font type="java.lang.String">Carlito-Regular</font>
+    <ausrichtung type="java.lang.Integer">0</ausrichtung>
+  </object>
+  <object type="de.jost_net.JVerein.server.FormularfeldImpl" id="60">
+    <formular type="java.lang.Integer">42</formular>
+    <name type="java.lang.String">Konto:
+Einzahler:
+
+Betrag:
+In Worten:
+
+Zweck:</name>
+    <x type="java.lang.Double">15.0</x>
+    <y type="java.lang.Double">65.0</y>
+    <fontsize type="java.lang.Integer">12</fontsize>
+    <seite type="java.lang.Integer">1</seite>
+    <font type="java.lang.String">Carlito-Regular</font>
+    <ausrichtung type="java.lang.Integer">0</ausrichtung>
+  </object>
+  <object type="de.jost_net.JVerein.server.FormularfeldImpl" id="61">
+    <formular type="java.lang.Integer">42</formular>
+    <name type="java.lang.String">Ersatzbeleg</name>
+    <x type="java.lang.Double">73.0</x>
+    <y type="java.lang.Double">80.0</y>
+    <fontsize type="java.lang.Integer">15</fontsize>
+    <seite type="java.lang.Integer">1</seite>
+    <font type="java.lang.String">Carlito-Regular</font>
+    <ausrichtung type="java.lang.Integer">2</ausrichtung>
+  </object>
+  <object type="de.jost_net.JVerein.server.FormularfeldImpl" id="62">
+    <formular type="java.lang.Integer">42</formular>
+    <name type="java.lang.String">Rechnungsjahr $udateformat.format(&quot;yyyy&quot;, $dateformat.parse($buchung_datum))</name>
+    <x type="java.lang.Double">73.0</x>
+    <y type="java.lang.Double">75.0</y>
+    <fontsize type="java.lang.Integer">11</fontsize>
+    <seite type="java.lang.Integer">1</seite>
+    <font type="java.lang.String">Carlito-Regular</font>
+    <ausrichtung type="java.lang.Integer">2</ausrichtung>
+  </object>
+  <object type="de.jost_net.JVerein.server.FormularfeldImpl" id="63">
+    <formular type="java.lang.Integer">42</formular>
+    <name type="java.lang.String">$verein_ort, den $tagesdatum</name>
+    <x type="java.lang.Double">15.0</x>
+    <y type="java.lang.Double">20.0</y>
+    <fontsize type="java.lang.Integer">11</fontsize>
+    <seite type="java.lang.Integer">1</seite>
+    <font type="java.lang.String">Carlito-Regular</font>
+    <ausrichtung type="java.lang.Integer">0</ausrichtung>
+  </object>
+  <object type="de.jost_net.JVerein.server.FormularfeldImpl" id="64">
+    <formular type="java.lang.Integer">42</formular>
+    <name type="java.lang.String">Beleg-Nr. $beleg_nummer</name>
+    <x type="java.lang.Double">130.0</x>
+    <y type="java.lang.Double">90.0</y>
+    <fontsize type="java.lang.Integer">12</fontsize>
+    <seite type="java.lang.Integer">1</seite>
+    <font type="java.lang.String">Carlito-Regular</font>
+    <ausrichtung type="java.lang.Integer">1</ausrichtung>
+  </object>
+</objects>

@@ -43,7 +43,9 @@ Unter Administration->Einstellungen->Vorlagen lassen sich die relativen Pfade f�
 
  Alle hinterlegten Belege werden in einem neuen View (Buchführung->Belege) angezeigt. Hier gibt es auch eine Filter Möglichkeit.
  
-Belege (Dokumente) lassen sich bei den Buchungen und Mitgliedern erstellen aber auch direkt aus der Anzeige der Liste. Erstellte Belege lassen sich auch nachträglich einer Buchung bzw. einem Mitglied zuordnen. Es ist z.B. auch möglich, einen Beleg mehreren Buchungen zuzuordnen. Ein Beleg kann auch von einer Buchung entfernt werden ohne ihn zu löschen.
+Belege (Dokumente) lassen sich bei den Konten, Buchungen und Mitgliedern erstellen aber auch direkt aus der Anzeige der Liste. Erstellte Belege lassen sich auch nachträglich einer Buchung bzw. einem Mitglied zuordnen. Es ist z.B. auch möglich, einen Beleg mehreren Buchungen zuzuordnen. Ein Beleg kann auch von einer Buchung entfernt werden ohne ihn zu löschen.
+
+Über die Kontextmenüs von Konten, Buchungen und Mitglieder lassen sich bestehende Beleg zuordnen.
 
 Über einen Menüpunkt Eintrag lassen sich die Belege auf Konsistenz prüfen.
 
@@ -70,6 +72,12 @@ Bei den Buchungstext Variablen von Zusatzbeträgen werden weitere Variablen unte
 * Abrechnungslauf Variablen
 * Variablen aus Feldern des Zusatzbetrags wie z.B. die Fälligkeit des Zusatzbetrags
 
+### Buchungsreport als Beleg
+
+Der Buchungsreport lässt sich bei aktivierter Dokumentenspeicherung direkt als Buchungsdokument hinterlegen.
+
+Auch kann die Belegnummer direkt im Formular als Variable eingefügt werden.
+
 
 ## Sonstiges
 
@@ -79,4 +87,9 @@ Bei den Buchungstext Variablen von Zusatzbeträgen werden weitere Variablen unte
 * Zahlung Tab bei den Mitgliedern umstrukturiert
 * Eigener Defaultwert für den Zahlungsweg von Nicht-Mitgliedern unter Einstellungen->Abrechnung
 * Im Rechnung View gibt es einen neuen Button um die Rechnung anzuzeigen
+* Bei den Listenanzeigen wurden neue Spalten optional hinzugefügt, wenn das entsprechende Objekt diese Attribute hatte, aber bisher nicht als Spalte angeboten wurden
+* Die MandatId wird auf gültige Zeichen überprüft (es können nur gültige Zeichen eingegeben werden)
+* Die Lasche "Zahlung" beim Mitglied wurde umstrukturiert um Missverständnisse zu vermeiden
+* Überweisungen werden jetzt als bankseitige Sammelüberweisung mit Ausführungsdatum übergeben
+* Eine Rechnung kann über einen neuen Button direkt angezeigt werden
 
