@@ -18,17 +18,16 @@ Gründe für die Inkompatibilität:
 ### Support für Kursteilnehmer entfernt !!!
 
 * Das Feature Kursteilnehmer ist veraltet und wurde aus dem Code entfernt
-* Auch die entsprechenden Daten in der Datenbank wurden gelöscht
 * Werden Kursteilnehmer als Nicht-Mitglieder weiter benötigt, müssen sie in der 4.3 in Nicht-Mitglieder umgewandelt werden
 * Sollten Listen der Daten benötigt werden, so müssen sie noch mit der 4.3 generiert werden
 
 ### Unterstützung einer aktuellen H2DB version
 
-Da die alte Version der H2 Datenbank fehlerhaft war und immer wieder zu Problemen führte wird jetzt die Migration zu einer aktuellen Version der Datenbank unterstützt.
+Da die alte Version der H2 Datenbank fehlerhaft war und immer wieder zu Problemen führte, wird jetzt die Migration zu einer aktuellen Version der Datenbank unterstützt.
 
 Die Datenbank Version wird von Jameica bereitgestellt. Sie ist dort in einer Version höher als 2.12 enthalten, also ab der 2.13.0-nightly.
 
-Die Option einer Migration wird beim Start von JVerein als Message Box angezeigt falls eine entsprechende Jameica Version installiert ist. Über einen Button lässt sich die Migration starten. Es wird dabei eine neue Datenbank mit neuem Namen erzeugt. Die alte Datenbank bleibt unverändert.
+Die Option einer Migration wird beim Start von JVerein als Message Box angezeigt, falls eine entsprechende Jameica Version installiert ist. Über einen Button lässt sich die Migration starten. Es wird dabei eine neue Datenbank mit neuem Namen erzeugt. Die alte Datenbank bleibt unverändert.
 
 ### Lokale Dokumentspeicherung
 
@@ -43,7 +42,7 @@ Unter Administration->Einstellungen->Vorlagen lassen sich die relativen Pfade f�
 
  Alle hinterlegten Belege werden in einem neuen View (Buchführung->Belege) angezeigt. Hier gibt es auch eine Filter Möglichkeit.
  
-Belege (Dokumente) lassen sich bei den Konten, Buchungen und Mitgliedern erstellen aber auch direkt aus der Anzeige der Liste. Erstellte Belege lassen sich auch nachträglich einer Buchung bzw. einem Mitglied zuordnen. Es ist z.B. auch möglich, einen Beleg mehreren Buchungen zuzuordnen. Ein Beleg kann auch von einer Buchung entfernt werden ohne ihn zu löschen.
+Belege (Dokumente) lassen sich bei den Konten, Buchungen und Mitgliedern erstellen, aber auch direkt aus der Anzeige der Liste. Erstellte Belege lassen sich auch nachträglich einem Konto, einer Buchung bzw. einem Mitglied zuordnen. Es ist z.B. auch möglich, einen Beleg mehreren Buchungen zuzuordnen. Ein Beleg kann auch von Konten, Mitgliedern und Buchungen entfernt werden ohne ihn zu löschen.
 
 Über die Kontextmenüs von Konten, Buchungen und Mitglieder lassen sich bestehende Beleg zuordnen.
 
@@ -84,12 +83,11 @@ Auch kann die Belegnummer direkt im Formular als Variable eingefügt werden.
 * Bei Rechnungsformularen sind in den Variablen jetzt auch die Attribute des Zahlers verfügbar
 * Im Filterbereich der Zusatzbeträge sind weite Filter Optionen bereitgestellt
 * Mitgliedskonto Tab bei den Mitgliedern und Nicht-Mitgliedern in Sollbuchung umbenannt
-* Zahlung Tab bei den Mitgliedern umstrukturiert
+* Zahlung Tab bei den Mitgliedern wurde umstrukturiert um Missverständnisse zu vermeiden
 * Eigener Defaultwert für den Zahlungsweg von Nicht-Mitgliedern unter Einstellungen->Abrechnung
 * Im Rechnung View gibt es einen neuen Button um die Rechnung anzuzeigen
 * Bei den Listenanzeigen wurden neue Spalten optional hinzugefügt, wenn das entsprechende Objekt diese Attribute hatte, aber bisher nicht als Spalte angeboten wurden
 * Die MandatId wird auf gültige Zeichen überprüft (es können nur gültige Zeichen eingegeben werden)
-* Die Lasche "Zahlung" beim Mitglied wurde umstrukturiert um Missverständnisse zu vermeiden
 * Überweisungen werden jetzt als bankseitige Sammelüberweisung mit Ausführungsdatum übergeben
 * Eine Rechnung kann über einen neuen Button direkt angezeigt werden
 

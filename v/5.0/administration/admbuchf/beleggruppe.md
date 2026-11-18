@@ -7,7 +7,7 @@ Zur Nutzung der Beleggruppen ist unter Administration->Einstellungen->Anzeige di
 
 ## Allgemeines
 
-Die Beleggruppen dienen um Belege gruppieren zu können. So kann die Beleggruppe als teil des Speicherpfades eines Belegs verwendet werden. Auch kann in der Liste der Belege nach der Beleggruppe gefiltert werden.
+Die Beleggruppen dienen dazu Belege gruppieren zu können. So kann die Beleggruppe als Teil des Speicherpfades eines Belegs verwendet werden. Auch kann in der Liste der Belege nach der Beleggruppe gefiltert werden.
 
 ## Liste der Beleggruppen
 
