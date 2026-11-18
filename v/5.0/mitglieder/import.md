@@ -50,18 +50,11 @@ Die Importdatei muss im CSV Format sein und kann folgende Spalten haben:
 * eigenschaft\_NAME (wird bei allem anderen als nein, false gesetzt)
 * zusatzfeld\_NAME
 * sekundaer\_NAME für sekundäre Beitragsgruppen (wird bei allem anderen als nein, false gesetzt)
+*  voll_zahlerid Id des referenzierten Vollzahlers im Familienverband (siehe unten)
+*  abweichende_zahlerid Id des referenzierten abweichenden Zahlers (siehe unten)
 
 Felder mit anderem Namen werden ignoriert
 
-Ab Version 4.1 lassen sich auch Zugehörigkeit zu einem Familienverband und abweichende Zahler importieren. Der entsprechende Vollzahler bzw. Abweichende Zahler muss allerdings schon in JVerein existieren.
-
-Ab Version 4.3 lässt sich ein Familienverband auch mit einem einmaligen Import durchführen. Voraussetzung ist, dass Externe Mitgliedsnummer aktiv ist.
-
-Die entsprechenden Attribute sind:
-* zahlerid Id des Vollzahlenden Mitglieds
-* externezahlerid Externe Mitgliedsnummer des Vollzahlenden Mitglieds (nur wenn unter Einstellungen die externe Mitgliedsnummer aktiviert ist, nicht zusammen mit zahlerid)
-* alternativer_zahlerid Id des abweichenden Zahlers
-
-Mit externezahlerid kann ein Familienverband in einem einzigen Import angelegt werden. Der Vollzahler kann in derselben Datei stehen, die Reihenfolge der Zeilen spielt keine Rolle. Zeilen mit externezahlerid werden nach allen anderen Zeilen verarbeitet.
-
-Im Falle eines  Abweichenden Zahlers bzw. wenn Externe Mitgliedsnummer nicht aktiv ist, auch bei Vollzahler, ist erst ein Import durchzuführen bei dem nur die Mitglieder importiert werden. In einem zweiten Import kann dann die Mitglieder nochmals importiert werden, die einem Vollzahler zugewiesen werden sollen bzw. bei denen ein abweichender Zahler gesetzt werden soll.
+Beim Import von Mitgliedern lassen lassen sich auch Verweise auf Vollzahler im Familienverband und auf abweichende Zahler direkt importieren.
+* voll_zahlerid und abweichende_zahlerid referenzieren immer die Id eines Mitglieds oder Nicht-Mitglieds. Bei bereits in JVerein vorhandenen Mitgliedern oder Nicht-Mitgliedern ist es eine positive Zahl wie in der Spalte Mitgliedsnummer angezeigt. Soll auf ein Mitglied verwiesen werden welches erst in der Importdatei erzeugt wird, dann werden negative Zahlen verwendet. Diese Id muss beim referenzierten Eintrag in der Spalte "id" eingefügt werden
+* Die Reihenfolge der Einträge in der Importdatei ist egal

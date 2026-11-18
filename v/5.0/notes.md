@@ -77,6 +77,16 @@ Der Buchungsreport lässt sich bei aktivierter Dokumentenspeicherung direkt als 
 
 Auch kann die Belegnummer direkt im Formular als Variable eingefügt werden.
 
+### Mitgliederimport mit Verweisen
+
+Beim Import von Mitgliedern lassen lassen sich jetzt Verweise auf Vollzahler im Familienverband und auf abweichende Zahler direkt importieren.
+
+Folgendes wurde geändert:
+* Das Attribut zahlerid wurde in voll_zahlerid umbenannt (Es ist der Verweis auf den Vollzahler im Familienverband)
+* Das Attribut alternativer_zahlerid wurde in abweichende_zahlerid umbenannt
+* Das Attribut externeZahlerId welches in 4.3 eingeführt wurde, wurde wieder entfernt
+* voll_zahlerid und abweichende_zahlerid referenzieren immer die Id eines Mitglieds oder Nicht-Mitglieds. Bei bereits in JVerein vorhandenen Mitgliedern oder Nicht-Mitgliedern ist es eine positive Zahl wie in der Spalte Mitgliedsnummer angezeigt. Soll auf ein Mitglied verwiesen werden welches erst in der Importdatei erzeugt wird, dann werden negative Zahlen verwendet. Diese Id muss beim referenzierten Eintrag in der Spalte "id" eingefügt werden
+* Die Reihenfolge der Einträge in der Importdatei ist egal
 
 ## Sonstiges
 
